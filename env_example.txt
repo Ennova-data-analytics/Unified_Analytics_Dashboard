@@ -1,0 +1,23 @@
+# =============================================================================
+# .env.example — Copy this to .env and fill in your actual values
+# =============================================================================
+
+# GA4 Property IDs (find these in GA4 Admin → Property Settings → Property ID)
+# Format: properties/XXXXXXXXX
+GA4_PROPERTY_ID_MAIN=properties/000000000
+GA4_PROPERTY_ID_EVENTS=properties/000000000
+
+# Path to your Google Cloud service account JSON key file
+# (download from Google Cloud Console → IAM → Service Accounts → Keys)
+GOOGLE_SERVICE_ACCOUNT_FILE=service_account.json
+
+# Set to false if you haven't configured the user_id custom dimension in GA4 yet
+# The pipeline will still work — custom_user_id will just be NULL
+ENABLE_CUSTOM_USER_ID=true
+
+# PostgreSQL connection details
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=your_database_name
+DB_USER=your_username
+DB_PASSWORD=your_password
