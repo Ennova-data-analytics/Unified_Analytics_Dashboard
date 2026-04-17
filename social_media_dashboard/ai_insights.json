@@ -1,0 +1,186 @@
+{
+  "generatedBy": "Claude AI analysis of 220 scraped Instagram posts",
+  "generatedDate": "2026-04-17",
+  "dataSource": "Apify instagram-scraper via REST API",
+
+  "executiveSummary": "Ennova sits at 2,720 followers with a 2.1% overall engagement rate across 220 analysed posts (Sep 2024 to Apr 2026). The account has clear strengths in community and educational content, particularly reels over 30 seconds. However, posting frequency is volatile (32 posts in Feb 2026, then 14 in March, 13 so far in April) and the bottom quartile is dominated by urgency based announcement posts with under 0.5% ER, dragging the average down. The opportunity is to shift the content mix away from low performing announcements and toward community, educational, and longer form reels where engagement consistently doubles.",
+
+  "whatsWorking": [
+    {
+      "finding": "Community and Culture content is the top performing pillar",
+      "evidence": "31 posts averaging 2.66% ER, 66.7 likes, 5.7 comments. Best in every metric.",
+      "dataPoint": "2.66% ER vs 2.1% account average (27% above average)",
+      "confidence": "high"
+    },
+    {
+      "finding": "Reels significantly outperform static images and carousels",
+      "evidence": "100 reels at 2.6% ER vs 26 images at 1.4% ER and 94 carousels at 1.77% ER.",
+      "dataPoint": "Reels deliver 86% more engagement than static images",
+      "confidence": "high"
+    },
+    {
+      "finding": "Longer reels (60s+) perform best among all content formats",
+      "evidence": "12 reels over 60 seconds average 3.07% ER and 2,053 views. 30 to 60 second reels also strong at 2.91% ER, 941 views.",
+      "dataPoint": "60s+ reels: 3.07% ER, 2,053 avg views (vs 980 overall reel average)",
+      "confidence": "medium (n=12 for 60s+ bucket, decent but not large)"
+    },
+    {
+      "finding": "Longer captions drive higher engagement",
+      "evidence": "60+ word captions average 2.76% ER (22 posts) vs under 20 words at 1.76% (91 posts). Medium length (20 to 60 words) sits at 2.26%.",
+      "dataPoint": "57% higher ER for long captions vs short captions",
+      "confidence": "high"
+    },
+    {
+      "finding": "Identity and team showcase hooks dominate the top 10",
+      "evidence": "Top posts include: 'Meet the team working hard behind the scenes', 'The faces driving ENTREPENEURSHIP at Esade. Meet Ennova', 'Meet Our Team! The Sports Department is recruiting'. 5 of the top 20 posts use identity framing.",
+      "dataPoint": "Identity hook posts average 5.1% ER across the top 20",
+      "confidence": "high"
+    },
+    {
+      "finding": "Monday is the strongest posting day",
+      "evidence": "37 posts on Mondays average 2.56% ER, the highest of any day. Saturday and Sunday also perform well (2.33% and 2.27%) but with smaller sample sizes (19 and 17 posts).",
+      "dataPoint": "Monday 2.56% ER vs Friday 1.81% ER (worst day)",
+      "confidence": "high"
+    },
+    {
+      "finding": "Evening posts (8pm UTC) hit the highest engagement",
+      "evidence": "Posts at 20:00 UTC average 3.23% ER (13 posts). 15:00 UTC also strong at 3.21% (13 posts). These translate to roughly 10pm and 5pm CET.",
+      "dataPoint": "3.23% ER at 20:00 UTC vs 1.32% at 14:00 UTC",
+      "confidence": "medium (13 posts per slot is adequate but not definitive)"
+    },
+    {
+      "finding": "Spanish language hooks resonate strongly",
+      "evidence": "The post 'Quieres saber lo que buscan los inversores de venture capital' reached 5.07% ER. 'Error comun en emprendimiento: no saber cuando parar' hit 4.3% ER.",
+      "dataPoint": "Spanish hook posts in top 20 average 4.69% ER",
+      "confidence": "medium (small sample of bilingual posts, but consistently above average)"
+    }
+  ],
+
+  "whatsNotWorking": [
+    {
+      "finding": "Urgency and scarcity based announcements consistently underperform",
+      "evidence": "The bottom 8 posts are dominated by 'Last call', 'Limited Spots', '2 DAYS LEFT', 'Last chance'. All under 0.5% ER.",
+      "dataPoint": "Bottom 8 posts average 0.38% ER, all using urgency language",
+      "confidence": "high"
+    },
+    {
+      "finding": "Static images are the weakest format",
+      "evidence": "26 image posts average just 1.4% ER and 36.6 likes. They get 1.6 comments on average, the lowest engagement of any format.",
+      "dataPoint": "Images: 1.4% ER vs Reels: 2.6% ER (46% less)",
+      "confidence": "high"
+    },
+    {
+      "finding": "Entrepreneurship pillar underperforms despite being a core brand pillar",
+      "evidence": "12 posts averaging 1.63% ER and 40.6 likes. This is the worst performing content pillar. Only 5.5% of the content mix.",
+      "dataPoint": "Entrepreneurship: 1.63% ER (22% below account average)",
+      "confidence": "medium (n=12, small sample but consistent underperformance)"
+    },
+    {
+      "finding": "Short captions under 20 words hurt engagement",
+      "evidence": "91 posts (41%) have short captions at 1.76% ER. That is 41% of all content performing below average.",
+      "dataPoint": "1.76% ER for short vs 2.76% for long (57% gap)",
+      "confidence": "high"
+    },
+    {
+      "finding": "Posting frequency is unstable and drops during exam and holiday periods",
+      "evidence": "May 2025 had only 3 posts. June and July 2025 had zero. December 2025 had just 2. Then Feb 2026 spiked to 32.",
+      "dataPoint": "Range: 0 to 32 posts per month (high volatility)",
+      "confidence": "high"
+    },
+    {
+      "finding": "Friday is the worst day to post",
+      "evidence": "30 Friday posts average 1.81% ER, the lowest of any weekday. Thursday is also weak at 1.86%.",
+      "dataPoint": "Friday 1.81% vs Monday 2.56% (29% lower)",
+      "confidence": "high"
+    },
+    {
+      "finding": "2 to 3 slide carousels get low engagement",
+      "evidence": "10 two slide carousels average 1.33% ER. 18 three slide carousels average just 0.96% ER, the worst of any carousel length.",
+      "dataPoint": "3 slide carousels: 0.96% ER (54% below account average)",
+      "confidence": "high"
+    }
+  ],
+
+  "opportunities": [
+    {
+      "opportunity": "Shift 50% of announcement posts to reel format with value first hooks",
+      "reasoning": "Announcements make up 18.2% of content but average only 1.8% ER. The top performing announcement ('They succeeded. Now it is your turn.' at 5.15% ER) used an aspirational hook, not urgency. Converting event announcements into 30 to 60 second teaser reels with storytelling hooks instead of 'Register now' could lift this pillar by 40%+ based on the reel ER advantage.",
+      "expectedImpact": "Estimated lift of 0.3 to 0.5 percentage points on overall ER if half of announcements move to reels",
+      "effort": "medium"
+    },
+    {
+      "opportunity": "Double down on 30 to 60 second reels as the primary format",
+      "reasoning": "30 to 60s reels hit 2.91% ER with 941 avg views across 43 posts. This is the largest high performing bucket. 60s+ reels are even stronger (3.07% ER) but with only 12 posts. Targeting 60% reels in the content mix (up from current 45%) with emphasis on the 30 to 60s range would raise the floor.",
+      "expectedImpact": "Estimated 0.2 to 0.4 point ER lift if reel share moves from 45% to 60%",
+      "effort": "low"
+    },
+    {
+      "opportunity": "Build a minimum caption length rule of 20+ words",
+      "reasoning": "91 posts (41%) have under 20 word captions at 1.76% ER. The data clearly shows longer captions perform better. Even just crossing the 20 word threshold adds 0.5 points of ER. This is the easiest win: it costs zero extra production time.",
+      "expectedImpact": "Could lift overall ER by 0.15 to 0.2 points if short captions are eliminated",
+      "effort": "low"
+    },
+    {
+      "opportunity": "Post more bilingual (Spanish and English) content",
+      "reasoning": "ESADE is in Barcelona with a mixed Spanish and international student body. The few Spanish language hooks in the dataset outperform English only hooks. Bilingual carousels or reels with Spanish text overlays and English captions could capture both audiences.",
+      "expectedImpact": "Moderate, likely 10 to 20% ER boost on bilingual posts based on existing pattern",
+      "effort": "low"
+    },
+    {
+      "opportunity": "Fix the entrepreneurship content pillar with stronger hooks and longer formats",
+      "reasoning": "Entrepreneurship is core to Ennova's brand ('Inspiring the next wave of innovators') yet it is the worst performing pillar at 1.63% ER and only 5.5% of content. The myth buster hook 'This is the #1 misconception people have' (5.55% ER) shows the path: contrarian or surprising angles on entrepreneurship, delivered as reels, not static carousel tips.",
+      "expectedImpact": "Could lift the pillar from 1.63% to 2.5%+ if reformatted as reels with strong hooks",
+      "effort": "medium"
+    },
+    {
+      "opportunity": "Consolidate posting to Monday, Wednesday, and Saturday evenings",
+      "reasoning": "Monday (2.56%), Wednesday (2.15%), and Saturday (2.33%) are the three strongest posting days. Evening slots at 8pm and 3pm UTC (10pm and 5pm CET) are the top hours. Focusing 3 posts per week on these optimal slots instead of spreading thin across 7 days would maximise each post's reach.",
+      "expectedImpact": "10 to 15% ER improvement by aligning posting schedule with proven timing windows",
+      "effort": "low"
+    }
+  ],
+
+  "nextPosts": [
+    {
+      "idea": "Behind the scenes reel showing what the IdeaUp Final Gala preparation actually looks like",
+      "format": "reel",
+      "reasoning": "The 'Coming soon' teaser from March 23 got 28 likes (1.03% ER). A 45 second behind the scenes reel showing the team setting up, rehearsing, and reacting to challenges would leverage the Community and Culture pillar (2.66% ER) and the 30 to 60s reel format (2.91% ER). Top post 'Meet the team working hard behind the scenes' hit 6.99% ER with this exact format.",
+      "suggestedHook": "180 days of work. This is what the final 48 hours look like."
+    },
+    {
+      "idea": "Myth buster reel about what VCs actually look at in a student pitch",
+      "format": "reel",
+      "reasoning": "The myth buster format 'This is the #1 misconception people have' hit 5.55% ER. VC101 content has performed well historically (8.6% ER on the VC101 announcement carousel). Combining the myth buster hook with the VC topic and delivering as a 30 to 45 second reel maximises two proven patterns.",
+      "suggestedHook": "Investors check these 5 things before they even read your deck."
+    },
+    {
+      "idea": "Team introduction carousel of the new 2026/2027 board candidates or incoming members",
+      "format": "carousel",
+      "reasoning": "The team reveal post 'INNOVATION starts here, with US. The faces driving ENTREPENEURSHIP at Esade. Meet Ennova' hit 5.44% ER as just a single image. A proper 7 to 9 slide carousel (sweet spot at 2.67% and higher ER respectively) with individual member spotlights would combine identity hooks with the optimal carousel length.",
+      "suggestedHook": "Meet the people building Ennova's next chapter."
+    },
+    {
+      "idea": "Quick recap reel of the top 3 moments from the most recent Ennova event",
+      "format": "reel",
+      "reasoning": "Events and Experiences is the largest pillar (59 posts, 26.8% of content) at 2.16% ER. The best events content uses recap and highlights framing rather than 'come to our event' announcements. A 30 second reel with the best 3 clips would avoid the urgency trap that kills the bottom posts.",
+      "suggestedHook": "3 things we did not expect to happen last week."
+    },
+    {
+      "idea": "Spanish language reel asking a provocative question about entrepreneurship at university",
+      "format": "reel",
+      "reasoning": "Spanish hooks averaged 4.69% ER in the top 20. The entrepreneurship pillar (1.63% ER) needs reformatting. A 30 to 45 second reel in Spanish with English subtitles asking a contrarian question about startup culture at ESADE addresses both gaps simultaneously.",
+      "suggestedHook": "Emprender en la universidad? La mayoria lo hacen mal."
+    }
+  ],
+
+  "strategicAdvice": "Ennova has a clear engagement formula that the data confirms: community content plus identity hooks plus reels over 30 seconds plus longer captions equals above average engagement. The problem is not a lack of good content, it is that nearly 40% of posts fall into the low engagement patterns (short caption images, urgency announcements, under 20 word captions). The strategic move is editorial discipline: institute a minimum caption length (20+ words), default to reels over images, replace 'Last call' urgency posts with value framing, and aim for 3 strong posts per week instead of erratic bursts. The February 2026 spike to 32 posts suggests capacity exists but is being spent on low quality filler. Redirecting that energy into fewer, longer, richer posts would lift both ER and follower growth. One thing to investigate that the data cannot answer: what is driving the follower count (2,720)? If most follows come from the September association fair and recruiting season, then the account should plan its highest quality content for September and October, not spread evenly across the year.",
+
+  "warnings": [
+    "The 9 slide carousel bucket shows 10.07% ER but contains only 2 posts. This is a small sample outlier and should not be treated as a target format.",
+    "No save, share, or reach data is available through the public Instagram API. Engagement rate is calculated from likes plus comments only, which underweights content that gets saved or shared.",
+    "View counts are only available for video and reel posts, not images or carousels. Cross format view comparisons are not possible.",
+    "The dataset covers 220 posts from September 2024 to April 2026 with significant gaps (June and July 2025 have zero posts). Seasonal patterns should be interpreted carefully.",
+    "Posts from May to August 2025 are severely underrepresented (4 total), so summer engagement patterns cannot be reliably assessed.",
+    "The hour statistics are in UTC. ESADE is in the CET/CEST timezone (UTC+1 or UTC+2 depending on season), so the 20:00 UTC peak translates to 10pm CET in winter or 10pm CEST in summer."
+  ]
+}
