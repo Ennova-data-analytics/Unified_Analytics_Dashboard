@@ -4,197 +4,192 @@
     "fullName": "Ennova Student Association",
     "biography": "Inspiring the next wave of innovators \ud83d\udca1\ud83e\udde0",
     "externalUrl": "https://linktr.ee/ennovaesade",
-    "followersCount": 2720,
-    "followsCount": 2218,
-    "postsCount": 371,
+    "followersCount": 3106,
+    "followsCount": 2545,
+    "postsCount": 410,
     "igtvVideoCount": 10,
     "isBusinessAccount": true,
-    "businessCategoryName": "None,Community",
-    "profilePicUrlHD": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/256766808_1076141439800404_6309717715931920668_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NjMuYzIifQ&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFJpKeura1fteHCuKTqryErfSrjTYCfSP06Gi9wSCNU-bKUwTuJVe6lejP9TR5WQ2I&_nc_ohc=NnnuY2mDzikQ7kNvwFkxJFR&_nc_gid=QfozwwNKadc9ITDG3pvPCA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af11492NOH3qYqmR7_IPvElQ4typHnq0VW-DY2OvJ1U-wQ&oe=69E6EF67&_nc_sid=8b3546",
+    "businessCategoryName": "Community",
+    "profilePicUrlHD": "https://scontent.cdninstagram.com/v/t51.2885-19/256766808_1076141439800404_6309717715931920668_n.jpg?_nc_cat=106&ig_cache_key=GFjzTQ9UVD_0vtIDABx5HBPVnpBXbkULAAAB0j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NjMuQzMifQ%3D%3D&_nc_ohc=7uzQxy6qQesQ7kNvwF5-Vgl&_nc_oc=AdpwjJbKiaTIqaBBJEfimPy7ZZh68LHJ2CXUJgZVvUba9U0HVa6dPoa_CM5SIK6jt0M&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70980&oh=00_AQTs1AMkvhS393QjAsAVwf9vC1XpISI4ouUk5ZKF8GZ_7Q&oe=6AF80E27",
     "id": "9462092257",
     "highlightReelCount": 14
   },
-  "totalPosts": 220,
-  "dateRange": "2024-09-11 to 2026-04-16",
-  "overallAvgER": 2.1,
-  "overallAvgLikes": 53.1,
-  "overallAvgComments": 4.1,
+  "totalPosts": 221,
+  "dateRange": "2024-09-30 to 2026-11-06",
+  "overallAvgER": 1.73,
+  "overallAvgLikes": 49.9,
+  "overallAvgComments": 4.0,
   "typeStats": {
     "Video": {
       "count": 100,
-      "avgLikes": 64.7,
-      "avgComments": 6.0,
-      "avgER": 2.6,
-      "avgViews": 980.0
+      "avgLikes": 63.1,
+      "avgComments": 5.9,
+      "avgER": 2.22,
+      "avgViews": 3890.0
     },
     "Image": {
-      "count": 26,
-      "avgLikes": 36.6,
-      "avgComments": 1.6,
-      "avgER": 1.4,
+      "count": 27,
+      "avgLikes": 30.9,
+      "avgComments": 1.8,
+      "avgER": 1.05,
       "avgViews": 0
     },
     "Sidecar": {
       "count": 94,
-      "avgLikes": 45.4,
-      "avgComments": 2.7,
-      "avgER": 1.77,
+      "avgLikes": 41.2,
+      "avgComments": 2.5,
+      "avgER": 1.41,
       "avgViews": 0
     }
   },
   "pillarStats": {
-    "Announcements & CTAs": {
-      "count": 40,
-      "avgLikes": 44.7,
+    "Entrepreneurship": {
+      "count": 17,
+      "avgLikes": 43.8,
       "avgComments": 4.3,
-      "avgER": 1.8
+      "avgER": 1.55
+    },
+    "Career & Opportunities": {
+      "count": 17,
+      "avgLikes": 43.8,
+      "avgComments": 3.3,
+      "avgER": 1.52
+    },
+    "Education & Insights": {
+      "count": 25,
+      "avgLikes": 50.5,
+      "avgComments": 4.0,
+      "avgER": 1.75
     },
     "Events & Experiences": {
-      "count": 59,
-      "avgLikes": 55.4,
-      "avgComments": 3.4,
-      "avgER": 2.16
-    },
-    "Brand & General": {
-      "count": 29,
-      "avgLikes": 49.1,
-      "avgComments": 4.2,
-      "avgER": 1.96
+      "count": 63,
+      "avgLikes": 50.0,
+      "avgComments": 3.0,
+      "avgER": 1.71
     },
     "Community & Culture": {
-      "count": 31,
-      "avgLikes": 66.7,
-      "avgComments": 5.7,
-      "avgER": 2.66
+      "count": 29,
+      "avgLikes": 62.2,
+      "avgComments": 5.3,
+      "avgER": 2.17
+    },
+    "Announcements & CTAs": {
+      "count": 45,
+      "avgLikes": 46.5,
+      "avgComments": 4.3,
+      "avgER": 1.64
+    },
+    "Brand & General": {
+      "count": 23,
+      "avgLikes": 49.0,
+      "avgComments": 4.0,
+      "avgER": 1.71
     },
     "Partnerships": {
       "count": 2,
-      "avgLikes": 48.5,
+      "avgLikes": 49.0,
       "avgComments": 6.5,
-      "avgER": 2.02
-    },
-    "Entrepreneurship": {
-      "count": 12,
-      "avgLikes": 40.6,
-      "avgComments": 3.8,
-      "avgER": 1.63
-    },
-    "Career & Opportunities": {
-      "count": 16,
-      "avgLikes": 47.2,
-      "avgComments": 3.6,
-      "avgER": 1.87
-    },
-    "Education & Insights": {
-      "count": 31,
-      "avgLikes": 58.1,
-      "avgComments": 3.8,
-      "avgER": 2.27
+      "avgER": 1.78
     }
   },
   "dayStats": {
     "Monday": {
-      "count": 37,
-      "avgER": 2.56
+      "count": 32,
+      "avgER": 2.13
     },
     "Tuesday": {
-      "count": 35,
-      "avgER": 1.88
+      "count": 37,
+      "avgER": 1.58
     },
     "Wednesday": {
-      "count": 45,
-      "avgER": 2.15
+      "count": 42,
+      "avgER": 1.79
     },
     "Thursday": {
-      "count": 37,
-      "avgER": 1.86
+      "count": 40,
+      "avgER": 1.74
     },
     "Friday": {
-      "count": 30,
-      "avgER": 1.81
+      "count": 28,
+      "avgER": 1.57
     },
     "Saturday": {
-      "count": 19,
-      "avgER": 2.33
+      "count": 24,
+      "avgER": 1.71
     },
     "Sunday": {
-      "count": 17,
-      "avgER": 2.27
+      "count": 18,
+      "avgER": 1.48
     }
   },
   "hourStats": {
     "6": {
-      "count": 2,
-      "avgER": 1.16
+      "count": 3,
+      "avgER": 1.42
     },
     "7": {
-      "count": 8,
-      "avgER": 2.17
+      "count": 10,
+      "avgER": 1.48
     },
     "8": {
-      "count": 16,
-      "avgER": 2.33
+      "count": 17,
+      "avgER": 1.69
     },
     "9": {
-      "count": 14,
-      "avgER": 1.81
+      "count": 19,
+      "avgER": 1.76
     },
     "10": {
-      "count": 13,
-      "avgER": 2.36
+      "count": 11,
+      "avgER": 1.94
     },
     "11": {
       "count": 12,
-      "avgER": 1.85
+      "avgER": 1.65
     },
     "12": {
-      "count": 18,
-      "avgER": 1.89
+      "count": 15,
+      "avgER": 1.25
     },
     "13": {
-      "count": 16,
-      "avgER": 2.17
+      "count": 17,
+      "avgER": 1.57
     },
     "14": {
-      "count": 16,
-      "avgER": 1.32
+      "count": 19,
+      "avgER": 1.19
     },
     "15": {
-      "count": 13,
-      "avgER": 3.21
+      "count": 16,
+      "avgER": 2.86
     },
     "16": {
       "count": 11,
-      "avgER": 2.19
+      "avgER": 1.98
     },
     "17": {
-      "count": 12,
-      "avgER": 1.59
+      "count": 13,
+      "avgER": 1.42
     },
     "18": {
-      "count": 23,
-      "avgER": 1.88
+      "count": 21,
+      "avgER": 1.69
     },
     "19": {
-      "count": 30,
-      "avgER": 2.08
+      "count": 25,
+      "avgER": 1.66
     },
     "20": {
-      "count": 13,
-      "avgER": 3.23
-    },
-    "21": {
-      "count": 2,
-      "avgER": 1.42
+      "count": 10,
+      "avgER": 2.53
     }
   },
   "monthlyPosting": {
-    "2024-09": 15,
-    "2024-10": 10,
-    "2024-11": 9,
-    "2024-12": 6,
-    "2025-01": 6,
-    "2025-02": 13,
+    "2024-09": 1,
+    "2024-10": 6,
+    "2024-11": 6,
+    "2024-12": 1,
+    "2025-02": 8,
     "2025-03": 10,
     "2025-04": 8,
     "2025-05": 3,
@@ -204,144 +199,144 @@
     "2025-11": 26,
     "2025-12": 2,
     "2026-01": 8,
-    "2026-02": 32,
+    "2026-02": 31,
     "2026-03": 14,
-    "2026-04": 13
+    "2026-04": 14,
+    "2026-05": 1,
+    "2026-09": 15,
+    "2026-10": 13,
+    "2026-11": 9
   },
   "captionStats": {
     "Short (<20 words)": {
-      "count": 91,
-      "avgER": 1.76
+      "count": 88,
+      "avgER": 1.53
     },
     "Medium (20-60)": {
-      "count": 107,
-      "avgER": 2.26
+      "count": 113,
+      "avgER": 1.8
     },
     "Long (60+)": {
-      "count": 22,
-      "avgER": 2.76
+      "count": 20,
+      "avgER": 2.22
     }
   },
   "carouselStats": {
     "2": {
-      "count": 10,
-      "avgER": 1.33
+      "count": 12,
+      "avgER": 1.13
     },
     "3": {
-      "count": 18,
-      "avgER": 0.96
+      "count": 19,
+      "avgER": 0.92
     },
     "4": {
-      "count": 17,
-      "avgER": 1.5
+      "count": 21,
+      "avgER": 1.39
     },
     "5": {
-      "count": 20,
-      "avgER": 1.85
+      "count": 17,
+      "avgER": 1.29
     },
     "6": {
-      "count": 8,
-      "avgER": 1.58
+      "count": 12,
+      "avgER": 1.37
     },
     "7": {
-      "count": 13,
-      "avgER": 1.96
+      "count": 9,
+      "avgER": 1.7
     },
     "8": {
-      "count": 3,
-      "avgER": 2.67
+      "count": 1,
+      "avgER": 2.8
     },
     "9": {
-      "count": 2,
-      "avgER": 10.07
-    },
-    "10": {
       "count": 1,
-      "avgER": 2.54
+      "avgER": 11.82
     },
     "11": {
       "count": 1,
-      "avgER": 2.17
+      "avgER": 1.9
     },
     "13": {
       "count": 1,
-      "avgER": 2.13
+      "avgER": 1.87
     }
   },
   "reelDurationStats": {
     "0-15s": {
       "count": 24,
-      "avgER": 2.16,
-      "avgViews": 769.0
+      "avgER": 1.8,
+      "avgViews": 3004.0
     },
     "15-30s": {
-      "count": 21,
-      "avgER": 2.2,
-      "avgViews": 687.0
+      "count": 24,
+      "avgER": 2.13,
+      "avgViews": 3270.0
     },
     "30-60s": {
       "count": 43,
-      "avgER": 2.91,
-      "avgViews": 941.0
+      "avgER": 2.42,
+      "avgViews": 3529.0
     },
     "60s+": {
-      "count": 12,
-      "avgER": 3.07,
-      "avgViews": 2053.0
+      "count": 6,
+      "avgER": 2.6,
+      "avgViews": 12249.0
     }
   },
   "insights": {
     "bestType": {
       "name": "Reels",
-      "er": 2.6,
+      "er": 2.22,
       "count": 100
     },
     "worstType": {
       "name": "Images",
-      "er": 1.4
+      "er": 1.05
     },
     "bestPillar": {
       "name": "Community & Culture",
-      "er": 2.66,
-      "count": 31
+      "er": 2.17,
+      "count": 29
     },
     "worstPillar": {
-      "name": "Entrepreneurship",
-      "er": 1.63
+      "name": "Career & Opportunities",
+      "er": 1.52
     },
     "bestDay": {
       "name": "Monday",
-      "er": 2.56
+      "er": 2.13
     },
     "bestHourUTC": {
-      "hour": 20,
-      "er": 3.23
+      "hour": 15,
+      "er": 2.86
     },
-    "captionInsight": "Long (60+) captions avg 2.76% vs Short (<20 words) at 1.76%",
+    "captionInsight": "Long (60+) captions avg 2.22% vs Short (<20 words) at 1.53%",
     "bestCarousel": {
       "slides": "9",
-      "er": 10.07
+      "er": 11.82
     },
     "bestReelDuration": {
       "range": "60s+",
-      "er": 3.07
+      "er": 2.6
     },
     "questionEffect": {
-      "withQ": 2.17,
-      "withoutQ": 2.08,
-      "qCount": 56
+      "withQ": 1.87,
+      "withoutQ": 1.69,
+      "qCount": 57
     },
-    "topReelViews": 16615,
-    "topReelAvgViews": 980.0,
+    "topReelViews": 57911,
+    "topReelAvgViews": 3890.0,
     "pillarMix": {
-      "Community & Culture": 14.1,
-      "Education & Insights": 14.1,
-      "Events & Experiences": 26.8,
+      "Community & Culture": 13.1,
       "Partnerships": 0.9,
-      "Brand & General": 13.2,
-      "Career & Opportunities": 7.3,
-      "Announcements & CTAs": 18.2,
-      "Entrepreneurship": 5.5
+      "Education & Insights": 11.3,
+      "Events & Experiences": 28.5,
+      "Brand & General": 10.4,
+      "Announcements & CTAs": 20.4,
+      "Entrepreneurship": 7.7,
+      "Career & Opportunities": 7.7
     }
   },
   "topPosts": [
@@ -349,23 +344,12 @@
       "url": "https://www.instagram.com/p/DQUSz_BiGQl/",
       "hook": "This month\u2019s #MeetTheAssociation is @ennova.esade, Esade\u2019s leading association for Entrepreneurship ",
       "type": "Sidecar",
-      "likes": 350,
-      "comments": 8,
+      "likes": 356,
+      "comments": 11,
       "views": 0,
-      "er": 13.16,
+      "er": 11.82,
       "pillar": "Events & Experiences",
       "date": "2025-10-27"
-    },
-    {
-      "url": "https://www.instagram.com/p/DF01r_sOXqj/",
-      "hook": "\ud83c\udf1f The stage is set for a European spectacle - introducing this year\u2019s edition of VC101 - our biggest",
-      "type": "Sidecar",
-      "likes": 224,
-      "comments": 10,
-      "views": 0,
-      "er": 8.6,
-      "pillar": "Education & Insights",
-      "date": "2025-02-08"
     },
     {
       "url": "https://www.instagram.com/p/DPjckh2DMDP/",
@@ -373,41 +357,19 @@
       "type": "Video",
       "likes": 194,
       "comments": 6,
-      "views": 16615,
-      "er": 7.35,
+      "views": 57911,
+      "er": 6.44,
       "pillar": "Community & Culture",
       "date": "2025-10-08"
-    },
-    {
-      "url": "https://www.instagram.com/p/DDHB53_MiuG/",
-      "hook": "La semana pasada tuvo lugar una sesi\u00f3n de Masterminds con Carlos Blanco (emprendedor y fundador de e",
-      "type": "Sidecar",
-      "likes": 189,
-      "comments": 1,
-      "views": 0,
-      "er": 6.99,
-      "pillar": "Events & Experiences",
-      "date": "2024-12-03"
-    },
-    {
-      "url": "https://www.instagram.com/p/C_-n_i6pwYC/",
-      "hook": "\ud83d\ude80 With IdeaUp around the corner, meet the team working hard behind the scenes - our Ventures departm",
-      "type": "Video",
-      "likes": 180,
-      "comments": 10,
-      "views": 1054,
-      "er": 6.99,
-      "pillar": "Community & Culture",
-      "date": "2024-09-16"
     },
     {
       "url": "https://www.instagram.com/p/DGq68bFtjSu/",
       "hook": "Make all these moments in sports possible\u2026",
       "type": "Video",
-      "likes": 177,
+      "likes": 175,
       "comments": 0,
-      "views": 1022,
-      "er": 6.51,
+      "views": 2620,
+      "er": 5.63,
       "pillar": "Brand & General",
       "date": "2025-03-01"
     },
@@ -418,7 +380,7 @@
       "likes": 161,
       "comments": 11,
       "views": 0,
-      "er": 6.32,
+      "er": 5.54,
       "pillar": "Community & Culture",
       "date": "2025-09-17"
     },
@@ -428,8 +390,8 @@
       "type": "Video",
       "likes": 136,
       "comments": 15,
-      "views": 1476,
-      "er": 5.55,
+      "views": 5607,
+      "er": 4.86,
       "pillar": "Brand & General",
       "date": "2024-10-06"
     },
@@ -440,9 +402,20 @@
       "likes": 137,
       "comments": 11,
       "views": 0,
-      "er": 5.44,
+      "er": 4.76,
       "pillar": "Community & Culture",
       "date": "2025-11-06"
+    },
+    {
+      "url": "https://www.instagram.com/p/Deq51wqji0z/",
+      "hook": "5K on the beach for a cause that matters!",
+      "type": "Sidecar",
+      "likes": 137,
+      "comments": 10,
+      "views": 0,
+      "er": 4.73,
+      "pillar": "Announcements & CTAs",
+      "date": "2026-10-19"
     },
     {
       "url": "https://www.instagram.com/p/DPBrVkWjM8L/",
@@ -450,8 +423,8 @@
       "type": "Video",
       "likes": 131,
       "comments": 9,
-      "views": 1565,
-      "er": 5.15,
+      "views": 5028,
+      "er": 4.51,
       "pillar": "Announcements & CTAs",
       "date": "2025-09-25"
     },
@@ -461,32 +434,10 @@
       "type": "Video",
       "likes": 134,
       "comments": 4,
-      "views": 1908,
-      "er": 5.07,
+      "views": 6488,
+      "er": 4.44,
       "pillar": "Events & Experiences",
       "date": "2024-11-19"
-    },
-    {
-      "url": "https://www.instagram.com/p/DAOLMhBN_gK/",
-      "hook": "\ud83d\udcbc Let\u2019s learn more about our Case Cracking Event with a little True / False Game !! \ud83d\udcbc",
-      "type": "Video",
-      "likes": 126,
-      "comments": 7,
-      "views": 1138,
-      "er": 4.89,
-      "pillar": "Events & Experiences",
-      "date": "2024-09-22"
-    },
-    {
-      "url": "https://www.instagram.com/p/DADg1qPJNjT/",
-      "hook": "\u270aChange starts from us, and nobody preaches that message better than our Impact Department!",
-      "type": "Video",
-      "likes": 119,
-      "comments": 10,
-      "views": 914,
-      "er": 4.74,
-      "pillar": "Announcements & CTAs",
-      "date": "2024-09-18"
     },
     {
       "url": "https://www.instagram.com/p/DBDiWs0tCS7/",
@@ -494,30 +445,30 @@
       "type": "Video",
       "likes": 118,
       "comments": 10,
-      "views": 1924,
-      "er": 4.71,
+      "views": 9765,
+      "er": 4.12,
       "pillar": "Events & Experiences",
       "date": "2024-10-13"
     },
     {
-      "url": "https://www.instagram.com/p/C_-p-ZoJ5rv/",
-      "hook": "\ud83e\udde9 Rearranging the pieces of our events into intriguing stories - get to know our Marketing departmen",
+      "url": "https://www.instagram.com/p/DfZ481KuT7O/",
+      "hook": "We gave them ONE word. They gave us plenty of reasons to attend!",
       "type": "Video",
-      "likes": 117,
-      "comments": 9,
-      "views": 1282,
-      "er": 4.63,
-      "pillar": "Events & Experiences",
-      "date": "2024-09-16"
+      "likes": 107,
+      "comments": 18,
+      "views": 5163,
+      "er": 4.02,
+      "pillar": "Entrepreneurship",
+      "date": "2026-11-06"
     },
     {
       "url": "https://www.instagram.com/p/DU1Hx4ejXN1/",
       "hook": "\u20ac250,000.",
       "type": "Video",
-      "likes": 115,
+      "likes": 116,
       "comments": 9,
-      "views": 2008,
-      "er": 4.56,
+      "views": 6380,
+      "er": 4.02,
       "pillar": "Education & Insights",
       "date": "2026-02-16"
     },
@@ -527,8 +478,8 @@
       "type": "Video",
       "likes": 111,
       "comments": 12,
-      "views": 1148,
-      "er": 4.52,
+      "views": 4642,
+      "er": 3.96,
       "pillar": "Events & Experiences",
       "date": "2024-10-12"
     },
@@ -536,10 +487,10 @@
       "url": "https://www.instagram.com/p/DDo59Hfxzzo/",
       "hook": "\ud83d\udca1 \"Error com\u00fan en emprendimiento: no saber cu\u00e1ndo parar.\"",
       "type": "Video",
-      "likes": 113,
+      "likes": 112,
       "comments": 4,
-      "views": 2549,
-      "er": 4.3,
+      "views": 6561,
+      "er": 3.73,
       "pillar": "Events & Experiences",
       "date": "2024-12-16"
     },
@@ -549,8 +500,8 @@
       "type": "Video",
       "likes": 108,
       "comments": 5,
-      "views": 1758,
-      "er": 4.15,
+      "views": 5623,
+      "er": 3.64,
       "pillar": "Announcements & CTAs",
       "date": "2025-03-08"
     },
@@ -560,10 +511,54 @@
       "type": "Video",
       "likes": 92,
       "comments": 19,
-      "views": 1319,
-      "er": 4.08,
+      "views": 4638,
+      "er": 3.57,
       "pillar": "Community & Culture",
       "date": "2025-09-12"
+    },
+    {
+      "url": "https://www.instagram.com/p/DPl0cdUDAbs/",
+      "hook": "\ud83d\ude80 More info about IDEAUP: Link in Bio! \ud83d\ude80",
+      "type": "Video",
+      "likes": 101,
+      "comments": 9,
+      "views": 16281,
+      "er": 3.54,
+      "pillar": "Announcements & CTAs",
+      "date": "2025-10-09"
+    },
+    {
+      "url": "https://www.instagram.com/p/DU2k_LHDGXT/",
+      "hook": "No internship? No problem \ud83d\ude09\u2728",
+      "type": "Video",
+      "likes": 105,
+      "comments": 4,
+      "views": 6876,
+      "er": 3.51,
+      "pillar": "Career & Opportunities",
+      "date": "2026-02-17"
+    },
+    {
+      "url": "https://www.instagram.com/p/DCUrwlcOwQM/",
+      "hook": "Trade a quick bite for lasting connections! \ud83e\udd1d\u2728",
+      "type": "Video",
+      "likes": 99,
+      "comments": 8,
+      "views": 3601,
+      "er": 3.44,
+      "pillar": "Education & Insights",
+      "date": "2024-11-13"
+    },
+    {
+      "url": "https://www.instagram.com/p/DXM7bDUjkIG/",
+      "hook": "Can do 10 kick-ups? Get a discount for our sports panel this Saturday 18th! \u26a1\ufe0f SIGN UP NOW! \ud83d\udd25",
+      "type": "Video",
+      "likes": 100,
+      "comments": 6,
+      "views": 6405,
+      "er": 3.41,
+      "pillar": "Announcements & CTAs",
+      "date": "2026-04-16"
     }
   ],
   "bottomPosts": [
@@ -573,7 +568,7 @@
       "type": "Image",
       "likes": 5,
       "comments": 0,
-      "er": 0.18,
+      "er": 0.16,
       "pillar": "Announcements & CTAs",
       "date": "2026-02-24"
     },
@@ -583,7 +578,7 @@
       "type": "Image",
       "likes": 8,
       "comments": 1,
-      "er": 0.33,
+      "er": 0.29,
       "pillar": "Events & Experiences",
       "date": "2025-02-27"
     },
@@ -593,7 +588,7 @@
       "type": "Image",
       "likes": 10,
       "comments": 0,
-      "er": 0.37,
+      "er": 0.32,
       "pillar": "Events & Experiences",
       "date": "2025-05-16"
     },
@@ -603,7 +598,7 @@
       "type": "Sidecar",
       "likes": 11,
       "comments": 0,
-      "er": 0.4,
+      "er": 0.35,
       "pillar": "Brand & General",
       "date": "2025-11-05"
     },
@@ -613,19 +608,19 @@
       "type": "Sidecar",
       "likes": 11,
       "comments": 0,
-      "er": 0.4,
+      "er": 0.35,
       "pillar": "Events & Experiences",
       "date": "2025-05-07"
     },
     {
-      "url": "https://www.instagram.com/p/DXM4NpgDJJ1/",
-      "hook": "Important update \u2014 format change.",
+      "url": "https://www.instagram.com/p/DXOT601jOMk/",
+      "hook": "1 DAY LEFT! \u23f3 Don\u2019t miss out on experts and potential internships in the sports industry\u2026\ud83d\udc40",
       "type": "Image",
       "likes": 12,
       "comments": 0,
-      "er": 0.44,
-      "pillar": "Announcements & CTAs",
-      "date": "2026-04-16"
+      "er": 0.39,
+      "pillar": "Career & Opportunities",
+      "date": "2026-04-17"
     },
     {
       "url": "https://www.instagram.com/p/DVNzqrbjKbU/",
@@ -633,7 +628,7 @@
       "type": "Sidecar",
       "likes": 12,
       "comments": 0,
-      "er": 0.44,
+      "er": 0.39,
       "pillar": "Events & Experiences",
       "date": "2026-02-26"
     },
@@ -643,7 +638,7 @@
       "type": "Image",
       "likes": 13,
       "comments": 0,
-      "er": 0.48,
+      "er": 0.42,
       "pillar": "Career & Opportunities",
       "date": "2026-02-21"
     },
@@ -653,7 +648,7 @@
       "type": "Sidecar",
       "likes": 13,
       "comments": 0,
-      "er": 0.48,
+      "er": 0.42,
       "pillar": "Announcements & CTAs",
       "date": "2025-11-09"
     },
@@ -663,7 +658,7 @@
       "type": "Sidecar",
       "likes": 14,
       "comments": 0,
-      "er": 0.51,
+      "er": 0.45,
       "pillar": "Education & Insights",
       "date": "2026-02-09"
     }
@@ -671,148 +666,668 @@
   "topHooks": [
     {
       "hook": "This month\u2019s #MeetTheAssociation is @ennova.esade, Esade\u2019s leading association for Entrepreneurship & Innovation ! \ud83d\ude80\ud83e\udd1d",
-      "er": 13.16,
+      "er": 11.82,
       "type": "Sidecar",
-      "likes": 350
-    },
-    {
-      "hook": "\ud83c\udf1f The stage is set for a European spectacle - introducing this year\u2019s edition of VC101 - our biggest one yet!",
-      "er": 8.6,
-      "type": "Sidecar",
-      "likes": 224
+      "likes": 356
     },
     {
       "hook": "\u26a1\ufe0fLet\u2019s meet this year\u2019s Partner: CONECTOR \ud83d\ude80. Ready to apply? Link in bio",
-      "er": 7.35,
+      "er": 6.44,
       "type": "Video",
       "likes": 194
     },
     {
-      "hook": "La semana pasada tuvo lugar una sesi\u00f3n de Masterminds con Carlos Blanco (emprendedor y fundador de empresas como @nuclio",
-      "er": 6.99,
-      "type": "Sidecar",
-      "likes": 189
-    },
-    {
-      "hook": "\ud83d\ude80 With IdeaUp around the corner, meet the team working hard behind the scenes - our Ventures department!",
-      "er": 6.99,
-      "type": "Video",
-      "likes": 180
-    },
-    {
       "hook": "Make all these moments in sports possible\u2026",
-      "er": 6.51,
+      "er": 5.63,
       "type": "Video",
-      "likes": 177
+      "likes": 175
     },
     {
       "hook": "We loved meeting all of you at the ASSOCIATION FAIR \ud83d\udc99 Reminder: Applications are still open\u2026 Dare to apply? \ud83d\udc40",
-      "er": 6.32,
+      "er": 5.54,
       "type": "Sidecar",
       "likes": 161
     },
     {
       "hook": "\u274c This is the #1 misconception people have, so let\u2019s make it clear: social impact IS NOT just about SUSTAINABILITY.",
-      "er": 5.55,
+      "er": 4.86,
       "type": "Video",
       "likes": 136
     },
     {
       "hook": "INNOVATION starts here, with US \ud83d\ude80 The faces driving ENTREPENEURSHIP at Esade. Meet Ennova 2025/2026!",
-      "er": 5.44,
+      "er": 4.76,
       "type": "Image",
       "likes": 137
     },
     {
+      "hook": "5K on the beach for a cause that matters!",
+      "er": 4.73,
+      "type": "Sidecar",
+      "likes": 137
+    },
+    {
       "hook": "They succeeded. Now it\u2019s your turn.\ud83d\udca1",
-      "er": 5.15,
+      "er": 4.51,
       "type": "Video",
       "likes": 131
     },
     {
       "hook": "\ud83d\udca1\u00bfQuieres saber lo que buscan los inversores de venture capital?",
-      "er": 5.07,
+      "er": 4.44,
       "type": "Video",
       "likes": 134
     },
     {
-      "hook": "\ud83d\udcbc Let\u2019s learn more about our Case Cracking Event with a little True / False Game !! \ud83d\udcbc",
-      "er": 4.89,
-      "type": "Video",
-      "likes": 126
-    },
-    {
-      "hook": "\u270aChange starts from us, and nobody preaches that message better than our Impact Department!",
-      "er": 4.74,
-      "type": "Video",
-      "likes": 119
-    },
-    {
       "hook": "\ud83d\ude80 Your dream of becoming an entrepreneur is within your reach. And it has never been easier to fulfill it!",
-      "er": 4.71,
+      "er": 4.12,
       "type": "Video",
       "likes": 118
     },
     {
-      "hook": "\ud83e\udde9 Rearranging the pieces of our events into intriguing stories - get to know our Marketing department!",
-      "er": 4.63,
+      "hook": "We gave them ONE word. They gave us plenty of reasons to attend!",
+      "er": 4.02,
       "type": "Video",
-      "likes": 117
+      "likes": 107
     },
     {
       "hook": "\u20ac250,000.",
-      "er": 4.56,
+      "er": 4.02,
       "type": "Video",
-      "likes": 115
+      "likes": 116
     },
     {
       "hook": "\u270a The politicians, the world elites, the mafia, they don\u2019t have the power - YOU do! Elev8 is for those who are sick of t",
-      "er": 4.52,
+      "er": 3.96,
       "type": "Video",
       "likes": 111
     },
     {
       "hook": "\ud83d\udca1 \"Error com\u00fan en emprendimiento: no saber cu\u00e1ndo parar.\"",
-      "er": 4.3,
+      "er": 3.73,
       "type": "Video",
-      "likes": 113
+      "likes": 112
     },
     {
       "hook": "Dreaming of working in the industry you love the most?",
-      "er": 4.15,
+      "er": 3.64,
       "type": "Video",
       "likes": 108
     },
     {
       "hook": "Join Our Team! The Sports Department is recruiting! Be part of the bridge between sports and business. Apply now! \ud83c\udfc0\ud83e\udd1d\ud83d\udcbc #S",
-      "er": 4.08,
+      "er": 3.57,
       "type": "Video",
       "likes": 92
+    },
+    {
+      "hook": "\ud83d\ude80 More info about IDEAUP: Link in Bio! \ud83d\ude80",
+      "er": 3.54,
+      "type": "Video",
+      "likes": 101
+    },
+    {
+      "hook": "No internship? No problem \ud83d\ude09\u2728",
+      "er": 3.51,
+      "type": "Video",
+      "likes": 105
+    },
+    {
+      "hook": "Trade a quick bite for lasting connections! \ud83e\udd1d\u2728",
+      "er": 3.44,
+      "type": "Video",
+      "likes": 99
+    },
+    {
+      "hook": "Can do 10 kick-ups? Get a discount for our sports panel this Saturday 18th! \u26a1\ufe0f SIGN UP NOW! \ud83d\udd25",
+      "er": 3.41,
+      "type": "Video",
+      "likes": 100
     }
   ],
   "allPosts": [
+    {
+      "url": "https://www.instagram.com/p/DfZ481KuT7O/",
+      "hook": "We gave them ONE word. They gave us plenty of reasons to attend!",
+      "caption": "We gave them ONE word. They gave us plenty of reasons to attend! \n\n\ud83d\udc9cJoin us at Female Founders Night on Saturday 14th November and experience it yourself! \n\n\ud83c\udf9f\ufe0f 12\u20ac\n\u23f0 16:00 - 20:00\n\ud83d\udccdOneCoWork Catdedral",
+      "type": "Video",
+      "likes": 107,
+      "comments": 18,
+      "views": 5163,
+      "er": 4.02,
+      "pillar": "Entrepreneurship",
+      "date": "2026-11-06",
+      "qualityScore": 4.4
+    },
+    {
+      "url": "https://www.instagram.com/p/DfWm29ijUuR/",
+      "hook": "Encantados de anunciar que renovamos nuestra alianza con @ennova.esade como part",
+      "caption": "Encantados de anunciar que renovamos nuestra alianza con @ennova.esade como partners oficiales para la s\u00e9ptima edici\u00f3n del programa IdeaUp.\n\nVolvemos a participar un a\u00f1o m\u00e1s con el objetivo de seguir ",
+      "type": "Image",
+      "likes": 18,
+      "comments": 1,
+      "views": 0,
+      "er": 0.61,
+      "pillar": "Career & Opportunities",
+      "date": "2026-11-05",
+      "qualityScore": 2.4
+    },
+    {
+      "url": "https://www.instagram.com/p/DfWkVqYDvYe/",
+      "hook": "Want to be the next Forbes 30 under 30? Some connections can change your future.",
+      "caption": "Want to be the next Forbes 30 under 30? Some connections can change your future. \ud83e\udd1d\n\nMeet our Forbes 30 Under 30 honorees at Female Founders Night and learn from those who\u2019ve made it happen. \n \n\ud83d\uddd3\ufe0fSatur",
+      "type": "Sidecar",
+      "likes": 68,
+      "comments": 4,
+      "views": 0,
+      "er": 2.32,
+      "pillar": "Education & Insights",
+      "date": "2026-11-05",
+      "qualityScore": 4.6
+    },
+    {
+      "url": "https://www.instagram.com/p/DfUmFLitZll/",
+      "hook": "Join us next week at our Conference on the futures of AI in the workplace - Will",
+      "caption": "Join us next week at our Conference on the futures of AI in the workplace - Will you be Hired or Replaced? \ud83e\uddd1\u200d\ud83d\udcbb\ud83c\udf10\ud83d\udc69\u200d\ud83d\udcbb\n10th November in the Esade Sant Cugat Auditorium\ud83d\udccd\nSee you there\u203c\ufe0f",
+      "type": "Video",
+      "likes": 67,
+      "comments": 2,
+      "views": 2980,
+      "er": 2.22,
+      "pillar": "Events & Experiences",
+      "date": "2026-11-04",
+      "qualityScore": 3.5
+    },
+    {
+      "url": "https://www.instagram.com/p/DfT72rajraY/",
+      "hook": "\ud83d\udc9c THE WOMEN LEADING TODAY!",
+      "caption": "\ud83d\udc9c THE WOMEN LEADING TODAY!\n\nMeet the inspiring women shaping today\u2019s entrepreneurial world and redefining what it means to lead! \u2728\n\nWant to be next? Join us at Female Founders Night 2026 and get inspi",
+      "type": "Sidecar",
+      "likes": 29,
+      "comments": 0,
+      "views": 0,
+      "er": 0.93,
+      "pillar": "Community & Culture",
+      "date": "2026-11-04",
+      "qualityScore": 3.8
+    },
+    {
+      "url": "https://www.instagram.com/p/DfSmQW_joSk/",
+      "hook": "Stop overthinking and start building.",
+      "caption": "Stop overthinking and start building.\u00a0 \nIdeaUp x Conector gives you direct access to 350+ mentors, 1-on-1 strategic sessions, and a live pitch stage in front of active VC funds.\u00a0 \nApplications close N",
+      "type": "Sidecar",
+      "likes": 25,
+      "comments": 0,
+      "views": 0,
+      "er": 0.8,
+      "pillar": "Events & Experiences",
+      "date": "2026-11-03",
+      "qualityScore": 3.7
+    },
+    {
+      "url": "https://www.instagram.com/p/DfSetd5ufWr/",
+      "hook": "\ud83d\udea8 GOT LAST-MINUTE QUESTIONS? IDEAUP APPLICATIONS CLOSE IN JUST 3 DAYS!",
+      "caption": "\ud83d\udea8 GOT LAST-MINUTE QUESTIONS? IDEAUP APPLICATIONS CLOSE IN JUST 3 DAYS!\n\nDon\u2019t worry, we\u2019ve got the answers! \n\nEverything you need to know about Ennova\u2019s 6-month startup accelerator! \ud83d\ude80\n\n\u23f3 Deadline: Nov",
+      "type": "Video",
+      "likes": 43,
+      "comments": 1,
+      "views": 2765,
+      "er": 1.42,
+      "pillar": "Entrepreneurship",
+      "date": "2026-11-03",
+      "qualityScore": 3.5
+    },
+    {
+      "url": "https://www.instagram.com/p/DfRbZvXOU7p/",
+      "hook": "\ud83d\udc9c Behind every inspiring leader is a journey worth sharing!",
+      "caption": "\ud83d\udc9c Behind every inspiring leader is a journey worth sharing! \n \n\u2728 Real stories, inspiring founders & unforgettable connections, all at Female Founders Night 2026! \n\n\ud83c\udf9f\ufe0f Limited Early bird tickets at 12\u20ac",
+      "type": "Video",
+      "likes": 29,
+      "comments": 0,
+      "views": 1447,
+      "er": 0.93,
+      "pillar": "Entrepreneurship",
+      "date": "2026-11-03",
+      "qualityScore": 3.1
+    },
+    {
+      "url": "https://www.instagram.com/p/DfNOXLvDvCZ/",
+      "hook": "Shoutout to the brands and communities making PACED possible.",
+      "caption": "Shoutout to the brands and communities making PACED possible.\nSwipe through to see who is fueling the run. Link in bio to join us on November 7th.\n#barcelonarunners #bcnrunning #barcelonaevents #runba",
+      "type": "Sidecar",
+      "likes": 22,
+      "comments": 0,
+      "views": 0,
+      "er": 0.71,
+      "pillar": "Events & Experiences",
+      "date": "2026-11-01",
+      "qualityScore": 3.2
+    },
+    {
+      "url": "https://www.instagram.com/p/DfJ29M0uSXQ/",
+      "hook": "Good energy, 5K along Barcelona Beach, and 100% impact.",
+      "caption": "Good energy, 5K along Barcelona Beach, and 100% impact.\nRegistration is live. Tap the link in bio to join us.\n\n#runbarcelona #barcelonafitness #charityrun #beachrun",
+      "type": "Video",
+      "likes": 55,
+      "comments": 3,
+      "views": 2891,
+      "er": 1.87,
+      "pillar": "Announcements & CTAs",
+      "date": "2026-10-31",
+      "qualityScore": 3.3
+    },
+    {
+      "url": "https://www.instagram.com/p/DfAjM3mjlXV/",
+      "hook": "The women breaking barriers are taking the stage! \ud83d\udc9c",
+      "caption": "The women breaking barriers are taking the stage! \ud83d\udc9c\n\nMeet our inspiring speakers, including Forbes 30 Under 30 honorees and entrepreneurs shaping the future of their industries. \ud83d\ude80\n\n\ud83d\udccc Link in bio!",
+      "type": "Sidecar",
+      "likes": 64,
+      "comments": 1,
+      "views": 0,
+      "er": 2.09,
+      "pillar": "Community & Culture",
+      "date": "2026-10-27",
+      "qualityScore": 4.2
+    },
+    {
+      "url": "https://www.instagram.com/p/De_jJOdjh_D/",
+      "hook": "WHO WILL SAVE YOU FROM AI? \ud83d\udc40",
+      "caption": "WHO WILL SAVE YOU FROM AI? \ud83d\udc40\n\nAI is changing the way we work, recruit, and build careers. But what does that mean for YOUR future?\n\nMeet the experts joining HIRED: AI & The Future of Work, brought to ",
+      "type": "Sidecar",
+      "likes": 29,
+      "comments": 3,
+      "views": 0,
+      "er": 1.03,
+      "pillar": "Events & Experiences",
+      "date": "2026-10-27",
+      "qualityScore": 4.1
+    },
+    {
+      "url": "https://www.instagram.com/p/De65zGDjjqX/",
+      "hook": "Running for a cause hit different when the whole community shows up.",
+      "caption": "Running for a cause hit different when the whole community shows up.\nGrab your spot, bring a friend, and let\u2019s make every kilometer count.\nLink in bio to register.\n#runeventbcn #bcnrunning #bcnrunners",
+      "type": "Sidecar",
+      "likes": 41,
+      "comments": 1,
+      "views": 0,
+      "er": 1.35,
+      "pillar": "Events & Experiences",
+      "date": "2026-10-25",
+      "qualityScore": 4.0
+    },
+    {
+      "url": "https://www.instagram.com/p/De36fLSjuV8/",
+      "hook": "THE FOUNDERS ARE BACK. \ud83d\udc9c",
+      "caption": "THE FOUNDERS ARE BACK. \ud83d\udc9c\n\nFFN returns for an evening of bold ideas, inspiring women, powerful conversations, and meaningful connections. \u2728\n\nFrom inspiring speakers to interactive workshops and network",
+      "type": "Sidecar",
+      "likes": 59,
+      "comments": 5,
+      "views": 0,
+      "er": 2.06,
+      "pillar": "Events & Experiences",
+      "date": "2026-10-24",
+      "qualityScore": 3.9
+    },
+    {
+      "url": "https://www.instagram.com/p/DexIcvEjgKH/",
+      "hook": "Your future career is on the line.",
+      "caption": "Your future career is on the line. \n\nAI is changing the workplace, and the rules of getting hired are changing with it.\n\nJoin Ennova \u00d7 IPEA for HIRED, an interactive discussion with 3 industry experts",
+      "type": "Sidecar",
+      "likes": 45,
+      "comments": 5,
+      "views": 0,
+      "er": 1.61,
+      "pillar": "Career & Opportunities",
+      "date": "2026-10-21",
+      "qualityScore": 3.9
+    },
+    {
+      "url": "https://www.instagram.com/p/Deq51wqji0z/",
+      "hook": "5K on the beach for a cause that matters!",
+      "caption": "5K on the beach for a cause that matters!\nEnnova x Oikos are taking over the coast on November 7th in support of PSE.\u00a0 \nLink in bio to register\ud83c\udfc3\ud83c\udffb\u200d\u2640\ufe0f",
+      "type": "Sidecar",
+      "likes": 137,
+      "comments": 10,
+      "views": 0,
+      "er": 4.73,
+      "pillar": "Announcements & CTAs",
+      "date": "2026-10-19",
+      "qualityScore": 5.4
+    },
+    {
+      "url": "https://www.instagram.com/p/DemNn9MDgNq/",
+      "hook": "The numbers don\u2019t lie. \ud83d\udc40 Last year\u2019s IDEAUP was a success! \ud83d\ude80",
+      "caption": "The numbers don\u2019t lie. \ud83d\udc40 Last year\u2019s IDEAUP was a success! \ud83d\ude80\n\nNow it\u2019s your chance to turn YOUR idea into the next big thing with Ennova\u2019s six-month startup accelerator program. \ud83d\udca1",
+      "type": "Sidecar",
+      "likes": 28,
+      "comments": 0,
+      "views": 0,
+      "er": 0.9,
+      "pillar": "Entrepreneurship",
+      "date": "2026-10-17",
+      "qualityScore": 2.9
+    },
+    {
+      "url": "https://www.instagram.com/p/DejZ1E3jtDR/",
+      "hook": "Big ideas deserve opportunities to grow. \ud83d\ude80",
+      "caption": "Big ideas deserve opportunities to grow. \ud83d\ude80\n\nTake a look at last year\u2019s IdeaUp prizes and see how competing can help you take your startup further. \n\nThis year, aim higher, push your idea further and g",
+      "type": "Sidecar",
+      "likes": 27,
+      "comments": 1,
+      "views": 0,
+      "er": 0.9,
+      "pillar": "Community & Culture",
+      "date": "2026-10-16",
+      "qualityScore": 3.5
+    },
+    {
+      "url": "https://www.instagram.com/p/DegYZwMDtlB/",
+      "hook": "Less \u201cwhat if?\u201d More \u201cwhat\u2019s next?\u201d \ud83d\udc40\ud83d\udca1",
+      "caption": "Less \u201cwhat if?\u201d More \u201cwhat\u2019s next?\u201d \ud83d\udc40\ud83d\udca1\n\nIdeaUp 26/27 is your chance to turn ideas into action, connect with experts and start building something real.\n\n\ud83d\udcc5 First stop: October 31st.\n\ud83d\udccc Save this post \u2014 y",
+      "type": "Sidecar",
+      "likes": 33,
+      "comments": 1,
+      "views": 0,
+      "er": 1.09,
+      "pillar": "Entrepreneurship",
+      "date": "2026-10-15",
+      "qualityScore": 3.5
+    },
+    {
+      "url": "https://www.instagram.com/p/DebdNKTuthv/",
+      "hook": "The numbers are in! \ud83d\udc40",
+      "caption": "The numbers are in! \ud83d\udc40\n\nA huge thank you to everyone who applied and showed interest in being part of Ennova. \ud83d\udc99\n\nTo our newest members, welcome to the team! We can\u2019t wait to see what we\u2019ll build togeth",
+      "type": "Image",
+      "likes": 86,
+      "comments": 5,
+      "views": 0,
+      "er": 2.93,
+      "pillar": "Events & Experiences",
+      "date": "2026-10-13",
+      "qualityScore": 3.6
+    },
+    {
+      "url": "https://www.instagram.com/p/DePVaBlDqR3/",
+      "hook": "The moment you were waiting for: IdeaUp Registrations are now open \ud83c\udf1f\ud83c\udf1f",
+      "caption": "The moment you were waiting for: IdeaUp Registrations are now open \ud83c\udf1f\ud83c\udf1f\n\nJoin the 7th edition and be part of the legacy \ud83d\ude80",
+      "type": "Sidecar",
+      "likes": 51,
+      "comments": 5,
+      "views": 0,
+      "er": 1.8,
+      "pillar": "Announcements & CTAs",
+      "date": "2026-10-08",
+      "qualityScore": 3.6
+    },
+    {
+      "url": "https://www.instagram.com/p/DeHYAloOznK/",
+      "hook": "Got an idea?\ud83d\udca1 Your chance to take it further is coming soon. \ud83d\ude80",
+      "caption": "Got an idea?\ud83d\udca1 Your chance to take it further is coming soon. \ud83d\ude80",
+      "type": "Video",
+      "likes": 22,
+      "comments": 0,
+      "views": 1960,
+      "er": 0.71,
+      "pillar": "Announcements & CTAs",
+      "date": "2026-10-05",
+      "qualityScore": 2.9
+    },
+    {
+      "url": "https://www.instagram.com/p/Ddyof6tu9Z-/",
+      "hook": "Wanna be the next CEO? \ud83d\udc40",
+      "caption": "Wanna be the next CEO? \ud83d\udc40 \nGet one step closer with Ennova. Build lifelong connections, gain real-world experience and develop the skills to make it happen. \ud83d\ude80 \n\nLast weekend to apply! Link in bio \ud83d\udccc",
+      "type": "Image",
+      "likes": 23,
+      "comments": 0,
+      "views": 0,
+      "er": 0.74,
+      "pillar": "Announcements & CTAs",
+      "date": "2026-09-27",
+      "qualityScore": 3.7
+    },
+    {
+      "url": "https://www.instagram.com/p/DdsxwYbDr71/",
+      "hook": "From Paris to Milan, London to Barcelona. Here is where Ennova members spent the",
+      "caption": "From Paris to Milan, London to Barcelona. Here is where Ennova members spent their summer, and how being part of the team helped them get there. \n\nDon\u2019t wait until the last minute to get your applicat",
+      "type": "Sidecar",
+      "likes": 67,
+      "comments": 0,
+      "views": 0,
+      "er": 2.16,
+      "pillar": "Community & Culture",
+      "date": "2026-09-25",
+      "qualityScore": 4.0
+    },
+    {
+      "url": "https://www.instagram.com/p/DdrcmeCOPRG/",
+      "hook": "We came as an association. We left as a team. \ud83e\udec2",
+      "caption": "We came as an association. We left as a team. \ud83e\udec2\n\nA little throwback to our Ennova team buildings \ud83d\udc99\n\nApplications are open. Your turn?",
+      "type": "Video",
+      "likes": 49,
+      "comments": 4,
+      "views": 2758,
+      "er": 1.71,
+      "pillar": "Community & Culture",
+      "date": "2026-09-24",
+      "qualityScore": 3.5
+    },
+    {
+      "url": "https://www.instagram.com/p/DdofSlKMAGH/",
+      "hook": "\ud83e\udd16 Want to get ahead with Data & AI? Maybe don\u2019t walk in on the coding sesh\u2026.",
+      "caption": "\ud83e\udd16 Want to get ahead with Data & AI? Maybe don\u2019t walk in on the coding sesh\u2026.\n\nJoin our Data & AI Department and work on real projects, learn practical skills, and meet people who are shaping what\u2019s ne",
+      "type": "Video",
+      "likes": 48,
+      "comments": 5,
+      "views": 2933,
+      "er": 1.71,
+      "pillar": "Education & Insights",
+      "date": "2026-09-23",
+      "qualityScore": 3.6
+    },
+    {
+      "url": "https://www.instagram.com/p/DdgyHJ3jJXK/",
+      "hook": "Don\u2019t wait for excuses\u2026. Link in Bio \ud83c\udf1f",
+      "caption": "Don\u2019t wait for excuses\u2026. Link in Bio \ud83c\udf1f",
+      "type": "Sidecar",
+      "likes": 41,
+      "comments": 1,
+      "views": 0,
+      "er": 1.35,
+      "pillar": "Announcements & CTAs",
+      "date": "2026-09-20",
+      "qualityScore": 3.8
+    },
+    {
+      "url": "https://www.instagram.com/p/DdeTsaqDNJ3/",
+      "hook": "Thanks to everyone we met at the Association Fair!",
+      "caption": "Thanks to everyone we met at the Association Fair! \n\nApplication link in bio \ud83d\ude80",
+      "type": "Sidecar",
+      "likes": 36,
+      "comments": 1,
+      "views": 0,
+      "er": 1.19,
+      "pillar": "Events & Experiences",
+      "date": "2026-09-19",
+      "qualityScore": 3.8
+    },
+    {
+      "url": "https://www.instagram.com/p/DdZTWyquGHw/",
+      "hook": "Be behind the team that makes Ennova happen. \ud83e\udd1d Build the community and bring the",
+      "caption": "Be behind the team that makes Ennova happen. \ud83e\udd1d Build the community and bring the team together. Join Ennova HR!\n\n\ud83d\udccc Link in bio",
+      "type": "Video",
+      "likes": 76,
+      "comments": 8,
+      "views": 3747,
+      "er": 2.7,
+      "pillar": "Community & Culture",
+      "date": "2026-09-17",
+      "qualityScore": 3.7
+    },
+    {
+      "url": "https://www.instagram.com/p/DdWYdmAufI1/",
+      "hook": "Bring the startup world to campus. \ud83d\ude80 Organise events, meet inspiring founders an",
+      "caption": "Bring the startup world to campus. \ud83d\ude80 Organise events, meet inspiring founders and create opportunities with Ennova Ventures! \n\n\ud83d\udccc Link in bio!",
+      "type": "Video",
+      "likes": 79,
+      "comments": 7,
+      "views": 3755,
+      "er": 2.77,
+      "pillar": "Events & Experiences",
+      "date": "2026-09-16",
+      "qualityScore": 3.7
+    },
+    {
+      "url": "https://www.instagram.com/p/DdT90RjMJFz/",
+      "hook": "Entrepreneurship starts with curiosity. \ud83d\udca1 Turn yours into experiences and opport",
+      "caption": "Entrepreneurship starts with curiosity. \ud83d\udca1 Turn yours into experiences and opportunities with Ennova Innovation! \ud83d\ude80 \n\n\ud83d\udccc Link in bio!",
+      "type": "Video",
+      "likes": 66,
+      "comments": 8,
+      "views": 3698,
+      "er": 2.38,
+      "pillar": "Entrepreneurship",
+      "date": "2026-09-15",
+      "qualityScore": 3.8
+    },
+    {
+      "url": "https://www.instagram.com/p/DdRalnds0yf/",
+      "hook": "Work on real cases, turn ideas into solutions and see what consulting is really ",
+      "caption": "Work on real cases, turn ideas into solutions and see what consulting is really about! \ud83d\ude80 Apply to Ennova Consulting! \n\n\ud83d\udccc Link in bio!",
+      "type": "Video",
+      "likes": 76,
+      "comments": 6,
+      "views": 5009,
+      "er": 2.64,
+      "pillar": "Announcements & CTAs",
+      "date": "2026-09-14",
+      "qualityScore": 3.7
+    },
+    {
+      "url": "https://www.instagram.com/p/DdO11coM_3p/",
+      "hook": "Ennova Recruitment is open! The Sports Department is looking for its next player",
+      "caption": "Ennova Recruitment is open! The Sports Department is looking for its next players. \ud83c\udfc6\n\nFrom organizing tournaments to creating events that bring people together, Sports is all about energy, teamwork, a",
+      "type": "Video",
+      "likes": 63,
+      "comments": 1,
+      "views": 3400,
+      "er": 2.06,
+      "pillar": "Events & Experiences",
+      "date": "2026-09-13",
+      "qualityScore": 3.2
+    },
+    {
+      "url": "https://www.instagram.com/p/DdLpuqDO9sB/",
+      "hook": "Meet the team behind the impact. \ud83c\udf0d\u2728",
+      "caption": "Meet the team behind the impact. \ud83c\udf0d\u2728\n\nIdeas, people & projects that actually mean something\ud83d\ude80\n\nThink you\u2019re ready to make an impact? \ud83d\udc40\n\n\ud83d\udd17 Join Impact, link in bio!",
+      "type": "Video",
+      "likes": 80,
+      "comments": 6,
+      "views": 4228,
+      "er": 2.77,
+      "pillar": "Community & Culture",
+      "date": "2026-09-12",
+      "qualityScore": 4.1
+    },
+    {
+      "url": "https://www.instagram.com/p/DdGxMRQu6Ph/",
+      "hook": "Meet the team behind the numbers. \ud83d\udcca",
+      "caption": "Meet the team behind the numbers. \ud83d\udcca\n\nFinance at Ennova is where strategy meets execution. Managing budgets, making smarter decisions, and keeping our ideas financially possible.\n\n\ud83d\udcb8 Finance Department\n",
+      "type": "Video",
+      "likes": 93,
+      "comments": 9,
+      "views": 4548,
+      "er": 3.28,
+      "pillar": "Community & Culture",
+      "date": "2026-09-10",
+      "qualityScore": 4.1
+    },
+    {
+      "url": "https://www.instagram.com/p/DdE1QmQOqLf/",
+      "hook": "Want to put your creativity into action? \ud83d\udc40 Help shape Ennova\u2019s content and prese",
+      "caption": "Want to put your creativity into action? \ud83d\udc40 Help shape Ennova\u2019s content and presence on campus! \n\nJoin Marketing \ud83d\ude80 Link in bio!",
+      "type": "Video",
+      "likes": 60,
+      "comments": 12,
+      "views": 3450,
+      "er": 2.32,
+      "pillar": "Announcements & CTAs",
+      "date": "2026-09-09",
+      "qualityScore": 3.9
+    },
+    {
+      "url": "https://www.instagram.com/p/DdBeJOlDvMR/",
+      "hook": "Recruitment 2026/27 is here! \ud83d\ude80",
+      "caption": "Recruitment 2026/27 is here! \ud83d\ude80\n\nEvery year, Ennova is shaped by the students behind it. This year, it could be you. \ud83d\udc40\n\nCalling all students ready to create, connect and bring something new to Ennova. ",
+      "type": "Sidecar",
+      "likes": 74,
+      "comments": 11,
+      "views": 0,
+      "er": 2.74,
+      "pillar": "Announcements & CTAs",
+      "date": "2026-09-08",
+      "qualityScore": 4.4
+    },
+    {
+      "url": "https://www.instagram.com/p/DYuSK38DFa0/",
+      "hook": "Between exams and deadlines, don\u2019t forget to invest in opportunities too! \ud83d\udc40 See ",
+      "caption": "Between exams and deadlines, don\u2019t forget to invest in opportunities too! \ud83d\udc40 See the best 5 at the Entrepreneurship Summit with @eworks_esade",
+      "type": "Sidecar",
+      "likes": 15,
+      "comments": 0,
+      "views": 0,
+      "er": 0.48,
+      "pillar": "Events & Experiences",
+      "date": "2026-05-24",
+      "qualityScore": 2.9
+    },
+    {
+      "url": "https://www.instagram.com/p/DXRGf5rjP9u/",
+      "hook": "IDEAUP\u2019s 6th edition has officially come to an end, with the final gala taking p",
+      "caption": "IDEAUP\u2019s 6th edition has officially come to an end, with the final gala taking place on April 8th \ud83d\ude80\ud83d\udc4f\n\nThroughout the program, our teams stayed highly engaged, participating in a wide range of workshop",
+      "type": "Sidecar",
+      "likes": 22,
+      "comments": 1,
+      "views": 0,
+      "er": 0.74,
+      "pillar": "Events & Experiences",
+      "date": "2026-04-18",
+      "qualityScore": 3.0
+    },
+    {
+      "url": "https://www.instagram.com/p/DXOT601jOMk/",
+      "hook": "1 DAY LEFT! \u23f3 Don\u2019t miss out on experts and potential internships in the sports ",
+      "caption": "1 DAY LEFT! \u23f3 Don\u2019t miss out on experts and potential internships in the sports industry\u2026\ud83d\udc40\n \n\u23f010-13h\n\ud83d\udcb85\u20ac\n\ud83d\udccdEsade Pedralbes, Edifici 3\u2014 Room A003",
+      "type": "Image",
+      "likes": 12,
+      "comments": 0,
+      "views": 0,
+      "er": 0.39,
+      "pillar": "Career & Opportunities",
+      "date": "2026-04-17",
+      "qualityScore": 2.4
+    },
     {
       "url": "https://www.instagram.com/p/DXM7bDUjkIG/",
       "hook": "Can do 10 kick-ups? Get a discount for our sports panel this Saturday 18th! \u26a1\ufe0f S",
       "caption": "Can do 10 kick-ups? Get a discount for our sports panel this Saturday 18th! \u26a1\ufe0f SIGN UP NOW! \ud83d\udd25\n\n\u23f010h-13h\n\ud83d\udcb85\u20ac\n\ud83d\udd17Link in bio!",
       "type": "Video",
-      "likes": 61,
-      "comments": 7,
-      "views": 759,
-      "er": 2.5,
+      "likes": 100,
+      "comments": 6,
+      "views": 6405,
+      "er": 3.41,
       "pillar": "Announcements & CTAs",
       "date": "2026-04-16",
-      "qualityScore": 4.2
+      "qualityScore": 4.6
     },
     {
       "url": "https://www.instagram.com/p/DXM4NpgDJJ1/",
       "hook": "Important update \u2014 format change.",
       "caption": "Important update \u2014 format change.\nGamechangers Vol. 2 is now an exclusive Sports Industry Panel this Saturday.\n\nSign up now. Limited spots.",
       "type": "Image",
-      "likes": 12,
+      "likes": 16,
       "comments": 0,
       "views": 0,
-      "er": 0.44,
+      "er": 0.52,
       "pillar": "Announcements & CTAs",
       "date": "2026-04-16",
       "qualityScore": 3.0
@@ -822,10 +1337,10 @@
       "hook": "Got a team of 4-5? Build your DREAM sports event this Saturday 18th! Sign up NOW",
       "caption": "Got a team of 4-5? Build your DREAM sports event this Saturday 18th! Sign up NOW! \ud83d\udca5\n\n\ud83d\udd17Link in bio",
       "type": "Video",
-      "likes": 55,
+      "likes": 59,
       "comments": 2,
-      "views": 904,
-      "er": 2.1,
+      "views": 3987,
+      "er": 1.96,
       "pillar": "Events & Experiences",
       "date": "2026-04-15",
       "qualityScore": 4.2
@@ -835,10 +1350,10 @@
       "hook": "Solve the case. Break into sports. This Saturday \ud83d\udd25",
       "caption": "Solve the case. Break into sports. This Saturday \ud83d\udd25",
       "type": "Image",
-      "likes": 16,
+      "likes": 17,
       "comments": 4,
       "views": 0,
-      "er": 0.74,
+      "er": 0.68,
       "pillar": "Brand & General",
       "date": "2026-04-14",
       "qualityScore": 2.7
@@ -851,10 +1366,10 @@
       "likes": 24,
       "comments": 0,
       "views": 0,
-      "er": 0.88,
+      "er": 0.77,
       "pillar": "Community & Culture",
       "date": "2026-04-13",
-      "qualityScore": 2.9
+      "qualityScore": 2.8
     },
     {
       "url": "https://www.instagram.com/p/DW8gjiCjOuZ/",
@@ -864,7 +1379,7 @@
       "likes": 21,
       "comments": 1,
       "views": 0,
-      "er": 0.81,
+      "er": 0.71,
       "pillar": "Events & Experiences",
       "date": "2026-04-10",
       "qualityScore": 4.1
@@ -877,23 +1392,23 @@
       "likes": 28,
       "comments": 3,
       "views": 0,
-      "er": 1.14,
+      "er": 1.0,
       "pillar": "Announcements & CTAs",
       "date": "2026-04-08",
-      "qualityScore": 3.6
+      "qualityScore": 3.5
     },
     {
       "url": "https://www.instagram.com/p/DW3uLiujBHK/",
       "hook": "Meet our first Gamechanger\u26a1\ufe0f",
       "caption": "Meet our first Gamechanger\u26a1\ufe0f\nLink in bio!",
       "type": "Sidecar",
-      "likes": 24,
+      "likes": 25,
       "comments": 0,
       "views": 0,
-      "er": 0.88,
+      "er": 0.8,
       "pillar": "Community & Culture",
       "date": "2026-04-08",
-      "qualityScore": 3.5
+      "qualityScore": 3.4
     },
     {
       "url": "https://www.instagram.com/p/DW1WgzYjNk6/",
@@ -903,7 +1418,7 @@
       "likes": 15,
       "comments": 1,
       "views": 0,
-      "er": 0.59,
+      "er": 0.52,
       "pillar": "Brand & General",
       "date": "2026-04-07",
       "qualityScore": 2.9
@@ -913,10 +1428,10 @@
       "hook": "Our new WEBSITE is now live \ud83d\udc40\ud83d\udc4f Check it out!",
       "caption": "Our new WEBSITE is now live \ud83d\udc40\ud83d\udc4f Check it out!",
       "type": "Sidecar",
-      "likes": 33,
+      "likes": 36,
       "comments": 8,
       "views": 0,
-      "er": 1.51,
+      "er": 1.42,
       "pillar": "Announcements & CTAs",
       "date": "2026-04-07",
       "qualityScore": 3.5
@@ -926,13 +1441,13 @@
       "hook": "\u26bd\ufe0f A real look into how the sports industry works!",
       "caption": "\u26bd\ufe0f A real look into how the sports industry works!\n\nLink in bio!",
       "type": "Sidecar",
-      "likes": 39,
-      "comments": 7,
+      "likes": 40,
+      "comments": 8,
       "views": 0,
-      "er": 1.69,
+      "er": 1.55,
       "pillar": "Announcements & CTAs",
       "date": "2026-04-04",
-      "qualityScore": 4.1
+      "qualityScore": 4.0
     },
     {
       "url": "https://www.instagram.com/p/DWs2DnkjNIz/",
@@ -942,23 +1457,10 @@
       "likes": 21,
       "comments": 0,
       "views": 0,
-      "er": 0.77,
+      "er": 0.68,
       "pillar": "Events & Experiences",
       "date": "2026-04-04",
       "qualityScore": 2.9
-    },
-    {
-      "url": "https://www.instagram.com/p/DWoHIG7DI1F/",
-      "hook": "You watch the game\u2026",
-      "caption": "You watch the game\u2026\nWhat if you could build it?\n\n\u26a1\ufe0fSign up with the link in bio\u2026",
-      "type": "Video",
-      "likes": 39,
-      "comments": 10,
-      "views": 576,
-      "er": 1.8,
-      "pillar": "Announcements & CTAs",
-      "date": "2026-04-02",
-      "qualityScore": 4.3
     },
     {
       "url": "https://www.instagram.com/p/DWgtfrejF2G/",
@@ -968,10 +1470,10 @@
       "likes": 24,
       "comments": 0,
       "views": 0,
-      "er": 0.88,
+      "er": 0.77,
       "pillar": "Events & Experiences",
       "date": "2026-03-30",
-      "qualityScore": 3.7
+      "qualityScore": 3.6
     },
     {
       "url": "https://www.instagram.com/p/DWTwJWuDD4h/",
@@ -981,10 +1483,10 @@
       "likes": 28,
       "comments": 4,
       "views": 0,
-      "er": 1.18,
+      "er": 1.03,
       "pillar": "Events & Experiences",
       "date": "2026-03-25",
-      "qualityScore": 3.8
+      "qualityScore": 3.7
     },
     {
       "url": "https://www.instagram.com/p/DWPTTvFju7D/",
@@ -994,10 +1496,10 @@
       "likes": 28,
       "comments": 3,
       "views": 0,
-      "er": 1.14,
+      "er": 1.0,
       "pillar": "Announcements & CTAs",
       "date": "2026-03-23",
-      "qualityScore": 2.9
+      "qualityScore": 2.8
     },
     {
       "url": "https://www.instagram.com/p/DWPS5UHDhjv/",
@@ -1007,7 +1509,7 @@
       "likes": 16,
       "comments": 0,
       "views": 0,
-      "er": 0.59,
+      "er": 0.52,
       "pillar": "Events & Experiences",
       "date": "2026-03-23",
       "qualityScore": 2.6
@@ -1020,10 +1522,10 @@
       "likes": 39,
       "comments": 1,
       "views": 0,
-      "er": 1.47,
+      "er": 1.29,
       "pillar": "Events & Experiences",
       "date": "2026-03-21",
-      "qualityScore": 3.5
+      "qualityScore": 3.4
     },
     {
       "url": "https://www.instagram.com/p/DVwUzmUDVcT/",
@@ -1031,12 +1533,12 @@
       "caption": "\ud83d\ude80 Last weekend we hosted VC101: The European Venture Capital Experience at ESADE Barcelona.\n\nA huge thank you to our collaborators @esadefinance and @finedainternational for making this initiative pos",
       "type": "Sidecar",
       "likes": 54,
-      "comments": 6,
+      "comments": 7,
       "views": 0,
-      "er": 2.21,
+      "er": 1.96,
       "pillar": "Events & Experiences",
       "date": "2026-03-11",
-      "qualityScore": 4.2
+      "qualityScore": 4.1
     },
     {
       "url": "https://www.instagram.com/p/DVtwTYlDhKB/",
@@ -1046,23 +1548,23 @@
       "likes": 24,
       "comments": 2,
       "views": 0,
-      "er": 0.96,
+      "er": 0.84,
       "pillar": "Brand & General",
       "date": "2026-03-10",
-      "qualityScore": 3.1
+      "qualityScore": 3.0
     },
     {
       "url": "https://www.instagram.com/p/DVrRwWxjj1b/",
       "hook": "\u2615 NOVA New partner unlocked!",
       "caption": "\u2615 NOVA New partner unlocked!\n\nJUST Coffee is joining NOVA: Case Cracking \u2014 and they\u2019re bringing *free coffee* for all attendees.\n\nStay sharp, grab a cup, and crack the case. \ud83e\udde0\u26a1\nLink in bio!",
       "type": "Sidecar",
-      "likes": 55,
+      "likes": 56,
       "comments": 3,
       "views": 0,
-      "er": 2.13,
+      "er": 1.9,
       "pillar": "Partnerships",
       "date": "2026-03-09",
-      "qualityScore": 4.1
+      "qualityScore": 4.0
     },
     {
       "url": "https://www.instagram.com/p/DVmE-pIDvEG/",
@@ -1071,8 +1573,8 @@
       "type": "Video",
       "likes": 30,
       "comments": 6,
-      "views": 247,
-      "er": 1.32,
+      "views": 1520,
+      "er": 1.16,
       "pillar": "Events & Experiences",
       "date": "2026-03-07",
       "qualityScore": 2.9
@@ -1082,13 +1584,13 @@
       "hook": "All the info you need to know about NOVA! \ud83e\udde9\ud83c\udf1f",
       "caption": "All the info you need to know about NOVA! \ud83e\udde9\ud83c\udf1f",
       "type": "Video",
-      "likes": 93,
+      "likes": 94,
       "comments": 11,
-      "views": 1309,
-      "er": 3.82,
+      "views": 4118,
+      "er": 3.38,
       "pillar": "Brand & General",
       "date": "2026-03-05",
-      "qualityScore": 4.1
+      "qualityScore": 4.0
     },
     {
       "url": "https://www.instagram.com/p/DVbzU8fjiWe/",
@@ -1096,12 +1598,12 @@
       "caption": "Why is this partnership so valuable? \ud83c\udf1f\nMeet us the 15th of this month and find out! \u2728",
       "type": "Sidecar",
       "likes": 38,
-      "comments": 2,
+      "comments": 3,
       "views": 0,
-      "er": 1.47,
+      "er": 1.32,
       "pillar": "Community & Culture",
       "date": "2026-03-03",
-      "qualityScore": 3.7
+      "qualityScore": 3.6
     },
     {
       "url": "https://www.instagram.com/p/DVbnq6bjQee/",
@@ -1110,11 +1612,11 @@
       "type": "Video",
       "likes": 72,
       "comments": 3,
-      "views": 1285,
-      "er": 2.76,
+      "views": 6005,
+      "er": 2.41,
       "pillar": "Community & Culture",
       "date": "2026-03-03",
-      "qualityScore": 3.4
+      "qualityScore": 3.3
     },
     {
       "url": "https://www.instagram.com/p/DVZdJVJDOsg/",
@@ -1124,10 +1626,10 @@
       "likes": 66,
       "comments": 10,
       "views": 0,
-      "er": 2.79,
+      "er": 2.45,
       "pillar": "Entrepreneurship",
       "date": "2026-03-02",
-      "qualityScore": 4.0
+      "qualityScore": 3.9
     },
     {
       "url": "https://www.instagram.com/p/DVV7UAkDJW2/",
@@ -1136,8 +1638,8 @@
       "type": "Video",
       "likes": 27,
       "comments": 8,
-      "views": 304,
-      "er": 1.29,
+      "views": 1858,
+      "er": 1.13,
       "pillar": "Brand & General",
       "date": "2026-03-01",
       "qualityScore": 2.9
@@ -1150,7 +1652,7 @@
       "likes": 12,
       "comments": 0,
       "views": 0,
-      "er": 0.44,
+      "er": 0.39,
       "pillar": "Events & Experiences",
       "date": "2026-02-26",
       "qualityScore": 3.1
@@ -1163,7 +1665,7 @@
       "likes": 30,
       "comments": 0,
       "views": 0,
-      "er": 1.1,
+      "er": 0.97,
       "pillar": "Events & Experiences",
       "date": "2026-02-25",
       "qualityScore": 3.9
@@ -1175,11 +1677,11 @@
       "type": "Video",
       "likes": 32,
       "comments": 0,
-      "views": 568,
-      "er": 1.18,
+      "views": 2406,
+      "er": 1.03,
       "pillar": "Brand & General",
       "date": "2026-02-25",
-      "qualityScore": 3.1
+      "qualityScore": 3.0
     },
     {
       "url": "https://www.instagram.com/p/DVJ4aK2DQP2/",
@@ -1188,11 +1690,11 @@
       "type": "Video",
       "likes": 62,
       "comments": 7,
-      "views": 945,
-      "er": 2.54,
+      "views": 3478,
+      "er": 2.22,
       "pillar": "Career & Opportunities",
       "date": "2026-02-24",
-      "qualityScore": 3.4
+      "qualityScore": 3.3
     },
     {
       "url": "https://www.instagram.com/p/DVJ0y-XjSMB/",
@@ -1202,7 +1704,7 @@
       "likes": 5,
       "comments": 0,
       "views": 0,
-      "er": 0.18,
+      "er": 0.16,
       "pillar": "Announcements & CTAs",
       "date": "2026-02-24",
       "qualityScore": 3.1
@@ -1215,7 +1717,7 @@
       "likes": 13,
       "comments": 0,
       "views": 0,
-      "er": 0.48,
+      "er": 0.42,
       "pillar": "Career & Opportunities",
       "date": "2026-02-21",
       "qualityScore": 3.0
@@ -1228,7 +1730,7 @@
       "likes": 16,
       "comments": 0,
       "views": 0,
-      "er": 0.59,
+      "er": 0.52,
       "pillar": "Brand & General",
       "date": "2026-02-20",
       "qualityScore": 3.1
@@ -1240,24 +1742,24 @@
       "type": "Video",
       "likes": 75,
       "comments": 2,
-      "views": 1785,
-      "er": 2.83,
+      "views": 4803,
+      "er": 2.48,
       "pillar": "Education & Insights",
       "date": "2026-02-19",
-      "qualityScore": 3.9
+      "qualityScore": 3.8
     },
     {
       "url": "https://www.instagram.com/p/DU8lBdvjaMn/",
       "hook": "Are you in for room? Or just watching from the outside?",
       "caption": "Are you in for room? Or just watching from the outside? \nThis isn\u2019t about talent. It\u2019s about the opportunity you choose to take. \nIf you\u2019re willing to take your chance, link in bio.  #nextgen #ennova ",
       "type": "Video",
-      "likes": 46,
+      "likes": 47,
       "comments": 6,
-      "views": 699,
-      "er": 1.91,
+      "views": 3169,
+      "er": 1.71,
       "pillar": "Career & Opportunities",
       "date": "2026-02-19",
-      "qualityScore": 4.1
+      "qualityScore": 4.0
     },
     {
       "url": "https://www.instagram.com/p/DU8c_04COoF/",
@@ -1267,7 +1769,7 @@
       "likes": 27,
       "comments": 1,
       "views": 0,
-      "er": 1.03,
+      "er": 0.9,
       "pillar": "Events & Experiences",
       "date": "2026-02-19",
       "qualityScore": 3.6
@@ -1279,11 +1781,11 @@
       "type": "Video",
       "likes": 79,
       "comments": 5,
-      "views": 1070,
-      "er": 3.09,
+      "views": 3845,
+      "er": 2.7,
       "pillar": "Events & Experiences",
       "date": "2026-02-18",
-      "qualityScore": 3.4
+      "qualityScore": 3.3
     },
     {
       "url": "https://www.instagram.com/p/DU5E6C7Er7I/",
@@ -1292,7 +1794,7 @@
       "type": "Video",
       "likes": 0,
       "comments": 0,
-      "views": 489,
+      "views": 2109,
       "er": 0.0,
       "pillar": "Events & Experiences",
       "date": "2026-02-18",
@@ -1303,13 +1805,13 @@
       "hook": "Your finance future won\u2019t come from a club, it\u2019ll come from VC101, the best oppo",
       "caption": "Your finance future won\u2019t come from a club, it\u2019ll come from VC101, the best opportunity you\u2019ll have all year, don\u2019t waste it!\n\n##venturecapital #esade #finance",
       "type": "Video",
-      "likes": 59,
+      "likes": 60,
       "comments": 6,
-      "views": 926,
-      "er": 2.39,
+      "views": 3336,
+      "er": 2.12,
       "pillar": "Events & Experiences",
       "date": "2026-02-17",
-      "qualityScore": 3.4
+      "qualityScore": 3.2
     },
     {
       "url": "https://www.instagram.com/p/DU2k_LHDGXT/",
@@ -1318,24 +1820,24 @@
       "type": "Video",
       "likes": 105,
       "comments": 4,
-      "views": 2065,
-      "er": 4.01,
+      "views": 6876,
+      "er": 3.51,
       "pillar": "Career & Opportunities",
       "date": "2026-02-17",
-      "qualityScore": 4.6
+      "qualityScore": 4.4
     },
     {
       "url": "https://www.instagram.com/p/DU1Hx4ejXN1/",
       "hook": "\u20ac250,000.",
       "caption": "\u20ac250,000.\n\nWould you invest?\n\nAt VC101, you don\u2019t just learn about venture capital you step into the room and think like a real investor.\n\n\ud83d\udd0e Analyze a real startup in teams with full financials (no te",
       "type": "Video",
-      "likes": 115,
+      "likes": 116,
       "comments": 9,
-      "views": 2008,
-      "er": 4.56,
+      "views": 6380,
+      "er": 4.02,
       "pillar": "Education & Insights",
       "date": "2026-02-16",
-      "qualityScore": 5.5
+      "qualityScore": 5.3
     },
     {
       "url": "https://www.instagram.com/p/DU0UjoPjKwC/",
@@ -1345,10 +1847,10 @@
       "likes": 51,
       "comments": 2,
       "views": 0,
-      "er": 1.95,
+      "er": 1.71,
       "pillar": "Events & Experiences",
       "date": "2026-02-16",
-      "qualityScore": 4.5
+      "qualityScore": 4.4
     },
     {
       "url": "https://www.instagram.com/p/DUvgNCUjGaj/",
@@ -1358,10 +1860,10 @@
       "likes": 29,
       "comments": 2,
       "views": 0,
-      "er": 1.14,
+      "er": 1.0,
       "pillar": "Community & Culture",
       "date": "2026-02-14",
-      "qualityScore": 3.2
+      "qualityScore": 3.1
     },
     {
       "url": "https://www.instagram.com/p/DUqG2L4jJqh/",
@@ -1371,7 +1873,7 @@
       "likes": 16,
       "comments": 0,
       "views": 0,
-      "er": 0.59,
+      "er": 0.52,
       "pillar": "Career & Opportunities",
       "date": "2026-02-12",
       "qualityScore": 2.9
@@ -1384,7 +1886,7 @@
       "likes": 22,
       "comments": 1,
       "views": 0,
-      "er": 0.85,
+      "er": 0.74,
       "pillar": "Events & Experiences",
       "date": "2026-02-11",
       "qualityScore": 2.8
@@ -1397,23 +1899,10 @@
       "likes": 23,
       "comments": 0,
       "views": 0,
-      "er": 0.85,
+      "er": 0.74,
       "pillar": "Career & Opportunities",
       "date": "2026-02-11",
       "qualityScore": 3.0
-    },
-    {
-      "url": "https://www.instagram.com/p/DUlL4GbjK8u/",
-      "hook": "Talent Internships is right around the CORNER\u2026 stay tuned! \ud83e\udd17\ud83d\udd14 #internships #jobs",
-      "caption": "Talent Internships is right around the CORNER\u2026 stay tuned! \ud83e\udd17\ud83d\udd14 #internships #jobsearch #esade",
-      "type": "Video",
-      "likes": 67,
-      "comments": 5,
-      "views": 1048,
-      "er": 2.65,
-      "pillar": "Career & Opportunities",
-      "date": "2026-02-10",
-      "qualityScore": 3.3
     },
     {
       "url": "https://www.instagram.com/p/DUk_eMFjExI/",
@@ -1423,7 +1912,7 @@
       "likes": 17,
       "comments": 0,
       "views": 0,
-      "er": 0.62,
+      "er": 0.55,
       "pillar": "Education & Insights",
       "date": "2026-02-10",
       "qualityScore": 3.3
@@ -1435,11 +1924,11 @@
       "type": "Video",
       "likes": 68,
       "comments": 2,
-      "views": 838,
-      "er": 2.57,
+      "views": 3276,
+      "er": 2.25,
       "pillar": "Events & Experiences",
       "date": "2026-02-10",
-      "qualityScore": 4.4
+      "qualityScore": 4.3
     },
     {
       "url": "https://www.instagram.com/p/DUjF6VNjvtL/",
@@ -1449,7 +1938,7 @@
       "likes": 15,
       "comments": 0,
       "views": 0,
-      "er": 0.55,
+      "er": 0.48,
       "pillar": "Education & Insights",
       "date": "2026-02-09",
       "qualityScore": 3.7
@@ -1462,7 +1951,7 @@
       "likes": 14,
       "comments": 0,
       "views": 0,
-      "er": 0.51,
+      "er": 0.45,
       "pillar": "Education & Insights",
       "date": "2026-02-09",
       "qualityScore": 3.7
@@ -1472,13 +1961,13 @@
       "hook": "Don\u2019t hear about it",
       "caption": "Don\u2019t hear about it \nBe in the room.",
       "type": "Sidecar",
-      "likes": 35,
+      "likes": 34,
       "comments": 3,
       "views": 0,
-      "er": 1.4,
+      "er": 1.19,
       "pillar": "Brand & General",
       "date": "2026-02-08",
-      "qualityScore": 3.3
+      "qualityScore": 3.2
     },
     {
       "url": "https://www.instagram.com/p/DUd4ryXAESI/",
@@ -1488,10 +1977,10 @@
       "likes": 31,
       "comments": 0,
       "views": 0,
-      "er": 1.14,
+      "er": 1.0,
       "pillar": "Events & Experiences",
       "date": "2026-02-07",
-      "qualityScore": 3.4
+      "qualityScore": 3.3
     },
     {
       "url": "https://www.instagram.com/p/DUbXMUdDj9I/",
@@ -1501,10 +1990,10 @@
       "likes": 26,
       "comments": 0,
       "views": 0,
-      "er": 0.96,
+      "er": 0.84,
       "pillar": "Events & Experiences",
       "date": "2026-02-06",
-      "qualityScore": 3.8
+      "qualityScore": 3.7
     },
     {
       "url": "https://www.instagram.com/p/DUYIP6ojKUY/",
@@ -1514,7 +2003,7 @@
       "likes": 35,
       "comments": 0,
       "views": 0,
-      "er": 1.29,
+      "er": 1.13,
       "pillar": "Education & Insights",
       "date": "2026-02-05",
       "qualityScore": 3.8
@@ -1527,7 +2016,7 @@
       "likes": 20,
       "comments": 0,
       "views": 0,
-      "er": 0.74,
+      "er": 0.64,
       "pillar": "Education & Insights",
       "date": "2026-02-05",
       "qualityScore": 2.8
@@ -1540,10 +2029,10 @@
       "likes": 41,
       "comments": 0,
       "views": 0,
-      "er": 1.51,
+      "er": 1.32,
       "pillar": "Events & Experiences",
       "date": "2026-02-02",
-      "qualityScore": 3.7
+      "qualityScore": 3.6
     },
     {
       "url": "https://www.instagram.com/p/DUQUIMUDAOA/",
@@ -1553,10 +2042,10 @@
       "likes": 40,
       "comments": 2,
       "views": 0,
-      "er": 1.54,
+      "er": 1.35,
       "pillar": "Brand & General",
       "date": "2026-02-02",
-      "qualityScore": 3.3
+      "qualityScore": 3.2
     },
     {
       "url": "https://www.instagram.com/p/DUIPCfIDED7/",
@@ -1566,7 +2055,7 @@
       "likes": 35,
       "comments": 2,
       "views": 0,
-      "er": 1.36,
+      "er": 1.19,
       "pillar": "Education & Insights",
       "date": "2026-01-30",
       "qualityScore": 4.2
@@ -1579,10 +2068,10 @@
       "likes": 66,
       "comments": 4,
       "views": 0,
-      "er": 2.57,
+      "er": 2.25,
       "pillar": "Education & Insights",
       "date": "2026-01-28",
-      "qualityScore": 3.9
+      "qualityScore": 3.8
     },
     {
       "url": "https://www.instagram.com/p/DUELAHUDoQr/",
@@ -1591,11 +2080,11 @@
       "type": "Video",
       "likes": 76,
       "comments": 4,
-      "views": 1663,
-      "er": 2.94,
+      "views": 4219,
+      "er": 2.58,
       "pillar": "Education & Insights",
       "date": "2026-01-28",
-      "qualityScore": 4.2
+      "qualityScore": 4.0
     },
     {
       "url": "https://www.instagram.com/p/DUDKPJSDYCE/",
@@ -1603,12 +2092,12 @@
       "caption": "Meet Piotr, a NextGen leader from ESADE.\n\nHe is the force behind Ennova that is opening doors to the Barcelona startup ecosystem via accelerators, career fairs, and workshops.\n\nWelcome to NextGen, @en",
       "type": "Video",
       "likes": 46,
-      "comments": 2,
-      "views": 714,
-      "er": 1.76,
+      "comments": 3,
+      "views": 3013,
+      "er": 1.58,
       "pillar": "Events & Experiences",
       "date": "2026-01-28",
-      "qualityScore": 4.0
+      "qualityScore": 3.9
     },
     {
       "url": "https://www.instagram.com/p/DT5cFCxDB6f/",
@@ -1617,8 +2106,8 @@
       "type": "Video",
       "likes": 22,
       "comments": 0,
-      "views": 161,
-      "er": 0.81,
+      "views": 1221,
+      "er": 0.71,
       "pillar": "Events & Experiences",
       "date": "2026-01-24",
       "qualityScore": 2.5
@@ -1631,10 +2120,10 @@
       "likes": 44,
       "comments": 5,
       "views": 0,
-      "er": 1.8,
+      "er": 1.58,
       "pillar": "Brand & General",
       "date": "2026-01-23",
-      "qualityScore": 3.1
+      "qualityScore": 3.0
     },
     {
       "url": "https://www.instagram.com/p/DT0aVdjjHHm/",
@@ -1644,7 +2133,7 @@
       "likes": 34,
       "comments": 3,
       "views": 0,
-      "er": 1.36,
+      "er": 1.19,
       "pillar": "Announcements & CTAs",
       "date": "2026-01-22",
       "qualityScore": 3.2
@@ -1657,10 +2146,10 @@
       "likes": 30,
       "comments": 2,
       "views": 0,
-      "er": 1.18,
+      "er": 1.03,
       "pillar": "Announcements & CTAs",
       "date": "2026-01-21",
-      "qualityScore": 3.4
+      "qualityScore": 3.3
     },
     {
       "url": "https://www.instagram.com/p/DSM2RJ-jBFG/",
@@ -1670,7 +2159,7 @@
       "likes": 30,
       "comments": 0,
       "views": 0,
-      "er": 1.1,
+      "er": 0.97,
       "pillar": "Brand & General",
       "date": "2025-12-13",
       "qualityScore": 3.0
@@ -1683,10 +2172,10 @@
       "likes": 86,
       "comments": 1,
       "views": 0,
-      "er": 3.2,
+      "er": 2.8,
       "pillar": "Events & Experiences",
       "date": "2025-12-03",
-      "qualityScore": 4.2
+      "qualityScore": 4.0
     },
     {
       "url": "https://www.instagram.com/p/DRkddysjI6p/",
@@ -1695,11 +2184,11 @@
       "type": "Video",
       "likes": 31,
       "comments": 0,
-      "views": 268,
-      "er": 1.14,
+      "views": 1666,
+      "er": 1.0,
       "pillar": "Community & Culture",
       "date": "2025-11-27",
-      "qualityScore": 3.7
+      "qualityScore": 3.6
     },
     {
       "url": "https://www.instagram.com/p/DRjbYnbjESj/",
@@ -1709,7 +2198,7 @@
       "likes": 27,
       "comments": 1,
       "views": 0,
-      "er": 1.03,
+      "er": 0.9,
       "pillar": "Events & Experiences",
       "date": "2025-11-27",
       "qualityScore": 4.0
@@ -1722,10 +2211,10 @@
       "likes": 55,
       "comments": 4,
       "views": 0,
-      "er": 2.17,
+      "er": 1.9,
       "pillar": "Events & Experiences",
       "date": "2025-11-25",
-      "qualityScore": 3.6
+      "qualityScore": 3.5
     },
     {
       "url": "https://www.instagram.com/p/DRaJwQnjG9R/",
@@ -1735,7 +2224,7 @@
       "likes": 27,
       "comments": 1,
       "views": 0,
-      "er": 1.03,
+      "er": 0.9,
       "pillar": "Community & Culture",
       "date": "2025-11-23",
       "qualityScore": 3.8
@@ -1746,12 +2235,12 @@
       "caption": "LAST DAY to APPLY! \ud83c\udf1f\ud83d\udc83 Link on bio!",
       "type": "Sidecar",
       "likes": 24,
-      "comments": 1,
+      "comments": 2,
       "views": 0,
-      "er": 0.92,
+      "er": 0.84,
       "pillar": "Announcements & CTAs",
       "date": "2025-11-21",
-      "qualityScore": 3.1
+      "qualityScore": 3.0
     },
     {
       "url": "https://www.instagram.com/p/DRSWlWBDMR9/",
@@ -1760,11 +2249,11 @@
       "type": "Video",
       "likes": 60,
       "comments": 15,
-      "views": 591,
-      "er": 2.76,
+      "views": 2867,
+      "er": 2.41,
       "pillar": "Education & Insights",
       "date": "2025-11-20",
-      "qualityScore": 4.9
+      "qualityScore": 4.8
     },
     {
       "url": "https://www.instagram.com/p/DRSK5p4DLjw/",
@@ -1773,8 +2262,8 @@
       "type": "Video",
       "likes": 36,
       "comments": 0,
-      "views": 558,
-      "er": 1.32,
+      "views": 2349,
+      "er": 1.16,
       "pillar": "Announcements & CTAs",
       "date": "2025-11-20",
       "qualityScore": 3.5
@@ -1787,7 +2276,7 @@
       "likes": 21,
       "comments": 2,
       "views": 0,
-      "er": 0.85,
+      "er": 0.74,
       "pillar": "Events & Experiences",
       "date": "2025-11-20",
       "qualityScore": 3.2
@@ -1800,10 +2289,10 @@
       "likes": 32,
       "comments": 0,
       "views": 0,
-      "er": 1.18,
+      "er": 1.03,
       "pillar": "Brand & General",
       "date": "2025-11-20",
-      "qualityScore": 3.3
+      "qualityScore": 3.2
     },
     {
       "url": "https://www.instagram.com/p/DRPxoRpjN-v/",
@@ -1811,12 +2300,12 @@
       "caption": "Clear your calender \n3 days left \n\u2026 \ud83c\udf1f\ud83d\udc83",
       "type": "Sidecar",
       "likes": 29,
-      "comments": 3,
+      "comments": 4,
       "views": 0,
-      "er": 1.18,
+      "er": 1.06,
       "pillar": "Brand & General",
       "date": "2025-11-19",
-      "qualityScore": 3.4
+      "qualityScore": 3.3
     },
     {
       "url": "https://www.instagram.com/p/DRM9fxyAnbf/",
@@ -1826,7 +2315,7 @@
       "likes": 23,
       "comments": 0,
       "views": 0,
-      "er": 0.85,
+      "er": 0.74,
       "pillar": "Career & Opportunities",
       "date": "2025-11-18",
       "qualityScore": 3.4
@@ -1837,12 +2326,12 @@
       "caption": "IDEAUP x CONECTOR Networking Session (15.11.25) recap \ud83d\ude80 Thank you to all the participants and mentors \ud83d\ude42",
       "type": "Sidecar",
       "likes": 55,
-      "comments": 3,
+      "comments": 4,
       "views": 0,
-      "er": 2.13,
+      "er": 1.9,
       "pillar": "Events & Experiences",
       "date": "2025-11-18",
-      "qualityScore": 3.6
+      "qualityScore": 3.5
     },
     {
       "url": "https://www.instagram.com/p/DRMVQbyDBow/",
@@ -1850,9 +2339,9 @@
       "caption": "SPOTLIGHT STORY (Marketing, PR & Communications): Rocio Carasso! Come to FFN & meet an incredible founder \ud83c\udf1f\ud83d\udc83",
       "type": "Image",
       "likes": 18,
-      "comments": 3,
+      "comments": 4,
       "views": 0,
-      "er": 0.77,
+      "er": 0.71,
       "pillar": "Events & Experiences",
       "date": "2025-11-18",
       "qualityScore": 2.5
@@ -1865,10 +2354,10 @@
       "likes": 37,
       "comments": 3,
       "views": 0,
-      "er": 1.47,
+      "er": 1.29,
       "pillar": "Announcements & CTAs",
       "date": "2025-11-17",
-      "qualityScore": 3.4
+      "qualityScore": 3.3
     },
     {
       "url": "https://www.instagram.com/p/DRKYbz3DO3H/",
@@ -1877,8 +2366,8 @@
       "type": "Video",
       "likes": 31,
       "comments": 4,
-      "views": 356,
-      "er": 1.29,
+      "views": 1577,
+      "er": 1.13,
       "pillar": "Announcements & CTAs",
       "date": "2025-11-17",
       "qualityScore": 3.3
@@ -1904,7 +2393,7 @@
       "likes": 39,
       "comments": 5,
       "views": 0,
-      "er": 1.62,
+      "er": 1.42,
       "pillar": "Events & Experiences",
       "date": "2025-11-12",
       "qualityScore": 3.7
@@ -1914,13 +2403,13 @@
       "hook": "You think SHE got LUCKY? Come to FFN the 22nd of November! \ud83d\udc9c\ud83d\udc83",
       "caption": "You think SHE got LUCKY? Come to FFN the 22nd of November! \ud83d\udc9c\ud83d\udc83",
       "type": "Sidecar",
-      "likes": 31,
+      "likes": 30,
       "comments": 0,
       "views": 0,
-      "er": 1.14,
+      "er": 0.97,
       "pillar": "Brand & General",
       "date": "2025-11-11",
-      "qualityScore": 3.4
+      "qualityScore": 3.3
     },
     {
       "url": "https://www.instagram.com/p/DQ1re0pjB9S/",
@@ -1930,7 +2419,7 @@
       "likes": 13,
       "comments": 0,
       "views": 0,
-      "er": 0.48,
+      "er": 0.42,
       "pillar": "Announcements & CTAs",
       "date": "2025-11-09",
       "qualityScore": 3.5
@@ -1942,11 +2431,11 @@
       "type": "Video",
       "likes": 42,
       "comments": 6,
-      "views": 453,
-      "er": 1.76,
+      "views": 2116,
+      "er": 1.55,
       "pillar": "Announcements & CTAs",
       "date": "2025-11-08",
-      "qualityScore": 3.7
+      "qualityScore": 3.6
     },
     {
       "url": "https://www.instagram.com/p/DQw9tPDDJup/",
@@ -1956,10 +2445,10 @@
       "likes": 38,
       "comments": 0,
       "views": 0,
-      "er": 1.4,
+      "er": 1.22,
       "pillar": "Entrepreneurship",
       "date": "2025-11-07",
-      "qualityScore": 3.0
+      "qualityScore": 2.9
     },
     {
       "url": "https://www.instagram.com/p/DQtXh6FDKIT/",
@@ -1969,20 +2458,20 @@
       "likes": 137,
       "comments": 11,
       "views": 0,
-      "er": 5.44,
+      "er": 4.76,
       "pillar": "Community & Culture",
       "date": "2025-11-06",
-      "qualityScore": 4.4
+      "qualityScore": 4.1
     },
     {
       "url": "https://www.instagram.com/p/DQrZroqDPh5/",
       "hook": "Introducing some of our amazing FFN speakers \ud83d\udc69\u200d\ud83d\udcbcWant to meet them? Attend FFN th",
       "caption": "Introducing some of our amazing FFN speakers \ud83d\udc69\u200d\ud83d\udcbcWant to meet them? Attend FFN this 22nd of November! \ud83d\udc83\ud83d\udc9c",
       "type": "Sidecar",
-      "likes": 27,
+      "likes": 28,
       "comments": 3,
       "views": 0,
-      "er": 1.1,
+      "er": 1.0,
       "pillar": "Events & Experiences",
       "date": "2025-11-05",
       "qualityScore": 3.1
@@ -1995,10 +2484,10 @@
       "likes": 11,
       "comments": 0,
       "views": 0,
-      "er": 0.4,
+      "er": 0.35,
       "pillar": "Brand & General",
       "date": "2025-11-05",
-      "qualityScore": 2.9
+      "qualityScore": 2.8
     },
     {
       "url": "https://www.instagram.com/p/DQoLbeKjOxB/",
@@ -2007,8 +2496,8 @@
       "type": "Video",
       "likes": 15,
       "comments": 1,
-      "views": 215,
-      "er": 0.59,
+      "views": 1590,
+      "er": 0.52,
       "pillar": "Announcements & CTAs",
       "date": "2025-11-04",
       "qualityScore": 2.8
@@ -2018,10 +2507,10 @@
       "hook": "May your career aspirations always be the treat, never the trick \ud83c\udf83 From the Enno",
       "caption": "May your career aspirations always be the treat, never the trick \ud83c\udf83 From the Ennova team, we hope your Halloween was great! \ud83e\udef6",
       "type": "Image",
-      "likes": 20,
-      "comments": 1,
+      "likes": 19,
+      "comments": 2,
       "views": 0,
-      "er": 0.77,
+      "er": 0.68,
       "pillar": "Community & Culture",
       "date": "2025-11-03",
       "qualityScore": 2.7
@@ -2032,12 +2521,12 @@
       "caption": "FFN is BACK! Join us for the 6th EDITION \ud83d\udc9c Buy Tickets with the Link in Bio!",
       "type": "Sidecar",
       "likes": 40,
-      "comments": 5,
+      "comments": 6,
       "views": 0,
-      "er": 1.65,
+      "er": 1.48,
       "pillar": "Announcements & CTAs",
       "date": "2025-10-31",
-      "qualityScore": 3.8
+      "qualityScore": 3.7
     },
     {
       "url": "https://www.instagram.com/p/DQeA7I9DAja/",
@@ -2046,8 +2535,8 @@
       "type": "Video",
       "likes": 24,
       "comments": 6,
-      "views": 251,
-      "er": 1.1,
+      "views": 1546,
+      "er": 0.97,
       "pillar": "Entrepreneurship",
       "date": "2025-10-31",
       "qualityScore": 2.6
@@ -2057,13 +2546,13 @@
       "hook": "what are YOU WAITING for? \ud83d\udc40 APPLY now! (Link in bio) \u267b\ufe0f",
       "caption": "what are YOU WAITING for? \ud83d\udc40 APPLY now! (Link in bio) \u267b\ufe0f",
       "type": "Video",
-      "likes": 85,
+      "likes": 86,
       "comments": 18,
-      "views": 1187,
-      "er": 3.79,
+      "views": 4478,
+      "er": 3.35,
       "pillar": "Events & Experiences",
       "date": "2025-10-30",
-      "qualityScore": 4.5
+      "qualityScore": 4.3
     },
     {
       "url": "https://www.instagram.com/p/DQbXkDmDBZU/",
@@ -2072,11 +2561,11 @@
       "type": "Video",
       "likes": 42,
       "comments": 7,
-      "views": 369,
-      "er": 1.8,
+      "views": 2159,
+      "er": 1.58,
       "pillar": "Brand & General",
       "date": "2025-10-30",
-      "qualityScore": 3.1
+      "qualityScore": 3.0
     },
     {
       "url": "https://www.instagram.com/p/DQbVJluDFNq/",
@@ -2086,36 +2575,36 @@
       "likes": 23,
       "comments": 1,
       "views": 0,
-      "er": 0.88,
+      "er": 0.77,
       "pillar": "Announcements & CTAs",
       "date": "2025-10-30",
-      "qualityScore": 2.9
+      "qualityScore": 2.8
     },
     {
       "url": "https://www.instagram.com/p/DQXMXdojFNj/",
       "hook": "and what do YOU think? Join us the 6th of November and share your thoughts! \ud83d\ude0a\u267b\ufe0f ",
       "caption": "and what do YOU think? Join us the 6th of November and share your thoughts! \ud83d\ude0a\u267b\ufe0f Link in bio!",
       "type": "Video",
-      "likes": 76,
+      "likes": 74,
       "comments": 14,
-      "views": 954,
-      "er": 3.31,
+      "views": 3774,
+      "er": 2.83,
       "pillar": "Announcements & CTAs",
       "date": "2025-10-28",
-      "qualityScore": 4.6
+      "qualityScore": 4.4
     },
     {
       "url": "https://www.instagram.com/p/DQUSz_BiGQl/",
       "hook": "This month\u2019s #MeetTheAssociation is @ennova.esade, Esade\u2019s leading association f",
       "caption": "This month\u2019s #MeetTheAssociation is @ennova.esade, Esade\u2019s leading association for Entrepreneurship & Innovation ! \ud83d\ude80\ud83e\udd1d\n\n1\ufe0f\u20e3 Meet the Ennova 2025-2026 Team\ud83c\udf1f\n\n2\ufe0f\u20e3 Our Big Family. With 80 members across 9",
       "type": "Sidecar",
-      "likes": 350,
-      "comments": 8,
+      "likes": 356,
+      "comments": 11,
       "views": 0,
-      "er": 13.16,
+      "er": 11.82,
       "pillar": "Events & Experiences",
       "date": "2025-10-27",
-      "qualityScore": 8.0
+      "qualityScore": 7.4
     },
     {
       "url": "https://www.instagram.com/p/DQM2ntrDKe-/",
@@ -2123,12 +2612,12 @@
       "caption": "How many did YOU get RIGHT? Register now (Link in bio!) \u267b\ufe0f\ud83e\uddf6",
       "type": "Video",
       "likes": 61,
-      "comments": 3,
-      "views": 827,
-      "er": 2.35,
+      "comments": 4,
+      "views": 3510,
+      "er": 2.09,
       "pillar": "Announcements & CTAs",
       "date": "2025-10-24",
-      "qualityScore": 4.5
+      "qualityScore": 4.4
     },
     {
       "url": "https://www.instagram.com/p/DQJ1PLKDPzO/",
@@ -2138,7 +2627,7 @@
       "likes": 16,
       "comments": 0,
       "views": 0,
-      "er": 0.59,
+      "er": 0.52,
       "pillar": "Career & Opportunities",
       "date": "2025-10-23",
       "qualityScore": 3.2
@@ -2151,10 +2640,10 @@
       "likes": 42,
       "comments": 10,
       "views": 0,
-      "er": 1.91,
+      "er": 1.67,
       "pillar": "Partnerships",
       "date": "2025-10-21",
-      "qualityScore": 3.9
+      "qualityScore": 3.8
     },
     {
       "url": "https://www.instagram.com/p/DQFC3KfjKWU/",
@@ -2163,8 +2652,8 @@
       "type": "Video",
       "likes": 32,
       "comments": 5,
-      "views": 249,
-      "er": 1.36,
+      "views": 1502,
+      "er": 1.19,
       "pillar": "Brand & General",
       "date": "2025-10-21",
       "qualityScore": 2.7
@@ -2177,10 +2666,10 @@
       "likes": 24,
       "comments": 3,
       "views": 0,
-      "er": 0.99,
+      "er": 0.87,
       "pillar": "Announcements & CTAs",
       "date": "2025-10-21",
-      "qualityScore": 3.7
+      "qualityScore": 3.6
     },
     {
       "url": "https://www.instagram.com/p/DQAJGodDPZQ/",
@@ -2190,10 +2679,10 @@
       "likes": 17,
       "comments": 2,
       "views": 0,
-      "er": 0.7,
+      "er": 0.61,
       "pillar": "Entrepreneurship",
       "date": "2025-10-19",
-      "qualityScore": 3.2
+      "qualityScore": 3.1
     },
     {
       "url": "https://www.instagram.com/p/DP_qiDKDOkF/",
@@ -2203,20 +2692,20 @@
       "likes": 18,
       "comments": 0,
       "views": 0,
-      "er": 0.66,
+      "er": 0.58,
       "pillar": "Entrepreneurship",
       "date": "2025-10-19",
-      "qualityScore": 3.2
+      "qualityScore": 3.1
     },
     {
       "url": "https://www.instagram.com/p/DP9HFlmDMGV/",
       "hook": "\ud83e\udd47IDEAUP 6th Edition PRIZES! \ud83c\udfc6And more to come \ud83d\udc40 Apply now!",
       "caption": "\ud83e\udd47IDEAUP 6th Edition PRIZES! \ud83c\udfc6And more to come \ud83d\udc40 Apply now!",
       "type": "Sidecar",
-      "likes": 24,
-      "comments": 4,
+      "likes": 25,
+      "comments": 5,
       "views": 0,
-      "er": 1.03,
+      "er": 0.97,
       "pillar": "Announcements & CTAs",
       "date": "2025-10-18",
       "qualityScore": 3.2
@@ -2227,12 +2716,12 @@
       "caption": "Listen to what our PAST IDEAUP PARTICIPANTS have to say about their EXPERIENCE! \ud83d\ude80\ud83d\ude4c Apply now!",
       "type": "Video",
       "likes": 50,
-      "comments": 4,
-      "views": 731,
-      "er": 1.99,
+      "comments": 5,
+      "views": 2782,
+      "er": 1.77,
       "pillar": "Announcements & CTAs",
       "date": "2025-10-18",
-      "qualityScore": 3.0
+      "qualityScore": 2.9
     },
     {
       "url": "https://www.instagram.com/p/DP54tRrjMMF/",
@@ -2240,9 +2729,9 @@
       "caption": "\u2753you ASKED, we ANSWERED. We are responding to all your FAQ about IDEAUP 6th edition \ud83c\udf1f\ud83d\ude80 APPLY NOW (Link in Bio!)",
       "type": "Sidecar",
       "likes": 19,
-      "comments": 2,
+      "comments": 3,
       "views": 0,
-      "er": 0.77,
+      "er": 0.71,
       "pillar": "Announcements & CTAs",
       "date": "2025-10-17",
       "qualityScore": 3.7
@@ -2253,12 +2742,12 @@
       "caption": "\ud83d\ude80 Your startup\u2019s next move starts here. IdeaUp x Conector \u2014 apply via link in bio!",
       "type": "Video",
       "likes": 73,
-      "comments": 7,
-      "views": 1042,
-      "er": 2.94,
+      "comments": 8,
+      "views": 3979,
+      "er": 2.61,
       "pillar": "Entrepreneurship",
       "date": "2025-10-16",
-      "qualityScore": 4.1
+      "qualityScore": 3.9
     },
     {
       "url": "https://www.instagram.com/p/DP3OfW9jOnY/",
@@ -2266,9 +2755,9 @@
       "caption": "Your STARTUP IDEA won\u2019t wait around. START NOW with IDEAUP. Connect with mentors, learn from experts, and take your first step as a founder \ud83d\ude4c \ud83d\ude80 #ideaup #startups",
       "type": "Video",
       "likes": 27,
-      "comments": 0,
-      "views": 188,
-      "er": 0.99,
+      "comments": 1,
+      "views": 1498,
+      "er": 0.9,
       "pillar": "Education & Insights",
       "date": "2025-10-16",
       "qualityScore": 3.6
@@ -2281,23 +2770,23 @@
       "likes": 53,
       "comments": 5,
       "views": 0,
-      "er": 2.13,
+      "er": 1.87,
       "pillar": "Education & Insights",
       "date": "2025-10-15",
-      "qualityScore": 4.6
+      "qualityScore": 4.4
     },
     {
       "url": "https://www.instagram.com/p/DPnw4wYirAP/",
       "hook": "Ennova Esade, desde el campus de Esade, es uno de los principales motores de inn",
       "caption": "Ennova Esade, desde el campus de Esade, es uno de los principales motores de innovaci\u00f3n universitaria, conectando talento, creatividad y ecosistema emprendedor dentro y fuera del campus.\n\nHace unos d\u00ed",
       "type": "Image",
-      "likes": 96,
+      "likes": 95,
       "comments": 3,
       "views": 0,
-      "er": 3.64,
+      "er": 3.16,
       "pillar": "Career & Opportunities",
       "date": "2025-10-10",
-      "qualityScore": 3.7
+      "qualityScore": 3.5
     },
     {
       "url": "https://www.instagram.com/p/DPl0cdUDAbs/",
@@ -2305,12 +2794,12 @@
       "caption": "\ud83d\ude80 More info about IDEAUP: Link in Bio! \ud83d\ude80",
       "type": "Video",
       "likes": 101,
-      "comments": 7,
-      "views": 4878,
-      "er": 3.97,
+      "comments": 9,
+      "views": 16281,
+      "er": 3.54,
       "pillar": "Announcements & CTAs",
       "date": "2025-10-09",
-      "qualityScore": 4.5
+      "qualityScore": 4.3
     },
     {
       "url": "https://www.instagram.com/p/DPjckh2DMDP/",
@@ -2319,11 +2808,11 @@
       "type": "Video",
       "likes": 194,
       "comments": 6,
-      "views": 16615,
-      "er": 7.35,
+      "views": 57911,
+      "er": 6.44,
       "pillar": "Community & Culture",
       "date": "2025-10-08",
-      "qualityScore": 5.8
+      "qualityScore": 5.5
     },
     {
       "url": "https://www.instagram.com/p/DPi_7w9DIka/",
@@ -2332,11 +2821,11 @@
       "type": "Video",
       "likes": 58,
       "comments": 7,
-      "views": 703,
-      "er": 2.39,
+      "views": 3018,
+      "er": 2.09,
       "pillar": "Community & Culture",
       "date": "2025-10-08",
-      "qualityScore": 3.4
+      "qualityScore": 3.2
     },
     {
       "url": "https://www.instagram.com/p/DPeNhXnjOiA/",
@@ -2345,11 +2834,11 @@
       "type": "Video",
       "likes": 46,
       "comments": 6,
-      "views": 279,
-      "er": 1.91,
+      "views": 1542,
+      "er": 1.67,
       "pillar": "Announcements & CTAs",
       "date": "2025-10-06",
-      "qualityScore": 4.2
+      "qualityScore": 4.1
     },
     {
       "url": "https://www.instagram.com/p/DPeCUpfDMx0/",
@@ -2359,10 +2848,10 @@
       "likes": 95,
       "comments": 8,
       "views": 0,
-      "er": 3.79,
+      "er": 3.32,
       "pillar": "Events & Experiences",
       "date": "2025-10-06",
-      "qualityScore": 4.2
+      "qualityScore": 4.0
     },
     {
       "url": "https://www.instagram.com/p/DPUcJS0jl8D/",
@@ -2372,23 +2861,23 @@
       "likes": 59,
       "comments": 5,
       "views": 0,
-      "er": 2.35,
+      "er": 2.06,
       "pillar": "Events & Experiences",
       "date": "2025-10-02",
-      "qualityScore": 4.7
+      "qualityScore": 4.6
     },
     {
       "url": "https://www.instagram.com/p/DPRFGYPDEPp/",
       "hook": "\ud83d\ude80 Coming soon! \ud83c\udf89 The 6th edition of Idea Up!",
       "caption": "\ud83d\ude80 Coming soon! \ud83c\udf89 The 6th edition of Idea Up!\n#startupworld #startup",
       "type": "Video",
-      "likes": 47,
+      "likes": 48,
       "comments": 9,
-      "views": 396,
-      "er": 2.06,
+      "views": 2085,
+      "er": 1.84,
       "pillar": "Entrepreneurship",
       "date": "2025-10-01",
-      "qualityScore": 3.3
+      "qualityScore": 3.2
     },
     {
       "url": "https://www.instagram.com/p/DPBrVkWjM8L/",
@@ -2397,11 +2886,11 @@
       "type": "Video",
       "likes": 131,
       "comments": 9,
-      "views": 1565,
-      "er": 5.15,
+      "views": 5028,
+      "er": 4.51,
       "pillar": "Announcements & CTAs",
       "date": "2025-09-25",
-      "qualityScore": 5.1
+      "qualityScore": 4.8
     },
     {
       "url": "https://www.instagram.com/p/DO3tqH0jPML/",
@@ -2411,10 +2900,10 @@
       "likes": 40,
       "comments": 0,
       "views": 0,
-      "er": 1.47,
+      "er": 1.29,
       "pillar": "Announcements & CTAs",
       "date": "2025-09-21",
-      "qualityScore": 3.7
+      "qualityScore": 3.6
     },
     {
       "url": "https://www.instagram.com/p/DO0IgX_DKhY/",
@@ -2422,12 +2911,12 @@
       "caption": "DAY IN THE LIFE \ud83d\udc69\u200d\ud83d\udcbb of Ennova\u2019s Vice President at the Sant Cugat Association Fair! This could be YOU next year \ud83d\udc40 Recruitment deadline: Sept 31st",
       "type": "Video",
       "likes": 33,
-      "comments": 5,
-      "views": 543,
-      "er": 1.4,
+      "comments": 7,
+      "views": 2526,
+      "er": 1.29,
       "pillar": "Community & Culture",
       "date": "2025-09-20",
-      "qualityScore": 3.0
+      "qualityScore": 2.9
     },
     {
       "url": "https://www.instagram.com/p/DOtSbvYDFY4/",
@@ -2437,10 +2926,10 @@
       "likes": 161,
       "comments": 11,
       "views": 0,
-      "er": 6.32,
+      "er": 5.54,
       "pillar": "Community & Culture",
       "date": "2025-09-17",
-      "qualityScore": 5.6
+      "qualityScore": 5.3
     },
     {
       "url": "https://www.instagram.com/p/DOsWdRYjMWg/",
@@ -2449,11 +2938,11 @@
       "type": "Video",
       "likes": 22,
       "comments": 3,
-      "views": 358,
-      "er": 0.92,
+      "views": 1886,
+      "er": 0.8,
       "pillar": "Community & Culture",
       "date": "2025-09-17",
-      "qualityScore": 2.6
+      "qualityScore": 2.5
     },
     {
       "url": "https://www.instagram.com/p/DOgi7cIjM_n/",
@@ -2462,11 +2951,11 @@
       "type": "Video",
       "likes": 92,
       "comments": 19,
-      "views": 1319,
-      "er": 4.08,
+      "views": 4638,
+      "er": 3.57,
       "pillar": "Community & Culture",
       "date": "2025-09-12",
-      "qualityScore": 4.0
+      "qualityScore": 3.8
     },
     {
       "url": "https://www.instagram.com/p/DOadMcTDMMd/",
@@ -2475,11 +2964,11 @@
       "type": "Video",
       "likes": 45,
       "comments": 11,
-      "views": 506,
-      "er": 2.06,
+      "views": 2496,
+      "er": 1.8,
       "pillar": "Education & Insights",
       "date": "2025-09-10",
-      "qualityScore": 3.8
+      "qualityScore": 3.7
     },
     {
       "url": "https://www.instagram.com/p/DOZUn3ejFLH/",
@@ -2488,11 +2977,11 @@
       "type": "Video",
       "likes": 36,
       "comments": 3,
-      "views": 475,
-      "er": 1.43,
+      "views": 2238,
+      "er": 1.26,
       "pillar": "Announcements & CTAs",
       "date": "2025-09-09",
-      "qualityScore": 3.6
+      "qualityScore": 3.5
     },
     {
       "url": "https://www.instagram.com/p/DOWUmgAjCXt/",
@@ -2501,11 +2990,11 @@
       "type": "Video",
       "likes": 81,
       "comments": 13,
-      "views": 1083,
-      "er": 3.46,
+      "views": 3831,
+      "er": 3.03,
       "pillar": "Community & Culture",
       "date": "2025-09-08",
-      "qualityScore": 3.8
+      "qualityScore": 3.6
     },
     {
       "url": "https://www.instagram.com/p/DOVow8-DGz_/",
@@ -2514,11 +3003,11 @@
       "type": "Video",
       "likes": 39,
       "comments": 8,
-      "views": 461,
-      "er": 1.73,
+      "views": 2123,
+      "er": 1.51,
       "pillar": "Community & Culture",
       "date": "2025-09-08",
-      "qualityScore": 3.2
+      "qualityScore": 3.1
     },
     {
       "url": "https://www.instagram.com/p/DOVgW4IDKAB/",
@@ -2527,11 +3016,11 @@
       "type": "Video",
       "likes": 54,
       "comments": 5,
-      "views": 548,
-      "er": 2.17,
+      "views": 2025,
+      "er": 1.9,
       "pillar": "Community & Culture",
       "date": "2025-09-08",
-      "qualityScore": 3.3
+      "qualityScore": 3.2
     },
     {
       "url": "https://www.instagram.com/p/DOOkrIbDO9y/",
@@ -2540,11 +3029,11 @@
       "type": "Video",
       "likes": 72,
       "comments": 13,
-      "views": 677,
-      "er": 3.12,
+      "views": 2728,
+      "er": 2.74,
       "pillar": "Community & Culture",
       "date": "2025-09-05",
-      "qualityScore": 3.5
+      "qualityScore": 3.4
     },
     {
       "url": "https://www.instagram.com/p/DONzPlUDE_U/",
@@ -2553,11 +3042,11 @@
       "type": "Video",
       "likes": 70,
       "comments": 12,
-      "views": 845,
-      "er": 3.01,
+      "views": 3270,
+      "er": 2.64,
       "pillar": "Events & Experiences",
       "date": "2025-09-05",
-      "qualityScore": 3.8
+      "qualityScore": 3.7
     },
     {
       "url": "https://www.instagram.com/p/DOMb7DVjDaU/",
@@ -2566,11 +3055,11 @@
       "type": "Video",
       "likes": 66,
       "comments": 11,
-      "views": 670,
-      "er": 2.83,
+      "views": 2925,
+      "er": 2.48,
       "pillar": "Education & Insights",
       "date": "2025-09-04",
-      "qualityScore": 3.7
+      "qualityScore": 3.6
     },
     {
       "url": "https://www.instagram.com/p/DOIuGRHDMuR/",
@@ -2579,11 +3068,11 @@
       "type": "Video",
       "likes": 62,
       "comments": 11,
-      "views": 1126,
-      "er": 2.68,
+      "views": 4204,
+      "er": 2.35,
       "pillar": "Community & Culture",
       "date": "2025-09-03",
-      "qualityScore": 3.7
+      "qualityScore": 3.5
     },
     {
       "url": "https://www.instagram.com/p/DODHfDKDCPd/",
@@ -2593,10 +3082,10 @@
       "likes": 56,
       "comments": 10,
       "views": 0,
-      "er": 2.43,
+      "er": 2.12,
       "pillar": "Announcements & CTAs",
       "date": "2025-09-01",
-      "qualityScore": 4.4
+      "qualityScore": 4.2
     },
     {
       "url": "https://www.instagram.com/p/DOB-PmUjhwJ/",
@@ -2605,11 +3094,11 @@
       "type": "Video",
       "likes": 51,
       "comments": 1,
-      "views": 447,
-      "er": 1.91,
+      "views": 1951,
+      "er": 1.67,
       "pillar": "Announcements & CTAs",
       "date": "2025-08-31",
-      "qualityScore": 3.1
+      "qualityScore": 3.0
     },
     {
       "url": "https://www.instagram.com/p/DJtnl1mILVX/",
@@ -2619,7 +3108,7 @@
       "likes": 10,
       "comments": 0,
       "views": 0,
-      "er": 0.37,
+      "er": 0.32,
       "pillar": "Events & Experiences",
       "date": "2025-05-16",
       "qualityScore": 3.5
@@ -2632,10 +3121,10 @@
       "likes": 11,
       "comments": 0,
       "views": 0,
-      "er": 0.4,
+      "er": 0.35,
       "pillar": "Events & Experiences",
       "date": "2025-05-07",
-      "qualityScore": 4.3
+      "qualityScore": 4.2
     },
     {
       "url": "https://www.instagram.com/p/DJKAhF2Mid3/",
@@ -2644,8 +3133,8 @@
       "type": "Video",
       "likes": 0,
       "comments": 1,
-      "views": 330,
-      "er": 0.04,
+      "views": 1688,
+      "er": 0.03,
       "pillar": "Events & Experiences",
       "date": "2025-05-02",
       "qualityScore": 2.5
@@ -2658,7 +3147,7 @@
       "likes": 30,
       "comments": 0,
       "views": 0,
-      "er": 1.1,
+      "er": 0.97,
       "pillar": "Entrepreneurship",
       "date": "2025-04-16",
       "qualityScore": 3.6
@@ -2670,8 +3159,8 @@
       "type": "Video",
       "likes": 20,
       "comments": 2,
-      "views": 168,
-      "er": 0.81,
+      "views": 1210,
+      "er": 0.71,
       "pillar": "Announcements & CTAs",
       "date": "2025-04-14",
       "qualityScore": 3.6
@@ -2684,10 +3173,10 @@
       "likes": 56,
       "comments": 3,
       "views": 0,
-      "er": 2.17,
+      "er": 1.9,
       "pillar": "Events & Experiences",
       "date": "2025-04-14",
-      "qualityScore": 3.9
+      "qualityScore": 3.8
     },
     {
       "url": "https://www.instagram.com/p/DIOgIXMM9ZB/",
@@ -2697,10 +3186,10 @@
       "likes": 37,
       "comments": 4,
       "views": 0,
-      "er": 1.51,
+      "er": 1.32,
       "pillar": "Announcements & CTAs",
       "date": "2025-04-09",
-      "qualityScore": 3.7
+      "qualityScore": 3.6
     },
     {
       "url": "https://www.instagram.com/p/DIMtzJjukWM/",
@@ -2709,24 +3198,24 @@
       "type": "Video",
       "likes": 49,
       "comments": 3,
-      "views": 499,
-      "er": 1.91,
+      "views": 2007,
+      "er": 1.67,
       "pillar": "Education & Insights",
       "date": "2025-04-08",
-      "qualityScore": 3.9
+      "qualityScore": 3.8
     },
     {
       "url": "https://www.instagram.com/p/DID5_Jct5W3/",
       "hook": "Meet Cariboo \u2014 one of the finalists of this year\u2019s IdeaUp Challenge!",
       "caption": "Meet Cariboo \u2014 one of the finalists of this year\u2019s IdeaUp Challenge! \n\nYou\u2019ll be able to see them and other talented teams today on the Final Gala\ud83d\ude80\n\nYou can still register for free to join the final g",
       "type": "Video",
-      "likes": 61,
+      "likes": 62,
       "comments": 0,
-      "views": 541,
-      "er": 2.24,
+      "views": 2431,
+      "er": 2.0,
       "pillar": "Events & Experiences",
       "date": "2025-04-05",
-      "qualityScore": 3.9
+      "qualityScore": 3.8
     },
     {
       "url": "https://www.instagram.com/p/DICawJZNdwT/",
@@ -2735,11 +3224,11 @@
       "type": "Video",
       "likes": 69,
       "comments": 4,
-      "views": 749,
-      "er": 2.68,
+      "views": 3307,
+      "er": 2.35,
       "pillar": "Events & Experiences",
       "date": "2025-04-04",
-      "qualityScore": 4.1
+      "qualityScore": 3.9
     },
     {
       "url": "https://www.instagram.com/p/DIBk7xbNGfH/",
@@ -2749,10 +3238,10 @@
       "likes": 24,
       "comments": 1,
       "views": 0,
-      "er": 0.92,
+      "er": 0.8,
       "pillar": "Events & Experiences",
       "date": "2025-04-04",
-      "qualityScore": 3.5
+      "qualityScore": 3.4
     },
     {
       "url": "https://www.instagram.com/p/DHvgB2NsX-6/",
@@ -2762,7 +3251,7 @@
       "likes": 27,
       "comments": 1,
       "views": 0,
-      "er": 1.03,
+      "er": 0.9,
       "pillar": "Education & Insights",
       "date": "2025-03-28",
       "qualityScore": 3.3
@@ -2774,11 +3263,11 @@
       "type": "Video",
       "likes": 55,
       "comments": 7,
-      "views": 599,
-      "er": 2.28,
+      "views": 2615,
+      "er": 2.0,
       "pillar": "Announcements & CTAs",
       "date": "2025-03-27",
-      "qualityScore": 3.6
+      "qualityScore": 3.5
     },
     {
       "url": "https://www.instagram.com/p/DHix5Z1Nlhb/",
@@ -2788,10 +3277,10 @@
       "likes": 44,
       "comments": 2,
       "views": 0,
-      "er": 1.69,
+      "er": 1.48,
       "pillar": "Education & Insights",
       "date": "2025-03-23",
-      "qualityScore": 4.5
+      "qualityScore": 4.4
     },
     {
       "url": "https://www.instagram.com/p/DHdDxuHs2s_/",
@@ -2800,11 +3289,11 @@
       "type": "Video",
       "likes": 61,
       "comments": 9,
-      "views": 670,
-      "er": 2.57,
+      "views": 3034,
+      "er": 2.25,
       "pillar": "Brand & General",
       "date": "2025-03-21",
-      "qualityScore": 3.4
+      "qualityScore": 3.3
     },
     {
       "url": "https://www.instagram.com/p/DG80I7jtX_T/",
@@ -2813,11 +3302,11 @@
       "type": "Video",
       "likes": 108,
       "comments": 5,
-      "views": 1758,
-      "er": 4.15,
+      "views": 5623,
+      "er": 3.64,
       "pillar": "Announcements & CTAs",
       "date": "2025-03-08",
-      "qualityScore": 5.4
+      "qualityScore": 5.2
     },
     {
       "url": "https://www.instagram.com/p/DG3qeGetDwa/",
@@ -2827,10 +3316,10 @@
       "likes": 41,
       "comments": 1,
       "views": 0,
-      "er": 1.54,
+      "er": 1.35,
       "pillar": "Announcements & CTAs",
       "date": "2025-03-06",
-      "qualityScore": 4.1
+      "qualityScore": 4.0
     },
     {
       "url": "https://www.instagram.com/p/DG1F6t-uRou/",
@@ -2840,10 +3329,10 @@
       "likes": 58,
       "comments": 0,
       "views": 0,
-      "er": 2.13,
+      "er": 1.87,
       "pillar": "Events & Experiences",
       "date": "2025-03-05",
-      "qualityScore": 4.4
+      "qualityScore": 4.2
     },
     {
       "url": "https://www.instagram.com/p/DG0V-7itPQs/",
@@ -2853,10 +3342,10 @@
       "likes": 49,
       "comments": 1,
       "views": 0,
-      "er": 1.84,
+      "er": 1.61,
       "pillar": "Community & Culture",
       "date": "2025-03-05",
-      "qualityScore": 3.8
+      "qualityScore": 3.7
     },
     {
       "url": "https://www.instagram.com/p/DGxQGCMMqfC/",
@@ -2865,24 +3354,24 @@
       "type": "Video",
       "likes": 45,
       "comments": 6,
-      "views": 300,
-      "er": 1.88,
+      "views": 1661,
+      "er": 1.64,
       "pillar": "Career & Opportunities",
       "date": "2025-03-04",
-      "qualityScore": 3.7
+      "qualityScore": 3.6
     },
     {
       "url": "https://www.instagram.com/p/DGq68bFtjSu/",
       "hook": "Make all these moments in sports possible\u2026",
       "caption": "Make all these moments in sports possible\u2026",
       "type": "Video",
-      "likes": 177,
+      "likes": 175,
       "comments": 0,
-      "views": 1022,
-      "er": 6.51,
+      "views": 2620,
+      "er": 5.63,
       "pillar": "Brand & General",
       "date": "2025-03-01",
-      "qualityScore": 5.0
+      "qualityScore": 4.7
     },
     {
       "url": "https://www.instagram.com/p/DGnXWcTsMlr/",
@@ -2891,11 +3380,11 @@
       "type": "Video",
       "likes": 53,
       "comments": 4,
-      "views": 331,
-      "er": 2.1,
+      "views": 1730,
+      "er": 1.84,
       "pillar": "Career & Opportunities",
       "date": "2025-02-28",
-      "qualityScore": 3.1
+      "qualityScore": 3.0
     },
     {
       "url": "https://www.instagram.com/p/DGllStKufER/",
@@ -2905,23 +3394,10 @@
       "likes": 8,
       "comments": 1,
       "views": 0,
-      "er": 0.33,
+      "er": 0.29,
       "pillar": "Events & Experiences",
       "date": "2025-02-27",
       "qualityScore": 2.6
-    },
-    {
-      "url": "https://www.instagram.com/p/DGjAas9uXsa/",
-      "hook": "If you can impress these judges, you will be ready to conquer the world of VC!",
-      "caption": "If you can impress these judges, you will be ready to conquer the world of VC!\n\nWant to try? It\u2019s your last chance!\n\n\u2705 Sign up in bio\nRegistration closes on Thursday, Feb 27th",
-      "type": "Sidecar",
-      "likes": 89,
-      "comments": 3,
-      "views": 0,
-      "er": 3.38,
-      "pillar": "Education & Insights",
-      "date": "2025-02-26",
-      "qualityScore": 4.9
     },
     {
       "url": "https://www.instagram.com/p/DGgeUX0uYDl/",
@@ -2930,11 +3406,11 @@
       "type": "Video",
       "likes": 62,
       "comments": 0,
-      "views": 741,
-      "er": 2.28,
+      "views": 3210,
+      "er": 2.0,
       "pillar": "Education & Insights",
       "date": "2025-02-25",
-      "qualityScore": 3.6
+      "qualityScore": 3.5
     },
     {
       "url": "https://www.instagram.com/p/DGYrTgONFiz/",
@@ -2943,24 +3419,11 @@
       "type": "Video",
       "likes": 53,
       "comments": 3,
-      "views": 782,
-      "er": 2.06,
+      "views": 3492,
+      "er": 1.8,
       "pillar": "Education & Insights",
       "date": "2025-02-22",
-      "qualityScore": 3.5
-    },
-    {
-      "url": "https://www.instagram.com/p/DGU_I-yu_6X/",
-      "hook": "INTERNSHIPS AWAIT\u2014More Companies to be Revealed! \ud83d\ude80",
-      "caption": "INTERNSHIPS AWAIT\u2014More Companies to be Revealed! \ud83d\ude80\n\nMeet the companies HIRING at Ennova Talent Internship\u2014and there\u2019s more to come! Gain experience, connect with startups, and level up your future.\n\n\ud83d\udd17",
-      "type": "Sidecar",
-      "likes": 60,
-      "comments": 0,
-      "views": 0,
-      "er": 2.21,
-      "pillar": "Community & Culture",
-      "date": "2025-02-21",
-      "qualityScore": 4.2
+      "qualityScore": 3.4
     },
     {
       "url": "https://www.instagram.com/p/DGOY-7pOGQV/",
@@ -2969,37 +3432,11 @@
       "type": "Video",
       "likes": 33,
       "comments": 7,
-      "views": 401,
-      "er": 1.47,
+      "views": 1935,
+      "er": 1.29,
       "pillar": "Career & Opportunities",
       "date": "2025-02-18",
-      "qualityScore": 3.2
-    },
-    {
-      "url": "https://www.instagram.com/p/DGL2diluCSf/",
-      "hook": "\ud83d\ude80 These are the people that will show you the way straight to the top of Europea",
-      "caption": "\ud83d\ude80 These are the people that will show you the way straight to the top of European VC.\n\n\ud83c\udf9f\ufe0f Tickets are selling fast! Get yours at the link in bio before it\u2019s too late\u2026",
-      "type": "Sidecar",
-      "likes": 103,
-      "comments": 1,
-      "views": 0,
-      "er": 3.82,
-      "pillar": "Education & Insights",
-      "date": "2025-02-17",
-      "qualityScore": 4.9
-    },
-    {
-      "url": "https://www.instagram.com/p/DGEGrVmtKhW/",
-      "hook": "Want to make this summer count? \ud83d\udcbc\u2600\ufe0f",
-      "caption": "Want to make this summer count? \ud83d\udcbc\u2600\ufe0f\n\nGo to the link in bio to sign up!",
-      "type": "Sidecar",
-      "likes": 36,
-      "comments": 3,
-      "views": 0,
-      "er": 1.43,
-      "pillar": "Announcements & CTAs",
-      "date": "2025-02-14",
-      "qualityScore": 4.5
+      "qualityScore": 3.1
     },
     {
       "url": "https://www.instagram.com/p/DF-M8x9NH5m/",
@@ -3008,8 +3445,8 @@
       "type": "Video",
       "likes": 41,
       "comments": 3,
-      "views": 514,
-      "er": 1.62,
+      "views": 2117,
+      "er": 1.42,
       "pillar": "Education & Insights",
       "date": "2025-02-12",
       "qualityScore": 3.5
@@ -3021,24 +3458,11 @@
       "type": "Video",
       "likes": 61,
       "comments": 6,
-      "views": 712,
-      "er": 2.46,
+      "views": 2798,
+      "er": 2.16,
       "pillar": "Career & Opportunities",
       "date": "2025-02-10",
-      "qualityScore": 3.4
-    },
-    {
-      "url": "https://www.instagram.com/p/DF01r_sOXqj/",
-      "hook": "\ud83c\udf1f The stage is set for a European spectacle - introducing this year\u2019s edition of",
-      "caption": "\ud83c\udf1f The stage is set for a European spectacle - introducing this year\u2019s edition of VC101 - our biggest one yet!\n\nHead to the link in our bio to learn more. Signups are already open! Sponsored by @grupob",
-      "type": "Sidecar",
-      "likes": 224,
-      "comments": 10,
-      "views": 0,
-      "er": 8.6,
-      "pillar": "Education & Insights",
-      "date": "2025-02-08",
-      "qualityScore": 6.7
+      "qualityScore": 3.3
     },
     {
       "url": "https://www.instagram.com/p/DFnrhumNM8-/",
@@ -3047,167 +3471,24 @@
       "type": "Video",
       "likes": 29,
       "comments": 4,
-      "views": 393,
-      "er": 1.21,
+      "views": 2267,
+      "er": 1.06,
       "pillar": "Events & Experiences",
       "date": "2025-02-03",
-      "qualityScore": 3.0
-    },
-    {
-      "url": "https://www.instagram.com/p/DFaZWc-NbYv/",
-      "hook": "\ud83d\udd17 Application link and information in the Bio!",
-      "caption": "\ud83d\udd17 Application link and information in the Bio!\n\n\ud83d\udd12 Applications close on February 3rd",
-      "type": "Sidecar",
-      "likes": 40,
-      "comments": 0,
-      "views": 0,
-      "er": 1.47,
-      "pillar": "Brand & General",
-      "date": "2025-01-29",
-      "qualityScore": 3.4
-    },
-    {
-      "url": "https://www.instagram.com/p/DFVhgyiNmq_/",
-      "hook": "Start your consulting dreams with us \ud83d\udcad",
-      "caption": "Start your consulting dreams with us \ud83d\udcad\n\nLink and information for application in our bio \ud83d\udd17\n\nApplication close on Monday, February 3rd \ud83d\udd12",
-      "type": "Sidecar",
-      "likes": 38,
-      "comments": 0,
-      "views": 0,
-      "er": 1.4,
-      "pillar": "Brand & General",
-      "date": "2025-01-27",
-      "qualityScore": 3.5
-    },
-    {
-      "url": "https://www.instagram.com/p/DFTO-PEOQZB/",
-      "hook": "Dreamers tell the best stories..Are you one of them?\ud83d\udcad",
-      "caption": "Dreamers tell the best stories..Are you one of them?\ud83d\udcad\n\nLink and information for application in our bio \ud83d\udd17\n\nApplication close on Monday, February 3rd \ud83d\udd12",
-      "type": "Sidecar",
-      "likes": 48,
-      "comments": 10,
-      "views": 0,
-      "er": 2.13,
-      "pillar": "Brand & General",
-      "date": "2025-01-26",
-      "qualityScore": 3.8
-    },
-    {
-      "url": "https://www.instagram.com/p/DFN2_EpN-Hv/",
-      "hook": "\ud83d\udd17 Learn more and apply with the link in Bio!",
-      "caption": "\ud83d\udd17 Learn more and apply with the link in Bio!\n\n\ud83d\udd12 Applications close on February 3rd",
-      "type": "Sidecar",
-      "likes": 60,
-      "comments": 0,
-      "views": 0,
-      "er": 2.21,
-      "pillar": "Education & Insights",
-      "date": "2025-01-24",
-      "qualityScore": 4.5
-    },
-    {
-      "url": "https://www.instagram.com/p/DFGT1NLOyGQ/",
-      "hook": "The second round of recruitment is open!",
-      "caption": "The second round of recruitment is open!\n\n\ud83d\udd17 Learn more about the recruiting departments and apply in the link in bio\n\n\ud83d\udd12 Applications close on February 3rd",
-      "type": "Sidecar",
-      "likes": 37,
-      "comments": 5,
-      "views": 0,
-      "er": 1.54,
-      "pillar": "Education & Insights",
-      "date": "2025-01-21",
-      "qualityScore": 4.3
-    },
-    {
-      "url": "https://www.instagram.com/p/DFA4qb9NeCh/",
-      "hook": "Ennova Consulting successfully concludes its one-semester consulting project !!!",
-      "caption": "Ennova Consulting successfully concludes its one-semester consulting project !!! \ud83e\udde9\n\nWe are incredibly proud to announce the successful completion of our latest consulting project. This semester, the E",
-      "type": "Image",
-      "likes": 80,
-      "comments": 0,
-      "views": 0,
-      "er": 2.94,
-      "pillar": "Community & Culture",
-      "date": "2025-01-19",
-      "qualityScore": 3.7
-    },
-    {
-      "url": "https://www.instagram.com/p/DENvB8ZOv6-/",
-      "hook": "It\u2019s a wrap!\ud83c\udf89",
-      "caption": "It\u2019s a wrap!\ud83c\udf89\n\nAfter a very productive semester, it\u2019s time for a little summary. Swipe to see some interesting numbers behind our efforts from September to December \u27a1\ufe0f\n\nWe want to thank everyone who w",
-      "type": "Sidecar",
-      "likes": 57,
-      "comments": 12,
-      "views": 0,
-      "er": 2.54,
-      "pillar": "Events & Experiences",
-      "date": "2024-12-30",
-      "qualityScore": 3.9
-    },
-    {
-      "url": "https://www.instagram.com/p/DD_u-nYNLwo/",
-      "hook": "Merry Christmas!\ud83c\udf84",
-      "caption": "Merry Christmas!\ud83c\udf84 \n\nLet today be filled with love, laughter, and cherished moments with family and friends. May your holiday season sparkle with magic and your New Year be bright with possibilities!\n\n",
-      "type": "Image",
-      "likes": 95,
-      "comments": 0,
-      "views": 0,
-      "er": 3.49,
-      "pillar": "Community & Culture",
-      "date": "2024-12-25",
-      "qualityScore": 3.8
+      "qualityScore": 2.9
     },
     {
       "url": "https://www.instagram.com/p/DDo59Hfxzzo/",
       "hook": "\ud83d\udca1 \"Error com\u00fan en emprendimiento: no saber cu\u00e1ndo parar.\"",
       "caption": "\ud83d\udca1 \"Error com\u00fan en emprendimiento: no saber cu\u00e1ndo parar.\"\n\nHoy compartimos este clip de la sesi\u00f3n de Carlos Blanco (emprendedor y fundador de Encomenda Capital Partners y empresas como @nucliovb , @ki",
       "type": "Video",
-      "likes": 113,
+      "likes": 112,
       "comments": 4,
-      "views": 2549,
-      "er": 4.3,
+      "views": 6561,
+      "er": 3.73,
       "pillar": "Events & Experiences",
       "date": "2024-12-16",
-      "qualityScore": 4.4
-    },
-    {
-      "url": "https://www.instagram.com/p/DDeBscfNIw9/",
-      "hook": "Esade students! As the exam session has started, we would like to wish you a lot",
-      "caption": "Esade students! As the exam session has started, we would like to wish you a lot of success at the end of this semester \ud83c\udfc6\n\nYou can do it! \ud83d\udcaa",
-      "type": "Image",
-      "likes": 85,
-      "comments": 1,
-      "views": 0,
-      "er": 3.16,
-      "pillar": "Events & Experiences",
-      "date": "2024-12-12",
-      "qualityScore": 3.7
-    },
-    {
-      "url": "https://www.instagram.com/p/DDIUlbwu3-h/",
-      "hook": "See the ins and outs of working in the Sports Industry",
-      "caption": "See the ins and outs of working in the Sports Industry",
-      "type": "Sidecar",
-      "likes": 32,
-      "comments": 3,
-      "views": 0,
-      "er": 1.29,
-      "pillar": "Brand & General",
-      "date": "2024-12-03",
-      "qualityScore": 3.2
-    },
-    {
-      "url": "https://www.instagram.com/p/DDHB53_MiuG/",
-      "hook": "La semana pasada tuvo lugar una sesi\u00f3n de Masterminds con Carlos Blanco (emprend",
-      "caption": "La semana pasada tuvo lugar una sesi\u00f3n de Masterminds con Carlos Blanco (emprendedor y fundador de empresas como @nucliovb, @kintailending y @housfy_es entre otras) organizada por @esadesfs y @ennova.",
-      "type": "Sidecar",
-      "likes": 189,
-      "comments": 1,
-      "views": 0,
-      "er": 6.99,
-      "pillar": "Events & Experiences",
-      "date": "2024-12-03",
-      "qualityScore": 5.5
+      "qualityScore": 4.2
     },
     {
       "url": "https://www.instagram.com/p/DCkR7B-oiS5/",
@@ -3216,11 +3497,11 @@
       "type": "Video",
       "likes": 134,
       "comments": 4,
-      "views": 1908,
-      "er": 5.07,
+      "views": 6488,
+      "er": 4.44,
       "pillar": "Events & Experiences",
       "date": "2024-11-19",
-      "qualityScore": 4.8
+      "qualityScore": 4.6
     },
     {
       "url": "https://www.instagram.com/p/DCUrwlcOwQM/",
@@ -3229,11 +3510,11 @@
       "type": "Video",
       "likes": 99,
       "comments": 8,
-      "views": 852,
-      "er": 3.93,
+      "views": 3601,
+      "er": 3.44,
       "pillar": "Education & Insights",
       "date": "2024-11-13",
-      "qualityScore": 4.6
+      "qualityScore": 4.4
     },
     {
       "url": "https://www.instagram.com/p/DCRUIhMOSid/",
@@ -3242,8 +3523,8 @@
       "type": "Video",
       "likes": 17,
       "comments": 0,
-      "views": 176,
-      "er": 0.62,
+      "views": 1268,
+      "er": 0.55,
       "pillar": "Entrepreneurship",
       "date": "2024-11-12",
       "qualityScore": 3.3
@@ -3255,37 +3536,11 @@
       "type": "Video",
       "likes": 65,
       "comments": 4,
-      "views": 584,
-      "er": 2.54,
+      "views": 2500,
+      "er": 2.22,
       "pillar": "Entrepreneurship",
       "date": "2024-11-08",
-      "qualityScore": 4.5
-    },
-    {
-      "url": "https://www.instagram.com/p/DCHElreNKR0/",
-      "hook": "Women Inspiring Women \ud83c\udf1f",
-      "caption": "Women Inspiring Women \ud83c\udf1f\nFFN awaits! Connect with inspiring female CEOs and founders, join empowering workshops, and boost your ambition. Don\u2019t miss this chance to network, learn, and be inspired \u2014sign",
-      "type": "Sidecar",
-      "likes": 41,
-      "comments": 6,
-      "views": 0,
-      "er": 1.73,
-      "pillar": "Events & Experiences",
-      "date": "2024-11-08",
       "qualityScore": 4.4
-    },
-    {
-      "url": "https://www.instagram.com/p/DCFarhxOPIV/",
-      "hook": "\ud83e\udd14\u00bfEn qu\u00e9 fijarse a la hora de invertir en una empresa?",
-      "caption": "\ud83e\udd14\u00bfEn qu\u00e9 fijarse a la hora de invertir en una empresa? \n\n\u00a1Preg\u00fantaselo gratis a Carlos el 26 de noviembre! Hace tiempo que domina la respuesta a esta pregunta. \ud83c\udfc6\n\nNo tienes que buscar mucho para encon",
-      "type": "Sidecar",
-      "likes": 0,
-      "comments": 1,
-      "views": 0,
-      "er": 0.04,
-      "pillar": "Events & Experiences",
-      "date": "2024-11-07",
-      "qualityScore": 3.1
     },
     {
       "url": "https://www.instagram.com/p/DB9Wy9-Ohkg/",
@@ -3294,11 +3549,11 @@
       "type": "Video",
       "likes": 78,
       "comments": 7,
-      "views": 640,
-      "er": 3.12,
+      "views": 2925,
+      "er": 2.74,
       "pillar": "Career & Opportunities",
       "date": "2024-11-04",
-      "qualityScore": 3.6
+      "qualityScore": 3.5
     },
     {
       "url": "https://www.instagram.com/p/DB7GGz_u_2T/",
@@ -3307,37 +3562,11 @@
       "type": "Video",
       "likes": 51,
       "comments": 2,
-      "views": 544,
-      "er": 1.95,
+      "views": 2753,
+      "er": 1.71,
       "pillar": "Brand & General",
       "date": "2024-11-03",
-      "qualityScore": 3.0
-    },
-    {
-      "url": "https://www.instagram.com/p/DB1u63_uUi-/",
-      "hook": "And you think that\u2019s it? Stay tuned for more exciting updates, including our lin",
-      "caption": "And you think that\u2019s it? Stay tuned for more exciting updates, including our lineup of speakers!\u201d \ud83e\uddd0\ud83c\udf1f",
-      "type": "Sidecar",
-      "likes": 54,
-      "comments": 9,
-      "views": 0,
-      "er": 2.32,
-      "pillar": "Brand & General",
-      "date": "2024-11-01",
-      "qualityScore": 4.0
-    },
-    {
-      "url": "https://www.instagram.com/p/DBoCT-xtXfZ/",
-      "hook": "\ud83c\udf1f Get ready to empower your inner entrepreneur! \ud83c\udf1f",
-      "caption": "\ud83c\udf1f Get ready to empower your inner entrepreneur! \ud83c\udf1f\n\nJoin us for Female Founders Night x She Blooms \u2013 a one-of-a-kind event designed to ignite your passion, challenge the status quo, and connect with tr",
-      "type": "Sidecar",
-      "likes": 61,
-      "comments": 8,
-      "views": 0,
-      "er": 2.54,
-      "pillar": "Events & Experiences",
-      "date": "2024-10-27",
-      "qualityScore": 4.7
+      "qualityScore": 2.9
     },
     {
       "url": "https://www.instagram.com/p/DBjrP0ZuvtI/",
@@ -3346,11 +3575,11 @@
       "type": "Video",
       "likes": 43,
       "comments": 6,
-      "views": 550,
-      "er": 1.8,
+      "views": 2664,
+      "er": 1.58,
       "pillar": "Entrepreneurship",
       "date": "2024-10-25",
-      "qualityScore": 3.1
+      "qualityScore": 3.0
     },
     {
       "url": "https://www.instagram.com/p/DBdcLM3Oi7F/",
@@ -3359,50 +3588,11 @@
       "type": "Video",
       "likes": 76,
       "comments": 10,
-      "views": 891,
-      "er": 3.16,
+      "views": 3111,
+      "er": 2.77,
       "pillar": "Brand & General",
       "date": "2024-10-23",
-      "qualityScore": 3.7
-    },
-    {
-      "url": "https://www.instagram.com/p/DBMnwASOM3c/",
-      "hook": "\ud83c\udded\ud83c\uddf0 Excited to broaden your horizons tomorrow?",
-      "caption": "\ud83c\udded\ud83c\uddf0 Excited to broaden your horizons tomorrow?\n\nTo get even more excited, check out the professionals who will represent Barcelona on Talent Exchange between Esade and University of Hong Kong!\n\nThursda",
-      "type": "Sidecar",
-      "likes": 19,
-      "comments": 2,
-      "views": 0,
-      "er": 0.77,
-      "pillar": "Career & Opportunities",
-      "date": "2024-10-16",
-      "qualityScore": 4.2
-    },
-    {
-      "url": "https://www.instagram.com/p/DBJ3euEtCg0/",
-      "hook": "\ud83c\udfc6 EVERYONE will win something at IdeaUp Challenge.",
-      "caption": "\ud83c\udfc6 EVERYONE will win something at IdeaUp Challenge. \n\nWhile the invaluable experience, teachings, and extraordinary people met on the way are the main reward, there are some great prizes from our partn",
-      "type": "Sidecar",
-      "likes": 49,
-      "comments": 2,
-      "views": 0,
-      "er": 1.88,
-      "pillar": "Entrepreneurship",
-      "date": "2024-10-15",
-      "qualityScore": 4.8
-    },
-    {
-      "url": "https://www.instagram.com/p/DBE8ZDcOwlx/",
-      "hook": "\ud83d\ude80\u267e\ufe0f Whose path are you going to follow?",
-      "caption": "\ud83d\ude80\u267e\ufe0f Whose path are you going to follow?\n\nThese extraordinary people, real role models, didn\u2019t have such great opportunities, but we can be sure what they would now as students.\n\nNow it\u2019s your turn.\n\n\u27a1",
-      "type": "Sidecar",
-      "likes": 82,
-      "comments": 7,
-      "views": 0,
-      "er": 3.27,
-      "pillar": "Brand & General",
-      "date": "2024-10-13",
-      "qualityScore": 5.0
+      "qualityScore": 3.5
     },
     {
       "url": "https://www.instagram.com/p/DBDiWs0tCS7/",
@@ -3411,11 +3601,11 @@
       "type": "Video",
       "likes": 118,
       "comments": 10,
-      "views": 1924,
-      "er": 4.71,
+      "views": 9765,
+      "er": 4.12,
       "pillar": "Events & Experiences",
       "date": "2024-10-13",
-      "qualityScore": 5.6
+      "qualityScore": 5.3
     },
     {
       "url": "https://www.instagram.com/p/DBBONeGK8Vm/",
@@ -3424,11 +3614,11 @@
       "type": "Video",
       "likes": 111,
       "comments": 12,
-      "views": 1148,
-      "er": 4.52,
+      "views": 4642,
+      "er": 3.96,
       "pillar": "Events & Experiences",
       "date": "2024-10-12",
-      "qualityScore": 4.3
+      "qualityScore": 4.1
     },
     {
       "url": "https://www.instagram.com/p/DA9GApQOeFt/",
@@ -3437,11 +3627,11 @@
       "type": "Video",
       "likes": 51,
       "comments": 8,
-      "views": 981,
-      "er": 2.17,
+      "views": 3479,
+      "er": 1.9,
       "pillar": "Education & Insights",
       "date": "2024-10-10",
-      "qualityScore": 4.2
+      "qualityScore": 4.1
     },
     {
       "url": "https://www.instagram.com/p/DAx_nsmtgX4/",
@@ -3450,11 +3640,11 @@
       "type": "Video",
       "likes": 136,
       "comments": 15,
-      "views": 1476,
-      "er": 5.55,
+      "views": 5607,
+      "er": 4.86,
       "pillar": "Brand & General",
       "date": "2024-10-06",
-      "qualityScore": 4.5
+      "qualityScore": 4.2
     },
     {
       "url": "https://www.instagram.com/p/DAiG9jEtshI/",
@@ -3463,194 +3653,12 @@
       "type": "Video",
       "likes": 79,
       "comments": 5,
-      "views": 725,
-      "er": 3.09,
+      "views": 3057,
+      "er": 2.7,
       "pillar": "Brand & General",
       "date": "2024-09-30",
-      "qualityScore": 3.4
-    },
-    {
-      "url": "https://www.instagram.com/p/DAY5fVVty7i/",
-      "hook": "\ud83e\udde0 Behind every successful person, there is a mentor.",
-      "caption": "\ud83e\udde0 Behind every successful person, there is a mentor.\n\n\u201eIt\u2019s a competition, but it\u2019s also a way to improve your knowledge and learn from experienced individuals\u201d\n\nAs said by one of the IdeaUp finalists",
-      "type": "Video",
-      "likes": 40,
-      "comments": 2,
-      "views": 362,
-      "er": 1.54,
-      "pillar": "Education & Insights",
-      "date": "2024-09-26",
-      "qualityScore": 4.5
-    },
-    {
-      "url": "https://www.instagram.com/p/DATjXT7N1Aj/",
-      "hook": "\ud83c\udfcb\ufe0f Struggle is part of the game, and last year\u2019s IdeaUp Challenge finalists know",
-      "caption": "\ud83c\udfcb\ufe0f Struggle is part of the game, and last year\u2019s IdeaUp Challenge finalists know something about it.\n\nBut it only makes us stronger, and helps us improve what is not initially working. \n\nOvercoming al",
-      "type": "Video",
-      "likes": 33,
-      "comments": 3,
-      "views": 241,
-      "er": 1.32,
-      "pillar": "Education & Insights",
-      "date": "2024-09-24",
-      "qualityScore": 4.2
-    },
-    {
-      "url": "https://www.instagram.com/p/DAOLMhBN_gK/",
-      "hook": "\ud83d\udcbc Let\u2019s learn more about our Case Cracking Event with a little True / False Game",
-      "caption": "\ud83d\udcbc Let\u2019s learn more about our Case Cracking Event with a little True / False Game !! \ud83d\udcbc \n\n\ud83c\udf9f\ufe0f Don\u2019t forget to sign up with the link in our bio",
-      "type": "Video",
-      "likes": 126,
-      "comments": 7,
-      "views": 1138,
-      "er": 4.89,
-      "pillar": "Events & Experiences",
-      "date": "2024-09-22",
-      "qualityScore": 5.1
-    },
-    {
-      "url": "https://www.instagram.com/p/DAJfSPttDzp/",
-      "hook": "\ud83d\ude80 Your dream of becoming an entrepreneur is closer than ever! What it takes to m",
-      "caption": "\ud83d\ude80 Your dream of becoming an entrepreneur is closer than ever! What it takes to make it a reality?\n\nThese IdeaUp Challenge finalists took the leap last year and never looked back. Now it's your turn. V",
-      "type": "Video",
-      "likes": 71,
-      "comments": 2,
-      "views": 1029,
-      "er": 2.68,
-      "pillar": "Education & Insights",
-      "date": "2024-09-20",
-      "qualityScore": 4.5
-    },
-    {
-      "url": "https://www.instagram.com/p/DADh897J6HE/",
-      "hook": "\ud83d\udcbb Pulling the digital strings behind the scenes - meet our Digital department!",
-      "caption": "\ud83d\udcbb Pulling the digital strings behind the scenes - meet our Digital department!\n\nApply now through the link in our bio!",
-      "type": "Video",
-      "likes": 38,
-      "comments": 5,
-      "views": 357,
-      "er": 1.58,
-      "pillar": "Community & Culture",
-      "date": "2024-09-18",
-      "qualityScore": 2.9
-    },
-    {
-      "url": "https://www.instagram.com/p/DADhYowpLsx/",
-      "hook": "\ud83d\udca1Bright minds that see imperfection merely as a chance for change - meet our Inn",
-      "caption": "\ud83d\udca1Bright minds that see imperfection merely as a chance for change - meet our Innovation department!\n\nApply now through the link in our bio!",
-      "type": "Video",
-      "likes": 48,
-      "comments": 9,
-      "views": 473,
-      "er": 2.1,
-      "pillar": "Community & Culture",
-      "date": "2024-09-18",
-      "qualityScore": 3.1
-    },
-    {
-      "url": "https://www.instagram.com/p/DADg1qPJNjT/",
-      "hook": "\u270aChange starts from us, and nobody preaches that message better than our Impact ",
-      "caption": "\u270aChange starts from us, and nobody preaches that message better than our Impact Department!\n\nApply now through the link in our bio!",
-      "type": "Video",
-      "likes": 119,
-      "comments": 10,
-      "views": 914,
-      "er": 4.74,
-      "pillar": "Announcements & CTAs",
-      "date": "2024-09-18",
-      "qualityScore": 4.2
-    },
-    {
-      "url": "https://www.instagram.com/p/DADgR72p7a7/",
-      "hook": "\ud83d\udc6a We wouldn't call Ennova a family if it wasn't for these guys - meet the HR dep",
-      "caption": "\ud83d\udc6a We wouldn't call Ennova a family if it wasn't for these guys - meet the HR department!\n\nApply now through the link in our bio!",
-      "type": "Video",
-      "likes": 83,
-      "comments": 11,
-      "views": 834,
-      "er": 3.46,
-      "pillar": "Community & Culture",
-      "date": "2024-09-18",
-      "qualityScore": 3.9
-    },
-    {
-      "url": "https://www.instagram.com/p/C_-rSBBJMcb/",
-      "hook": "\ud83c\udfc6 Dreaming of working for your favorite sports team? Meet the Sports department ",
-      "caption": "\ud83c\udfc6 Dreaming of working for your favorite sports team? Meet the Sports department - your best shot at your dream!\n\nApply now through the link in our bio!",
-      "type": "Video",
-      "likes": 51,
-      "comments": 7,
-      "views": 528,
-      "er": 2.13,
-      "pillar": "Community & Culture",
-      "date": "2024-09-16",
-      "qualityScore": 3.6
-    },
-    {
-      "url": "https://www.instagram.com/p/C_-p-ZoJ5rv/",
-      "hook": "\ud83e\udde9 Rearranging the pieces of our events into intriguing stories - get to know our",
-      "caption": "\ud83e\udde9 Rearranging the pieces of our events into intriguing stories - get to know our Marketing department!\n\nApply now through the link in our bio!",
-      "type": "Video",
-      "likes": 117,
-      "comments": 9,
-      "views": 1282,
-      "er": 4.63,
-      "pillar": "Events & Experiences",
-      "date": "2024-09-16",
-      "qualityScore": 4.2
-    },
-    {
-      "url": "https://www.instagram.com/p/C_-pO_1J6FQ/",
-      "hook": "\ud83d\udcca The student-led consultancy within our ranks - meet our Consulting department!",
-      "caption": "\ud83d\udcca The student-led consultancy within our ranks - meet our Consulting department!\n\nApply now through the link in our bio!",
-      "type": "Video",
-      "likes": 57,
-      "comments": 7,
-      "views": 603,
-      "er": 2.35,
-      "pillar": "Community & Culture",
-      "date": "2024-09-16",
-      "qualityScore": 3.2
-    },
-    {
-      "url": "https://www.instagram.com/p/C_-ovBOpZHQ/",
-      "hook": "\ud83d\udcb5 Crunching up the budget numbers and securing important collaborations - meet t",
-      "caption": "\ud83d\udcb5 Crunching up the budget numbers and securing important collaborations - meet the Finance and Partnerships department!\n\nApply now through the link in our bio!",
-      "type": "Video",
-      "likes": 58,
-      "comments": 6,
-      "views": 505,
-      "er": 2.35,
-      "pillar": "Community & Culture",
-      "date": "2024-09-16",
-      "qualityScore": 3.2
-    },
-    {
-      "url": "https://www.instagram.com/p/C_-n_i6pwYC/",
-      "hook": "\ud83d\ude80 With IdeaUp around the corner, meet the team working hard behind the scenes - ",
-      "caption": "\ud83d\ude80 With IdeaUp around the corner, meet the team working hard behind the scenes - our Ventures department!\n\nApply now through the link in our bio! Applications close September 27.",
-      "type": "Video",
-      "likes": 180,
-      "comments": 10,
-      "views": 1054,
-      "er": 6.99,
-      "pillar": "Community & Culture",
-      "date": "2024-09-16",
-      "qualityScore": 5.1
-    },
-    {
-      "url": "https://www.instagram.com/p/C_ybxdLOA1m/",
-      "hook": "So\u2026. What is the first thing that comes to your mind when you hear Deloitte? \ud83d\udd1d\ud83d\ude80\ud83d\udcdd",
-      "caption": "So\u2026. What is the first thing that comes to your mind when you hear Deloitte? \ud83d\udd1d\ud83d\ude80\ud83d\udcdd \n\n\ud83c\udf9f\ufe0f Don\u2019t forget to sign up NOW in our bio!!",
-      "type": "Video",
-      "likes": 88,
-      "comments": 10,
-      "views": 1112,
-      "er": 3.6,
-      "pillar": "Announcements & CTAs",
-      "date": "2024-09-11",
-      "qualityScore": 4.4
+      "qualityScore": 3.3
     }
   ],
-  "lastUpdated": "2026-04-17"
+  "lastUpdated": "2026-11-09"
 }

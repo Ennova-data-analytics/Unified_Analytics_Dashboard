@@ -5,7 +5,7 @@ Stripe/Linear-grade design. All insights computed from real data.
 """
 import json, os
 
-BASE = "/Users/jignesh/Desktop/Ennova/Social media dashboard"
+BASE = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(BASE, "dashboard_data.json")) as f:
     D = json.load(f)
 

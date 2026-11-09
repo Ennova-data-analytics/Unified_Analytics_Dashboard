@@ -1,186 +1,167 @@
 {
-  "generatedBy": "Claude AI analysis of 220 scraped Instagram posts",
-  "generatedDate": "2026-04-17",
-  "dataSource": "Apify instagram-scraper via REST API",
-
-  "executiveSummary": "Ennova sits at 2,720 followers with a 2.1% overall engagement rate across 220 analysed posts (Sep 2024 to Apr 2026). The account has clear strengths in community and educational content, particularly reels over 30 seconds. However, posting frequency is volatile (32 posts in Feb 2026, then 14 in March, 13 so far in April) and the bottom quartile is dominated by urgency based announcement posts with under 0.5% ER, dragging the average down. The opportunity is to shift the content mix away from low performing announcements and toward community, educational, and longer form reels where engagement consistently doubles.",
-
+  "generatedBy": "Claude AI analysis of 221 scraped Instagram posts and reels",
+  "generatedDate": "2026-11-09",
+  "dataSource": "Apify instagram-scraper (posts, reels, profile) scraped 9 Nov 2026",
+  "executiveSummary": "Ennova now has 3,106 followers, up 386 (+14.2%) from 2,720 in mid April 2026. Across 221 analysed posts (Sep 2024 to 6 Nov 2026) the average engagement rate is 1.73%. That is lower than the 2.1% shown in April, but about two thirds of that gap comes from dividing by a bigger follower base rather than from weaker posts. The autumn 2026 push (37 posts, 1 Sep to 6 Nov) averages 1.88% ER, below the same window last year (49 posts, 2.23%), although the newest posts are still collecting likes. Reels and team showcase content still win clearly, while urgency announcements, sponsor posts and short carousels drag the average down. The biggest weakness is consistency: one post in May 2026 and none from June to August.",
   "whatsWorking": [
     {
-      "finding": "Community and Culture content is the top performing pillar",
-      "evidence": "31 posts averaging 2.66% ER, 66.7 likes, 5.7 comments. Best in every metric.",
-      "dataPoint": "2.66% ER vs 2.1% account average (27% above average)",
+      "finding": "Reels remain the strongest format by a wide margin",
+      "evidence": "100 reels average 2.22% ER and 63.1 likes, vs 94 carousels at 1.41% and 27 images at 1.05%. The same holds this autumn: 16 reels since September average 2.22% ER vs 1.65% for 18 carousels.",
+      "dataPoint": "Reels 2.22% ER vs images 1.05% (more than double)",
       "confidence": "high"
     },
     {
-      "finding": "Reels significantly outperform static images and carousels",
-      "evidence": "100 reels at 2.6% ER vs 26 images at 1.4% ER and 94 carousels at 1.77% ER.",
-      "dataPoint": "Reels deliver 86% more engagement than static images",
+      "finding": "Meet the team reels are the most reliable winners",
+      "evidence": "22 posts with a 'Meet' hook average 2.79% ER and 80.7 likes, or 2.36% excluding the 11.82% #MeetTheAssociation outlier. The 7 'Meet the team / department' style reels average about 2.69%. This autumn, 'Meet the team behind the numbers' (3.28%) and 'Meet the team behind the impact' (2.77%) were among the best recruitment posts.",
+      "dataPoint": "'Meet' hooks 61% above the 1.73% average (36% excluding the #MeetTheAssociation outlier)",
+      "confidence": "high for team and department reels; speaker announcements with a 'Meet' hook have scored around 1% and do not share this effect"
+    },
+    {
+      "finding": "Community and Culture is still the top content pillar",
+      "evidence": "29 posts averaging 2.17% ER, 62.2 likes and 5.3 comments, the best pillar on every metric that has a meaningful sample.",
+      "dataPoint": "2.17% ER vs 1.73% account average (25% above)",
       "confidence": "high"
     },
     {
-      "finding": "Longer reels (60s+) perform best among all content formats",
-      "evidence": "12 reels over 60 seconds average 3.07% ER and 2,053 views. 30 to 60 second reels also strong at 2.91% ER, 941 views.",
-      "dataPoint": "60s+ reels: 3.07% ER, 2,053 avg views (vs 980 overall reel average)",
-      "confidence": "medium (n=12 for 60s+ bucket, decent but not large)"
+      "finding": "Cause driven events and the Female Founders Night teaser got the best response this autumn",
+      "evidence": "'5K on the beach for a cause that matters!' (Ennova x Oikos) reached 4.73% ER with 137 likes and 10 comments, the best post since April. The Female Founders Night teaser 'We gave them ONE word' reached 4.02% ER with 18 comments, the most comments of any new post.",
+      "dataPoint": "Top 2 new posts: 4.73% and 4.02% ER vs 1.88% autumn average",
+      "confidence": "medium (two standout posts; the other PACED 5K posts averaged lower, so this is post specific rather than a whole category)"
     },
     {
-      "finding": "Longer captions drive higher engagement",
-      "evidence": "60+ word captions average 2.76% ER (22 posts) vs under 20 words at 1.76% (91 posts). Medium length (20 to 60 words) sits at 2.26%.",
-      "dataPoint": "57% higher ER for long captions vs short captions",
-      "confidence": "high"
+      "finding": "Longer reels hold attention and reach",
+      "evidence": "30 to 60 second reels average 2.42% ER (43 reels) and 60s+ reels 2.60% (6 reels), vs 1.80% for reels under 15 seconds (24 reels).",
+      "dataPoint": "30s+ reels beat sub 15s reels by about 35 to 45% on ER",
+      "confidence": "medium (60s+ bucket is only 6 reels and its view average is inflated by one 57,911 view reel)"
     },
     {
-      "finding": "Identity and team showcase hooks dominate the top 10",
-      "evidence": "Top posts include: 'Meet the team working hard behind the scenes', 'The faces driving ENTREPENEURSHIP at Esade. Meet Ennova', 'Meet Our Team! The Sports Department is recruiting'. 5 of the top 20 posts use identity framing.",
-      "dataPoint": "Identity hook posts average 5.1% ER across the top 20",
-      "confidence": "high"
+      "finding": "Monday and mid afternoon remain the best posting slots",
+      "evidence": "32 Monday posts average 2.13% ER, the best day. Posts at 15:00 UTC (16:00 to 17:00 Barcelona time depending on the season) average 2.86% ER across 16 posts, and 20:00 UTC posts average 2.53% across 10.",
+      "dataPoint": "Monday 2.13% vs Sunday 1.48% (worst day); 15:00 UTC 2.86% vs 14:00 UTC 1.19%",
+      "confidence": "medium (the hour buckets cited have 10 to 19 posts each)"
     },
     {
-      "finding": "Monday is the strongest posting day",
-      "evidence": "37 posts on Mondays average 2.56% ER, the highest of any day. Saturday and Sunday also perform well (2.33% and 2.27%) but with smaller sample sizes (19 and 17 posts).",
-      "dataPoint": "Monday 2.56% ER vs Friday 1.81% ER (worst day)",
-      "confidence": "high"
-    },
-    {
-      "finding": "Evening posts (8pm UTC) hit the highest engagement",
-      "evidence": "Posts at 20:00 UTC average 3.23% ER (13 posts). 15:00 UTC also strong at 3.21% (13 posts). These translate to roughly 10pm and 5pm CET.",
-      "dataPoint": "3.23% ER at 20:00 UTC vs 1.32% at 14:00 UTC",
-      "confidence": "medium (13 posts per slot is adequate but not definitive)"
-    },
-    {
-      "finding": "Spanish language hooks resonate strongly",
-      "evidence": "The post 'Quieres saber lo que buscan los inversores de venture capital' reached 5.07% ER. 'Error comun en emprendimiento: no saber cuando parar' hit 4.3% ER.",
-      "dataPoint": "Spanish hook posts in top 20 average 4.69% ER",
-      "confidence": "medium (small sample of bilingual posts, but consistently above average)"
+      "finding": "Follower growth is strong despite the summer gap",
+      "evidence": "Followers went from 2,720 (16 Apr 2026 scrape) to 3,106 (9 Nov 2026 scrape). Growth continued even though the account barely posted from May to August.",
+      "dataPoint": "+386 followers, +14.2% in under 7 months",
+      "confidence": "high (two direct profile scrapes)"
     }
   ],
-
   "whatsNotWorking": [
     {
-      "finding": "Urgency and scarcity based announcements consistently underperform",
-      "evidence": "The bottom 8 posts are dominated by 'Last call', 'Limited Spots', '2 DAYS LEFT', 'Last chance'. All under 0.5% ER.",
-      "dataPoint": "Bottom 8 posts average 0.38% ER, all using urgency language",
+      "finding": "Urgency and scarcity announcements keep underperforming",
+      "evidence": "18 posts using 'last call', 'last chance', 'days left', 'day left', 'limited spots', 'close in' or 'closes' language average 1.16% ER and 33.7 likes. Several of the weakest posts overall use this framing ('Limited Spots, one week left!' 0.16%, 'Last call!' 0.35%).",
+      "dataPoint": "Urgency posts 1.16% ER vs 1.73% average (33% below)",
       "confidence": "high"
     },
     {
-      "finding": "Static images are the weakest format",
-      "evidence": "26 image posts average just 1.4% ER and 36.6 likes. They get 1.6 comments on average, the lowest engagement of any format.",
-      "dataPoint": "Images: 1.4% ER vs Reels: 2.6% ER (46% less)",
+      "finding": "Static images and short carousels are the weakest formats",
+      "evidence": "27 images average 1.05% ER. Three slide carousels average 0.92% ER across 19 posts and two slide carousels 1.13% across 12.",
+      "dataPoint": "3 slide carousels 0.92% ER, the worst carousel length with a real sample",
       "confidence": "high"
     },
     {
-      "finding": "Entrepreneurship pillar underperforms despite being a core brand pillar",
-      "evidence": "12 posts averaging 1.63% ER and 40.6 likes. This is the worst performing content pillar. Only 5.5% of the content mix.",
-      "dataPoint": "Entrepreneurship: 1.63% ER (22% below account average)",
-      "confidence": "medium (n=12, small sample but consistent underperformance)"
-    },
-    {
-      "finding": "Short captions under 20 words hurt engagement",
-      "evidence": "91 posts (41%) have short captions at 1.76% ER. That is 41% of all content performing below average.",
-      "dataPoint": "1.76% ER for short vs 2.76% for long (57% gap)",
+      "finding": "Posting stopped almost completely over the summer",
+      "evidence": "April 2026 had 14 posts, May 2026 had 1, and June, July and August 2026 had none. The same thing happened in 2025 (3 posts in May, none in June and July, 1 in August).",
+      "dataPoint": "Four months with 0 or 1 posts in 2026; the pattern repeats every summer",
       "confidence": "high"
     },
     {
-      "finding": "Posting frequency is unstable and drops during exam and holiday periods",
-      "evidence": "May 2025 had only 3 posts. June and July 2025 had zero. December 2025 had just 2. Then Feb 2026 spiked to 32.",
-      "dataPoint": "Range: 0 to 32 posts per month (high volatility)",
+      "finding": "Sponsor, teaser and reminder posts get almost no engagement",
+      "evidence": "This autumn's weakest posts were the partner renewal image in Spanish (0.61%), 'Shoutout to the brands making PACED possible' (0.71%), the 'Got an idea? Your chance is coming soon' teaser (0.71%) and the 'Wanna be the next CEO?' application reminder (0.74%).",
+      "dataPoint": "Bottom 4 new posts all under 0.75% ER",
       "confidence": "high"
     },
     {
-      "finding": "Friday is the worst day to post",
-      "evidence": "30 Friday posts average 1.81% ER, the lowest of any weekday. Thursday is also weak at 1.86%.",
-      "dataPoint": "Friday 1.81% vs Monday 2.56% (29% lower)",
-      "confidence": "high"
+      "finding": "Question hooks underperformed this autumn",
+      "evidence": "9 new posts that open with a question average 1.51% ER vs 2.00% for the 28 that do not. Across the full history the effect is slightly positive (44 question hooks at 1.84% vs 1.71%), so the recent questions may simply have been weak ones ('Wanna be the next CEO?', 'Got an idea?').",
+      "dataPoint": "New question hooks 1.51% vs 2.00% ER",
+      "confidence": "low (small sample, contradicts the longer term trend)"
     },
     {
-      "finding": "2 to 3 slide carousels get low engagement",
-      "evidence": "10 two slide carousels average 1.33% ER. 18 three slide carousels average just 0.96% ER, the worst of any carousel length.",
-      "dataPoint": "3 slide carousels: 0.96% ER (54% below account average)",
-      "confidence": "high"
+      "finding": "Career and Opportunities is now the weakest pillar",
+      "evidence": "17 posts averaging 1.52% ER and 43.8 likes. Entrepreneurship sits just above at 1.55%, despite being Ennova's core mission.",
+      "dataPoint": "Career & Opportunities 1.52% ER (12% below average)",
+      "confidence": "medium (n=17)"
     }
   ],
-
   "opportunities": [
     {
-      "opportunity": "Shift 50% of announcement posts to reel format with value first hooks",
-      "reasoning": "Announcements make up 18.2% of content but average only 1.8% ER. The top performing announcement ('They succeeded. Now it is your turn.' at 5.15% ER) used an aspirational hook, not urgency. Converting event announcements into 30 to 60 second teaser reels with storytelling hooks instead of 'Register now' could lift this pillar by 40%+ based on the reel ER advantage.",
-      "expectedImpact": "Estimated lift of 0.3 to 0.5 percentage points on overall ER if half of announcements move to reels",
+      "opportunity": "Turn team, founder and finalist content into short Meet reels",
+      "reasoning": "Team and department reels average about 2.69% ER and startup finalist reels scored 2.0 to 2.35%, well above the 1.73% average. Speaker announcements are different: even with a 'Meet' hook they have scored around 1%, so test a speaker reel built around one strong soundbite before rolling it out.",
+      "expectedImpact": "Event and recruitment posts moving from roughly 1.7% ER toward the 2.5% range seen for team reels",
       "effort": "medium"
     },
     {
-      "opportunity": "Double down on 30 to 60 second reels as the primary format",
-      "reasoning": "30 to 60s reels hit 2.91% ER with 941 avg views across 43 posts. This is the largest high performing bucket. 60s+ reels are even stronger (3.07% ER) but with only 12 posts. Targeting 60% reels in the content mix (up from current 45%) with emphasis on the 30 to 60s range would raise the floor.",
-      "expectedImpact": "Estimated 0.2 to 0.4 point ER lift if reel share moves from 45% to 60%",
+      "opportunity": "Plan a light summer posting schedule before exams start",
+      "reasoning": "Posting dropped to 0 to 3 posts a month from May to August 2025 and to 0 or 1 a month from May to August 2026. Batching 8 to 10 reels in April (event recaps, alumni stories, founder tips) and scheduling them through summer keeps the account alive for incoming students who look it up before September.",
+      "expectedImpact": "Removes a 3 to 4 month dead zone every year and gives recruitment a warmer audience in September",
       "effort": "low"
     },
     {
-      "opportunity": "Build a minimum caption length rule of 20+ words",
-      "reasoning": "91 posts (41%) have under 20 word captions at 1.76% ER. The data clearly shows longer captions perform better. Even just crossing the 20 word threshold adds 0.5 points of ER. This is the easiest win: it costs zero extra production time.",
-      "expectedImpact": "Could lift overall ER by 0.15 to 0.2 points if short captions are eliminated",
+      "opportunity": "Replace urgency posts with value framed reminders",
+      "reasoning": "Urgency posts average 1.16% ER. A deadline reminder framed around what applicants get (past winners, prizes, what the jury looks for) keeps the deadline information but uses the formats that work.",
+      "expectedImpact": "Lifts reminder posts from about 1.2% toward the 1.7% account average",
       "effort": "low"
     },
     {
-      "opportunity": "Post more bilingual (Spanish and English) content",
-      "reasoning": "ESADE is in Barcelona with a mixed Spanish and international student body. The few Spanish language hooks in the dataset outperform English only hooks. Bilingual carousels or reels with Spanish text overlays and English captions could capture both audiences.",
-      "expectedImpact": "Moderate, likely 10 to 20% ER boost on bilingual posts based on existing pattern",
-      "effort": "low"
-    },
-    {
-      "opportunity": "Fix the entrepreneurship content pillar with stronger hooks and longer formats",
-      "reasoning": "Entrepreneurship is core to Ennova's brand ('Inspiring the next wave of innovators') yet it is the worst performing pillar at 1.63% ER and only 5.5% of content. The myth buster hook 'This is the #1 misconception people have' (5.55% ER) shows the path: contrarian or surprising angles on entrepreneurship, delivered as reels, not static carousel tips.",
-      "expectedImpact": "Could lift the pillar from 1.63% to 2.5%+ if reformatted as reels with strong hooks",
+      "opportunity": "Do more cause driven and co hosted events with other associations",
+      "reasoning": "The Ennova x Oikos 5K was the best new post (4.73% ER) and partnership reels like the Conector partner reel are the most viewed reel in the dataset (57,911 views). Co hosted content reaches both audiences.",
+      "expectedImpact": "Wider reach through collab posts; produced the best single new post this autumn",
       "effort": "medium"
     },
     {
-      "opportunity": "Consolidate posting to Monday, Wednesday, and Saturday evenings",
-      "reasoning": "Monday (2.56%), Wednesday (2.15%), and Saturday (2.33%) are the three strongest posting days. Evening slots at 8pm and 3pm UTC (10pm and 5pm CET) are the top hours. Focusing 3 posts per week on these optimal slots instead of spreading thin across 7 days would maximise each post's reach.",
-      "expectedImpact": "10 to 15% ER improvement by aligning posting schedule with proven timing windows",
+      "opportunity": "Fold sponsor thank yous into recap reels",
+      "reasoning": "Standalone sponsor and logistics posts sit under 0.75% ER. Thanking sponsors inside a recap reel of the event keeps the partner visibility without spending a feed slot on a low performing post.",
+      "expectedImpact": "Fewer posts under 1% ER and more value per post for sponsors",
+      "effort": "low"
+    },
+    {
+      "opportunity": "Move carousels to 4+ slides or turn them into reels",
+      "reasoning": "2 and 3 slide carousels average 1.13% and 0.92% ER. 7 slide carousels average 1.70% (9 posts). If content only fills 2 to 3 slides, a short reel is the better format.",
+      "expectedImpact": "Removes the weakest carousel lengths from the mix",
       "effort": "low"
     }
   ],
-
   "nextPosts": [
     {
-      "idea": "Behind the scenes reel showing what the IdeaUp Final Gala preparation actually looks like",
+      "idea": "Recap reel of the Conference on the futures of AI (10 Nov, Sant Cugat)",
       "format": "reel",
-      "reasoning": "The 'Coming soon' teaser from March 23 got 28 likes (1.03% ER). A 45 second behind the scenes reel showing the team setting up, rehearsing, and reacting to challenges would leverage the Community and Culture pillar (2.66% ER) and the 30 to 60s reel format (2.91% ER). Top post 'Meet the team working hard behind the scenes' hit 6.99% ER with this exact format.",
-      "suggestedHook": "180 days of work. This is what the final 48 hours look like."
+      "reasoning": "The conference teasers averaged only about 1.6% ER, below the account average, so the recap is a chance to lift event content. A 30 to 60 second recap with speaker soundbites uses the best reel length bucket (2.42% ER for 30 to 60s) instead of another announcement post.",
+      "suggestedHook": "We asked 5 speakers one question about AI. Here is what they said."
     },
     {
-      "idea": "Myth buster reel about what VCs actually look at in a student pitch",
+      "idea": "PACED 5K results and impact reel with Oikos",
       "format": "reel",
-      "reasoning": "The myth buster format 'This is the #1 misconception people have' hit 5.55% ER. VC101 content has performed well historically (8.6% ER on the VC101 announcement carousel). Combining the myth buster hook with the VC topic and delivering as a 30 to 45 second reel maximises two proven patterns.",
-      "suggestedHook": "Investors check these 5 things before they even read your deck."
+      "reasoning": "The 5K announcement was the best new post (4.73% ER). Closing the loop with the amount raised, runners and photos from the day rewards that audience and works as a collab post with Oikos. Thank the sponsors inside this reel rather than in a separate post.",
+      "suggestedHook": "You ran. Here is what it raised."
     },
     {
-      "idea": "Team introduction carousel of the new 2026/2027 board candidates or incoming members",
-      "format": "carousel",
-      "reasoning": "The team reveal post 'INNOVATION starts here, with US. The faces driving ENTREPENEURSHIP at Esade. Meet Ennova' hit 5.44% ER as just a single image. A proper 7 to 9 slide carousel (sweet spot at 2.67% and higher ER respectively) with individual member spotlights would combine identity hooks with the optimal carousel length.",
-      "suggestedHook": "Meet the people building Ennova's next chapter."
+      "idea": "Meet the IdeaUp 26/27 participants",
+      "format": "reel",
+      "reasoning": "IdeaUp applications closed on 6 November. Past IdeaUp finalist reels ('Meet HUG-U', 'Meet Cariboo') scored 2.0 to 2.35% ER and team reels about 2.69%. Introducing selected teams turns a programme announcement into identity content.",
+      "suggestedHook": "Meet the founders of IdeaUp 26/27."
     },
     {
-      "idea": "Quick recap reel of the top 3 moments from the most recent Ennova event",
+      "idea": "Meet the new 2026/27 team, one department per reel",
       "format": "reel",
-      "reasoning": "Events and Experiences is the largest pillar (59 posts, 26.8% of content) at 2.16% ER. The best events content uses recap and highlights framing rather than 'come to our event' announcements. A 30 second reel with the best 3 clips would avoid the urgency trap that kills the bottom posts.",
-      "suggestedHook": "3 things we did not expect to happen last week."
+      "reasoning": "The September department reels ('Meet the team behind the numbers' 3.28%, 'behind the impact' 2.77%) were the best recruitment content. Now that the new members are in, a follow up series shows the new faces and keeps that pattern going.",
+      "suggestedHook": "They applied in September. Meet the new faces of Ennova."
     },
     {
-      "idea": "Spanish language reel asking a provocative question about entrepreneurship at university",
+      "idea": "Founder lesson reel from Female Founders Night (14 Nov)",
       "format": "reel",
-      "reasoning": "Spanish hooks averaged 4.69% ER in the top 20. The entrepreneurship pillar (1.63% ER) needs reformatting. A 30 to 45 second reel in Spanish with English subtitles asking a contrarian question about startup culture at ESADE addresses both gaps simultaneously.",
-      "suggestedHook": "Emprender en la universidad? La mayoria lo hacen mal."
+      "reasoning": "The FFN teaser 'We gave them ONE word' was the second best new post (4.02% ER, 18 comments), so the audience is already engaged. Educational reels with a myth busting hook ('This is the #1 misconception people have' 4.86% ER) and Spanish hooks on VC and founder topics have historically been among the top performers. One sharp lesson from an FFN speaker gives Entrepreneurship content (currently 1.55% ER) a stronger format.",
+      "suggestedHook": "The best advice we heard at Female Founders Night, in 30 seconds."
     }
   ],
-
-  "strategicAdvice": "Ennova has a clear engagement formula that the data confirms: community content plus identity hooks plus reels over 30 seconds plus longer captions equals above average engagement. The problem is not a lack of good content, it is that nearly 40% of posts fall into the low engagement patterns (short caption images, urgency announcements, under 20 word captions). The strategic move is editorial discipline: institute a minimum caption length (20+ words), default to reels over images, replace 'Last call' urgency posts with value framing, and aim for 3 strong posts per week instead of erratic bursts. The February 2026 spike to 32 posts suggests capacity exists but is being spent on low quality filler. Redirecting that energy into fewer, longer, richer posts would lift both ER and follower growth. One thing to investigate that the data cannot answer: what is driving the follower count (2,720)? If most follows come from the September association fair and recruiting season, then the account should plan its highest quality content for September and October, not spread evenly across the year.",
-
+  "strategicAdvice": "The formula from April still holds: reels, team first hooks ('Meet the team behind…'), community content and standout cause posts beat everything else, while urgency reminders, standalone sponsor posts, static images and short carousels sit at the bottom. Followers grew 14.2% since April, but autumn 2026 engagement is somewhat below the same window last year (1.88% vs 2.23%), and more than half of this autumn's posts (21 of 37) were carousels or images, which underperform reels by a wide margin. Ennova should default to reels for anything event related, merge thank yous and reminders into stronger posts, and pre schedule a light summer pipeline in April so the account is warm when recruitment opens in September. Aim for 3 strong posts a week rather than bursts.",
   "warnings": [
-    "The 9 slide carousel bucket shows 10.07% ER but contains only 2 posts. This is a small sample outlier and should not be treated as a target format.",
-    "No save, share, or reach data is available through the public Instagram API. Engagement rate is calculated from likes plus comments only, which underweights content that gets saved or shared.",
-    "View counts are only available for video and reel posts, not images or carousels. Cross format view comparisons are not possible.",
-    "The dataset covers 220 posts from September 2024 to April 2026 with significant gaps (June and July 2025 have zero posts). Seasonal patterns should be interpreted carefully.",
-    "Posts from May to August 2025 are severely underrepresented (4 total), so summer engagement patterns cannot be reliably assessed.",
-    "The hour statistics are in UTC. ESADE is in the CET/CEST timezone (UTC+1 or UTC+2 depending on season), so the 20:00 UTC peak translates to 10pm CET in winter or 10pm CEST in summer."
+    "Engagement rate is calculated as (likes + comments) / current followers (3,106). Older posts were published to a smaller audience, so their ER is understated compared with when they went live. This is why the account average dropped from 2.1% in the April version to 1.73% now; about two thirds of that drop is this methodology effect, and the rest reflects somewhat lower recent engagement.",
+    "The 9 slide carousel bucket shows 11.82% ER but contains only 1 post (the #MeetTheAssociation feature). It is an outlier, not a target format.",
+    "The 60s+ reel bucket has only 6 reels, and its 12,249 average views are driven by one reel with 57,911 views.",
+    "Views and likes on posts from the last 1 to 2 weeks are still accumulating, so the newest posts look slightly weaker than they will end up.",
+    "A few posts show 0 likes, likely because like counts were hidden or not returned by the scraper. They pull some averages down slightly.",
+    "This scrape covers the latest 200 feed posts plus 100 reels (221 unique items). Posts older than late September 2024 are not included."
   ]
 }
