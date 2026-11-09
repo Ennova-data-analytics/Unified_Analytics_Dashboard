@@ -747,6 +747,6 @@ document.getElementById('mdl').addEventListener('click',e=>{if(e.target===e.curr
 </body>
 </html>'''
 
-with open(os.path.join(BASE, "dashboard.html"), "w") as f:
+with open(os.path.join(BASE, "index.html"), "w") as f:
     f.write(html)
 print(f"Dashboard v3 built: {len(html):,} chars")
