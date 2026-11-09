@@ -1,0 +1,5 @@
+# Only the static dashboard is served. Keep pipeline scripts and raw scraped data out of the deployment.
+*.py
+*.json
+!vercel.json
+*.md

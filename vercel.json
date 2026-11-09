@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": null,
+  "installCommand": null,
+  "outputDirectory": null,
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/dashboard", "destination": "/", "permanent": true },
+    { "source": "/social_media_dashboard", "destination": "/", "permanent": false },
+    { "source": "/social_media_dashboard/:path*", "destination": "/", "permanent": false }
+  ]
+}

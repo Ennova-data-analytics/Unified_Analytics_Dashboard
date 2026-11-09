@@ -1,9 +1,0 @@
-# Python dependencies for the ETL pipeline
-# Install with: pip install -r requirements.txt
-
-google-analytics-data>=0.18.0
-psycopg2-binary>=2.9.0
-python-dotenv>=1.0.0
-streamlit>=1.30.0
-plotly>=5.18.0
-pandas>=2.1.0
