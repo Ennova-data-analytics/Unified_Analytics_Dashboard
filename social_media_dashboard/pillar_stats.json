@@ -1,0 +1,42 @@
+[
+  {
+    "pillar": "Community & Culture",
+    "count": 29,
+    "avgER": 2.17
+  },
+  {
+    "pillar": "Partnerships",
+    "count": 2,
+    "avgER": 1.78
+  },
+  {
+    "pillar": "Education & Insights",
+    "count": 25,
+    "avgER": 1.75
+  },
+  {
+    "pillar": "Events & Experiences",
+    "count": 63,
+    "avgER": 1.71
+  },
+  {
+    "pillar": "Brand & General",
+    "count": 23,
+    "avgER": 1.71
+  },
+  {
+    "pillar": "Announcements & CTAs",
+    "count": 45,
+    "avgER": 1.64
+  },
+  {
+    "pillar": "Entrepreneurship",
+    "count": 17,
+    "avgER": 1.55
+  },
+  {
+    "pillar": "Career & Opportunities",
+    "count": 17,
+    "avgER": 1.52
+  }
+]

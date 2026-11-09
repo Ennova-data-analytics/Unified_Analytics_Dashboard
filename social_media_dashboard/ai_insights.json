@@ -1,0 +1,167 @@
+{
+  "generatedBy": "Claude AI analysis of 221 scraped Instagram posts and reels",
+  "generatedDate": "2026-11-09",
+  "dataSource": "Apify instagram-scraper (posts, reels, profile) scraped 9 Nov 2026",
+  "executiveSummary": "Ennova now has 3,106 followers, up 386 (+14.2%) from 2,720 in mid April 2026. Across 221 analysed posts (Sep 2024 to 6 Nov 2026) the average engagement rate is 1.73%. That is lower than the 2.1% shown in April, but about two thirds of that gap comes from dividing by a bigger follower base rather than from weaker posts. The autumn 2026 push (37 posts, 1 Sep to 6 Nov) averages 1.88% ER, below the same window last year (49 posts, 2.23%), although the newest posts are still collecting likes. Reels and team showcase content still win clearly, while urgency announcements, sponsor posts and short carousels drag the average down. The biggest weakness is consistency: one post in May 2026 and none from June to August.",
+  "whatsWorking": [
+    {
+      "finding": "Reels remain the strongest format by a wide margin",
+      "evidence": "100 reels average 2.22% ER and 63.1 likes, vs 94 carousels at 1.41% and 27 images at 1.05%. The same holds this autumn: 16 reels since September average 2.22% ER vs 1.65% for 18 carousels.",
+      "dataPoint": "Reels 2.22% ER vs images 1.05% (more than double)",
+      "confidence": "high"
+    },
+    {
+      "finding": "Meet the team reels are the most reliable winners",
+      "evidence": "22 posts with a 'Meet' hook average 2.79% ER and 80.7 likes, or 2.36% excluding the 11.82% #MeetTheAssociation outlier. The 7 'Meet the team / department' style reels average about 2.69%. This autumn, 'Meet the team behind the numbers' (3.28%) and 'Meet the team behind the impact' (2.77%) were among the best recruitment posts.",
+      "dataPoint": "'Meet' hooks 61% above the 1.73% average (36% excluding the #MeetTheAssociation outlier)",
+      "confidence": "high for team and department reels; speaker announcements with a 'Meet' hook have scored around 1% and do not share this effect"
+    },
+    {
+      "finding": "Community and Culture is still the top content pillar",
+      "evidence": "29 posts averaging 2.17% ER, 62.2 likes and 5.3 comments, the best pillar on every metric that has a meaningful sample.",
+      "dataPoint": "2.17% ER vs 1.73% account average (25% above)",
+      "confidence": "high"
+    },
+    {
+      "finding": "Cause driven events and the Female Founders Night teaser got the best response this autumn",
+      "evidence": "'5K on the beach for a cause that matters!' (Ennova x Oikos) reached 4.73% ER with 137 likes and 10 comments, the best post since April. The Female Founders Night teaser 'We gave them ONE word' reached 4.02% ER with 18 comments, the most comments of any new post.",
+      "dataPoint": "Top 2 new posts: 4.73% and 4.02% ER vs 1.88% autumn average",
+      "confidence": "medium (two standout posts; the other PACED 5K posts averaged lower, so this is post specific rather than a whole category)"
+    },
+    {
+      "finding": "Longer reels hold attention and reach",
+      "evidence": "30 to 60 second reels average 2.42% ER (43 reels) and 60s+ reels 2.60% (6 reels), vs 1.80% for reels under 15 seconds (24 reels).",
+      "dataPoint": "30s+ reels beat sub 15s reels by about 35 to 45% on ER",
+      "confidence": "medium (60s+ bucket is only 6 reels and its view average is inflated by one 57,911 view reel)"
+    },
+    {
+      "finding": "Monday and mid afternoon remain the best posting slots",
+      "evidence": "32 Monday posts average 2.13% ER, the best day. Posts at 15:00 UTC (16:00 to 17:00 Barcelona time depending on the season) average 2.86% ER across 16 posts, and 20:00 UTC posts average 2.53% across 10.",
+      "dataPoint": "Monday 2.13% vs Sunday 1.48% (worst day); 15:00 UTC 2.86% vs 14:00 UTC 1.19%",
+      "confidence": "medium (the hour buckets cited have 10 to 19 posts each)"
+    },
+    {
+      "finding": "Follower growth is strong despite the summer gap",
+      "evidence": "Followers went from 2,720 (16 Apr 2026 scrape) to 3,106 (9 Nov 2026 scrape). Growth continued even though the account barely posted from May to August.",
+      "dataPoint": "+386 followers, +14.2% in under 7 months",
+      "confidence": "high (two direct profile scrapes)"
+    }
+  ],
+  "whatsNotWorking": [
+    {
+      "finding": "Urgency and scarcity announcements keep underperforming",
+      "evidence": "18 posts using 'last call', 'last chance', 'days left', 'day left', 'limited spots', 'close in' or 'closes' language average 1.16% ER and 33.7 likes. Several of the weakest posts overall use this framing ('Limited Spots, one week left!' 0.16%, 'Last call!' 0.35%).",
+      "dataPoint": "Urgency posts 1.16% ER vs 1.73% average (33% below)",
+      "confidence": "high"
+    },
+    {
+      "finding": "Static images and short carousels are the weakest formats",
+      "evidence": "27 images average 1.05% ER. Three slide carousels average 0.92% ER across 19 posts and two slide carousels 1.13% across 12.",
+      "dataPoint": "3 slide carousels 0.92% ER, the worst carousel length with a real sample",
+      "confidence": "high"
+    },
+    {
+      "finding": "Posting stopped almost completely over the summer",
+      "evidence": "April 2026 had 14 posts, May 2026 had 1, and June, July and August 2026 had none. The same thing happened in 2025 (3 posts in May, none in June and July, 1 in August).",
+      "dataPoint": "Four months with 0 or 1 posts in 2026; the pattern repeats every summer",
+      "confidence": "high"
+    },
+    {
+      "finding": "Sponsor, teaser and reminder posts get almost no engagement",
+      "evidence": "This autumn's weakest posts were the partner renewal image in Spanish (0.61%), 'Shoutout to the brands making PACED possible' (0.71%), the 'Got an idea? Your chance is coming soon' teaser (0.71%) and the 'Wanna be the next CEO?' application reminder (0.74%).",
+      "dataPoint": "Bottom 4 new posts all under 0.75% ER",
+      "confidence": "high"
+    },
+    {
+      "finding": "Question hooks underperformed this autumn",
+      "evidence": "9 new posts that open with a question average 1.51% ER vs 2.00% for the 28 that do not. Across the full history the effect is slightly positive (44 question hooks at 1.84% vs 1.71%), so the recent questions may simply have been weak ones ('Wanna be the next CEO?', 'Got an idea?').",
+      "dataPoint": "New question hooks 1.51% vs 2.00% ER",
+      "confidence": "low (small sample, contradicts the longer term trend)"
+    },
+    {
+      "finding": "Career and Opportunities is now the weakest pillar",
+      "evidence": "17 posts averaging 1.52% ER and 43.8 likes. Entrepreneurship sits just above at 1.55%, despite being Ennova's core mission.",
+      "dataPoint": "Career & Opportunities 1.52% ER (12% below average)",
+      "confidence": "medium (n=17)"
+    }
+  ],
+  "opportunities": [
+    {
+      "opportunity": "Turn team, founder and finalist content into short Meet reels",
+      "reasoning": "Team and department reels average about 2.69% ER and startup finalist reels scored 2.0 to 2.35%, well above the 1.73% average. Speaker announcements are different: even with a 'Meet' hook they have scored around 1%, so test a speaker reel built around one strong soundbite before rolling it out.",
+      "expectedImpact": "Event and recruitment posts moving from roughly 1.7% ER toward the 2.5% range seen for team reels",
+      "effort": "medium"
+    },
+    {
+      "opportunity": "Plan a light summer posting schedule before exams start",
+      "reasoning": "Posting dropped to 0 to 3 posts a month from May to August 2025 and to 0 or 1 a month from May to August 2026. Batching 8 to 10 reels in April (event recaps, alumni stories, founder tips) and scheduling them through summer keeps the account alive for incoming students who look it up before September.",
+      "expectedImpact": "Removes a 3 to 4 month dead zone every year and gives recruitment a warmer audience in September",
+      "effort": "low"
+    },
+    {
+      "opportunity": "Replace urgency posts with value framed reminders",
+      "reasoning": "Urgency posts average 1.16% ER. A deadline reminder framed around what applicants get (past winners, prizes, what the jury looks for) keeps the deadline information but uses the formats that work.",
+      "expectedImpact": "Lifts reminder posts from about 1.2% toward the 1.7% account average",
+      "effort": "low"
+    },
+    {
+      "opportunity": "Do more cause driven and co hosted events with other associations",
+      "reasoning": "The Ennova x Oikos 5K was the best new post (4.73% ER) and partnership reels like the Conector partner reel are the most viewed reel in the dataset (57,911 views). Co hosted content reaches both audiences.",
+      "expectedImpact": "Wider reach through collab posts; produced the best single new post this autumn",
+      "effort": "medium"
+    },
+    {
+      "opportunity": "Fold sponsor thank yous into recap reels",
+      "reasoning": "Standalone sponsor and logistics posts sit under 0.75% ER. Thanking sponsors inside a recap reel of the event keeps the partner visibility without spending a feed slot on a low performing post.",
+      "expectedImpact": "Fewer posts under 1% ER and more value per post for sponsors",
+      "effort": "low"
+    },
+    {
+      "opportunity": "Move carousels to 4+ slides or turn them into reels",
+      "reasoning": "2 and 3 slide carousels average 1.13% and 0.92% ER. 7 slide carousels average 1.70% (9 posts). If content only fills 2 to 3 slides, a short reel is the better format.",
+      "expectedImpact": "Removes the weakest carousel lengths from the mix",
+      "effort": "low"
+    }
+  ],
+  "nextPosts": [
+    {
+      "idea": "Recap reel of the Conference on the futures of AI (10 Nov, Sant Cugat)",
+      "format": "reel",
+      "reasoning": "The conference teasers averaged only about 1.6% ER, below the account average, so the recap is a chance to lift event content. A 30 to 60 second recap with speaker soundbites uses the best reel length bucket (2.42% ER for 30 to 60s) instead of another announcement post.",
+      "suggestedHook": "We asked 5 speakers one question about AI. Here is what they said."
+    },
+    {
+      "idea": "PACED 5K results and impact reel with Oikos",
+      "format": "reel",
+      "reasoning": "The 5K announcement was the best new post (4.73% ER). Closing the loop with the amount raised, runners and photos from the day rewards that audience and works as a collab post with Oikos. Thank the sponsors inside this reel rather than in a separate post.",
+      "suggestedHook": "You ran. Here is what it raised."
+    },
+    {
+      "idea": "Meet the IdeaUp 26/27 participants",
+      "format": "reel",
+      "reasoning": "IdeaUp applications closed on 6 November. Past IdeaUp finalist reels ('Meet HUG-U', 'Meet Cariboo') scored 2.0 to 2.35% ER and team reels about 2.69%. Introducing selected teams turns a programme announcement into identity content.",
+      "suggestedHook": "Meet the founders of IdeaUp 26/27."
+    },
+    {
+      "idea": "Meet the new 2026/27 team, one department per reel",
+      "format": "reel",
+      "reasoning": "The September department reels ('Meet the team behind the numbers' 3.28%, 'behind the impact' 2.77%) were the best recruitment content. Now that the new members are in, a follow up series shows the new faces and keeps that pattern going.",
+      "suggestedHook": "They applied in September. Meet the new faces of Ennova."
+    },
+    {
+      "idea": "Founder lesson reel from Female Founders Night (14 Nov)",
+      "format": "reel",
+      "reasoning": "The FFN teaser 'We gave them ONE word' was the second best new post (4.02% ER, 18 comments), so the audience is already engaged. Educational reels with a myth busting hook ('This is the #1 misconception people have' 4.86% ER) and Spanish hooks on VC and founder topics have historically been among the top performers. One sharp lesson from an FFN speaker gives Entrepreneurship content (currently 1.55% ER) a stronger format.",
+      "suggestedHook": "The best advice we heard at Female Founders Night, in 30 seconds."
+    }
+  ],
+  "strategicAdvice": "The formula from April still holds: reels, team first hooks ('Meet the team behind…'), community content and standout cause posts beat everything else, while urgency reminders, standalone sponsor posts, static images and short carousels sit at the bottom. Followers grew 14.2% since April, but autumn 2026 engagement is somewhat below the same window last year (1.88% vs 2.23%), and more than half of this autumn's posts (21 of 37) were carousels or images, which underperform reels by a wide margin. Ennova should default to reels for anything event related, merge thank yous and reminders into stronger posts, and pre schedule a light summer pipeline in April so the account is warm when recruitment opens in September. Aim for 3 strong posts a week rather than bursts.",
+  "warnings": [
+    "Engagement rate is calculated as (likes + comments) / current followers (3,106). Older posts were published to a smaller audience, so their ER is understated compared with when they went live. This is why the account average dropped from 2.1% in the April version to 1.73% now; about two thirds of that drop is this methodology effect, and the rest reflects somewhat lower recent engagement.",
+    "The 9 slide carousel bucket shows 11.82% ER but contains only 1 post (the #MeetTheAssociation feature). It is an outlier, not a target format.",
+    "The 60s+ reel bucket has only 6 reels, and its 12,249 average views are driven by one reel with 57,911 views.",
+    "Views and likes on posts from the last 1 to 2 weeks are still accumulating, so the newest posts look slightly weaker than they will end up.",
+    "A few posts show 0 likes, likely because like counts were hidden or not returned by the scraper. They pull some averages down slightly.",
+    "This scrape covers the latest 200 feed posts plus 100 reels (221 unique items). Posts older than late September 2024 are not included."
+  ]
+}
